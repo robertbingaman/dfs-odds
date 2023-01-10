@@ -1,9 +1,9 @@
 # dfs-odds
 My final project for a Machine Learning course exploring if daily fantasy salary data can be exploited to identify profitable opportunities for sports gambling. This was not a comprehensive approach to the problem, rather a first investigation into it.  
 
-The Jupyter notebooks highlight the process that I took to arrive at the final result of my project for a school project in Machine Learning at Georgia Tech. I did not publish the data that I used for this project as some of it was from a paid source, though I hope this can introduce some of my capabilities of data wrangling and analysis on an interesting subject. 
+The Jupyter notebooks highlight the process that I took to arrive at the final result of my project for a school project in Machine Learning at Georgia Tech. The numbers on the notebook files indicate the order in which they were prepared and should be looked at to evaluate the work. I did not publish the data that I used for this project as some of it was from a paid source, though I hope this can introduce some of my capabilities of data wrangling and analysis on an interesting subject. 
 
-I have also attached the paper that I submitted in the Fall 2022 semester, which has already been graded, therefore, no concerns with sharing it here. 
+I have also attached the paper that I submitted in the Fall 2022 semester, which has already been graded, therefore, no concerns with sharing it here. Since submitting the project, there are many things I would do differently or add to the project, but the biggest one is that I would have done much more exploratory data analysis to identify relationships in the data and better guide my model selection process. 
 
 In the paper, I discuss much more about the process and the approach I took, and share the following conclusions:
 

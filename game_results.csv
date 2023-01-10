@@ -1,0 +1,1734 @@
+,season,Week,home_team,away_team,home_pts,away_pts,total_pts,home_win,Day,Date,Time,home_abbr,away_abbr
+0,2016,1,Denver Broncos,Carolina Panthers,21.0,20.0,41.0,1,Thu,2016-09-08,8:40PM,DEN,CAR
+1,2016,1,Baltimore Ravens,Buffalo Bills,13.0,7.0,20.0,1,Sun,2016-09-11,1:04PM,BAL,BUF
+2,2016,1,Jacksonville Jaguars,Green Bay Packers,23.0,27.0,50.0,0,Sun,2016-09-11,1:04PM,JAX,GB
+3,2016,1,Atlanta Falcons,Tampa Bay Buccaneers,24.0,31.0,55.0,0,Sun,2016-09-11,1:05PM,ATL,TB
+4,2016,1,Houston Texans,Chicago Bears,23.0,14.0,37.0,1,Sun,2016-09-11,1:05PM,HOU,CHI
+5,2016,1,New York Jets,Cincinnati Bengals,22.0,23.0,45.0,0,Sun,2016-09-11,1:05PM,NYJ,CIN
+6,2016,1,Philadelphia Eagles,Cleveland Browns,29.0,10.0,39.0,1,Sun,2016-09-11,1:05PM,PHI,CLE
+7,2016,1,Kansas City Chiefs,San Diego Chargers,33.0,27.0,60.0,1,Sun,2016-09-11,1:05PM,KC,LAC
+8,2016,1,Tennessee Titans,Minnesota Vikings,16.0,25.0,41.0,0,Sun,2016-09-11,1:05PM,TEN,MIN
+9,2016,1,New Orleans Saints,Oakland Raiders,34.0,35.0,69.0,0,Sun,2016-09-11,1:05PM,NO,LV
+10,2016,1,Seattle Seahawks,Miami Dolphins,12.0,10.0,22.0,1,Sun,2016-09-11,4:08PM,SEA,MIA
+11,2016,1,Indianapolis Colts,Detroit Lions,35.0,39.0,74.0,0,Sun,2016-09-11,4:27PM,IND,DET
+12,2016,1,Dallas Cowboys,New York Giants,19.0,20.0,39.0,0,Sun,2016-09-11,4:27PM,DAL,NYG
+13,2016,1,Arizona Cardinals,New England Patriots,21.0,23.0,44.0,0,Sun,2016-09-11,8:30PM,ARI,NE
+14,2016,1,Washington Redskins,Pittsburgh Steelers,16.0,38.0,54.0,0,Mon,2016-09-12,7:11PM,WAS,PIT
+15,2016,1,San Francisco 49ers,Los Angeles Rams,28.0,0.0,28.0,1,Mon,2016-09-12,10:20PM,SF,LAR
+16,2016,2,Buffalo Bills,New York Jets,31.0,37.0,68.0,0,Thu,2016-09-15,8:26PM,BUF,NYJ
+17,2016,2,Pittsburgh Steelers,Cincinnati Bengals,24.0,16.0,40.0,1,Sun,2016-09-18,1:02PM,PIT,CIN
+18,2016,2,Cleveland Browns,Baltimore Ravens,20.0,25.0,45.0,0,Sun,2016-09-18,1:02PM,CLE,BAL
+19,2016,2,Detroit Lions,Tennessee Titans,15.0,16.0,31.0,0,Sun,2016-09-18,1:02PM,DET,TEN
+20,2016,2,Houston Texans,Kansas City Chiefs,19.0,12.0,31.0,1,Sun,2016-09-18,1:02PM,HOU,KC
+21,2016,2,New England Patriots,Miami Dolphins,31.0,24.0,55.0,1,Sun,2016-09-18,1:02PM,NE,MIA
+22,2016,2,Carolina Panthers,San Francisco 49ers,46.0,27.0,73.0,1,Sun,2016-09-18,1:03PM,CAR,SF
+23,2016,2,Washington Redskins,Dallas Cowboys,23.0,27.0,50.0,0,Sun,2016-09-18,1:03PM,WAS,DAL
+24,2016,2,New York Giants,New Orleans Saints,16.0,13.0,29.0,1,Sun,2016-09-18,1:03PM,NYG,NO
+25,2016,2,Arizona Cardinals,Tampa Bay Buccaneers,40.0,7.0,47.0,1,Sun,2016-09-18,1:05PM,ARI,TB
+26,2016,2,Los Angeles Rams,Seattle Seahawks,9.0,3.0,12.0,1,Sun,2016-09-18,4:08PM,LAR,SEA
+27,2016,2,Oakland Raiders,Atlanta Falcons,28.0,35.0,63.0,0,Sun,2016-09-18,4:25PM,LV,ATL
+28,2016,2,Denver Broncos,Indianapolis Colts,34.0,20.0,54.0,1,Sun,2016-09-18,4:25PM,DEN,IND
+29,2016,2,San Diego Chargers,Jacksonville Jaguars,38.0,14.0,52.0,1,Sun,2016-09-18,4:25PM,LAC,JAX
+30,2016,2,Minnesota Vikings,Green Bay Packers,17.0,14.0,31.0,1,Sun,2016-09-18,8:32PM,MIN,GB
+31,2016,2,Chicago Bears,Philadelphia Eagles,14.0,29.0,43.0,0,Mon,2016-09-19,8:30PM,CHI,PHI
+32,2016,3,New England Patriots,Houston Texans,27.0,0.0,27.0,1,Thu,2016-09-22,8:26PM,NE,HOU
+33,2016,3,Buffalo Bills,Arizona Cardinals,33.0,18.0,51.0,1,Sun,2016-09-25,1:02PM,BUF,ARI
+34,2016,3,Carolina Panthers,Minnesota Vikings,10.0,22.0,32.0,0,Sun,2016-09-25,1:02PM,CAR,MIN
+35,2016,3,Cincinnati Bengals,Denver Broncos,17.0,29.0,46.0,0,Sun,2016-09-25,1:02PM,CIN,DEN
+36,2016,3,Miami Dolphins,Cleveland Browns,30.0,24.0,54.0,1,Sun,2016-09-25,1:02PM,MIA,CLE
+37,2016,3,Green Bay Packers,Detroit Lions,34.0,27.0,61.0,1,Sun,2016-09-25,1:02PM,GB,DET
+38,2016,3,Jacksonville Jaguars,Baltimore Ravens,17.0,19.0,36.0,0,Sun,2016-09-25,1:02PM,JAX,BAL
+39,2016,3,New York Giants,Washington Redskins,27.0,29.0,56.0,0,Sun,2016-09-25,1:02PM,NYG,WAS
+40,2016,3,Tennessee Titans,Oakland Raiders,10.0,17.0,27.0,0,Sun,2016-09-25,1:02PM,TEN,LV
+41,2016,3,Tampa Bay Buccaneers,Los Angeles Rams,32.0,37.0,69.0,0,Sun,2016-09-25,4:05PM,TB,LAR
+42,2016,3,Seattle Seahawks,San Francisco 49ers,37.0,18.0,55.0,1,Sun,2016-09-25,4:05PM,SEA,SF
+43,2016,3,Indianapolis Colts,San Diego Chargers,26.0,22.0,48.0,1,Sun,2016-09-25,4:25PM,IND,LAC
+44,2016,3,Philadelphia Eagles,Pittsburgh Steelers,34.0,3.0,37.0,1,Sun,2016-09-25,4:25PM,PHI,PIT
+45,2016,3,Kansas City Chiefs,New York Jets,24.0,3.0,27.0,1,Sun,2016-09-25,4:26PM,KC,NYJ
+46,2016,3,Dallas Cowboys,Chicago Bears,31.0,17.0,48.0,1,Sun,2016-09-25,8:31PM,DAL,CHI
+47,2016,3,New Orleans Saints,Atlanta Falcons,32.0,45.0,77.0,0,Mon,2016-09-26,8:30PM,NO,ATL
+48,2016,4,Cincinnati Bengals,Miami Dolphins,22.0,7.0,29.0,1,Thu,2016-09-29,8:26PM,CIN,MIA
+49,2016,4,Jacksonville Jaguars,Indianapolis Colts,30.0,27.0,57.0,1,Sun,2016-10-02,9:35AM,JAX,IND
+50,2016,4,Chicago Bears,Detroit Lions,17.0,14.0,31.0,1,Sun,2016-10-02,1:00PM,CHI,DET
+51,2016,4,New England Patriots,Buffalo Bills,0.0,16.0,16.0,0,Sun,2016-10-02,1:02PM,NE,BUF
+52,2016,4,Houston Texans,Tennessee Titans,27.0,20.0,47.0,1,Sun,2016-10-02,1:02PM,HOU,TEN
+53,2016,4,Baltimore Ravens,Oakland Raiders,27.0,28.0,55.0,0,Sun,2016-10-02,1:02PM,BAL,LV
+54,2016,4,New York Jets,Seattle Seahawks,17.0,27.0,44.0,0,Sun,2016-10-02,1:03PM,NYJ,SEA
+55,2016,4,Atlanta Falcons,Carolina Panthers,48.0,33.0,81.0,1,Sun,2016-10-02,1:04PM,ATL,CAR
+56,2016,4,Washington Redskins,Cleveland Browns,31.0,20.0,51.0,1,Sun,2016-10-02,1:05PM,WAS,CLE
+57,2016,4,Tampa Bay Buccaneers,Denver Broncos,7.0,27.0,34.0,0,Sun,2016-10-02,4:05PM,TB,DEN
+58,2016,4,Arizona Cardinals,Los Angeles Rams,13.0,17.0,30.0,0,Sun,2016-10-02,4:25PM,ARI,LAR
+59,2016,4,San Francisco 49ers,Dallas Cowboys,17.0,24.0,41.0,0,Sun,2016-10-02,4:25PM,SF,DAL
+60,2016,4,San Diego Chargers,New Orleans Saints,34.0,35.0,69.0,0,Sun,2016-10-02,4:25PM,LAC,NO
+61,2016,4,Pittsburgh Steelers,Kansas City Chiefs,43.0,14.0,57.0,1,Sun,2016-10-02,8:30PM,PIT,KC
+62,2016,4,Minnesota Vikings,New York Giants,24.0,10.0,34.0,1,Mon,2016-10-03,8:35PM,MIN,NYG
+63,2016,5,San Francisco 49ers,Arizona Cardinals,21.0,33.0,54.0,0,Thu,2016-10-06,8:27PM,SF,ARI
+64,2016,5,Indianapolis Colts,Chicago Bears,29.0,23.0,52.0,1,Sun,2016-10-09,1:02PM,IND,CHI
+65,2016,5,Cleveland Browns,New England Patriots,13.0,33.0,46.0,0,Sun,2016-10-09,1:02PM,CLE,NE
+66,2016,5,Detroit Lions,Philadelphia Eagles,24.0,23.0,47.0,1,Sun,2016-10-09,1:02PM,DET,PHI
+67,2016,5,Miami Dolphins,Tennessee Titans,17.0,30.0,47.0,0,Sun,2016-10-09,1:02PM,MIA,TEN
+68,2016,5,Pittsburgh Steelers,New York Jets,31.0,13.0,44.0,1,Sun,2016-10-09,1:02PM,PIT,NYJ
+69,2016,5,Baltimore Ravens,Washington Redskins,10.0,16.0,26.0,0,Sun,2016-10-09,1:03PM,BAL,WAS
+70,2016,5,Minnesota Vikings,Houston Texans,31.0,13.0,44.0,1,Sun,2016-10-09,1:05PM,MIN,HOU
+71,2016,5,Denver Broncos,Atlanta Falcons,16.0,23.0,39.0,0,Sun,2016-10-09,4:05PM,DEN,ATL
+72,2016,5,Los Angeles Rams,Buffalo Bills,19.0,30.0,49.0,0,Sun,2016-10-09,4:25PM,LAR,BUF
+73,2016,5,Dallas Cowboys,Cincinnati Bengals,28.0,14.0,42.0,1,Sun,2016-10-09,4:25PM,DAL,CIN
+74,2016,5,Oakland Raiders,San Diego Chargers,34.0,31.0,65.0,1,Sun,2016-10-09,4:25PM,LV,LAC
+75,2016,5,Green Bay Packers,New York Giants,23.0,16.0,39.0,1,Sun,2016-10-09,8:30PM,GB,NYG
+76,2016,5,Carolina Panthers,Tampa Bay Buccaneers,14.0,17.0,31.0,0,Mon,2016-10-10,8:04PM,CAR,TB
+77,2016,6,San Diego Chargers,Denver Broncos,21.0,13.0,34.0,1,Thu,2016-10-13,8:25PM,LAC,DEN
+78,2016,6,Buffalo Bills,San Francisco 49ers,45.0,16.0,61.0,1,Sun,2016-10-16,1:02PM,BUF,SF
+79,2016,6,Chicago Bears,Jacksonville Jaguars,16.0,17.0,33.0,0,Sun,2016-10-16,1:02PM,CHI,JAX
+80,2016,6,New England Patriots,Cincinnati Bengals,35.0,17.0,52.0,1,Sun,2016-10-16,1:02PM,NE,CIN
+81,2016,6,Tennessee Titans,Cleveland Browns,28.0,26.0,54.0,1,Sun,2016-10-16,1:02PM,TEN,CLE
+82,2016,6,Detroit Lions,Los Angeles Rams,31.0,28.0,59.0,1,Sun,2016-10-16,1:02PM,DET,LAR
+83,2016,6,Miami Dolphins,Pittsburgh Steelers,30.0,15.0,45.0,1,Sun,2016-10-16,1:02PM,MIA,PIT
+84,2016,6,New York Giants,Baltimore Ravens,27.0,23.0,50.0,1,Sun,2016-10-16,1:02PM,NYG,BAL
+85,2016,6,Washington Redskins,Philadelphia Eagles,27.0,20.0,47.0,1,Sun,2016-10-16,1:03PM,WAS,PHI
+86,2016,6,New Orleans Saints,Carolina Panthers,41.0,38.0,79.0,1,Sun,2016-10-16,1:03PM,NO,CAR
+87,2016,6,Oakland Raiders,Kansas City Chiefs,10.0,26.0,36.0,0,Sun,2016-10-16,4:05PM,LV,KC
+88,2016,6,Green Bay Packers,Dallas Cowboys,16.0,30.0,46.0,0,Sun,2016-10-16,4:25PM,GB,DAL
+89,2016,6,Seattle Seahawks,Atlanta Falcons,26.0,24.0,50.0,1,Sun,2016-10-16,4:26PM,SEA,ATL
+90,2016,6,Houston Texans,Indianapolis Colts,26.0,23.0,49.0,1,Sun,2016-10-16,8:32PM,HOU,IND
+91,2016,6,Arizona Cardinals,New York Jets,28.0,3.0,31.0,1,Mon,2016-10-17,8:30PM,ARI,NYJ
+92,2016,7,Green Bay Packers,Chicago Bears,26.0,10.0,36.0,1,Thu,2016-10-20,8:26PM,GB,CHI
+93,2016,7,Los Angeles Rams,New York Giants,10.0,17.0,27.0,0,Sun,2016-10-23,9:31AM,LAR,NYG
+94,2016,7,Jacksonville Jaguars,Oakland Raiders,16.0,33.0,49.0,0,Sun,2016-10-23,1:02PM,JAX,LV
+95,2016,7,Philadelphia Eagles,Minnesota Vikings,21.0,10.0,31.0,1,Sun,2016-10-23,1:02PM,PHI,MIN
+96,2016,7,Miami Dolphins,Buffalo Bills,28.0,25.0,53.0,1,Sun,2016-10-23,1:02PM,MIA,BUF
+97,2016,7,Cincinnati Bengals,Cleveland Browns,31.0,17.0,48.0,1,Sun,2016-10-23,1:02PM,CIN,CLE
+98,2016,7,Tennessee Titans,Indianapolis Colts,26.0,34.0,60.0,0,Sun,2016-10-23,1:02PM,TEN,IND
+99,2016,7,Detroit Lions,Washington Redskins,20.0,17.0,37.0,1,Sun,2016-10-23,1:02PM,DET,WAS
+100,2016,7,Kansas City Chiefs,New Orleans Saints,27.0,21.0,48.0,1,Sun,2016-10-23,1:03PM,KC,NO
+101,2016,7,New York Jets,Baltimore Ravens,24.0,16.0,40.0,1,Sun,2016-10-23,1:04PM,NYJ,BAL
+102,2016,7,Atlanta Falcons,San Diego Chargers,30.0,33.0,63.0,0,Sun,2016-10-23,4:05PM,ATL,LAC
+103,2016,7,San Francisco 49ers,Tampa Bay Buccaneers,17.0,34.0,51.0,0,Sun,2016-10-23,4:05PM,SF,TB
+104,2016,7,Pittsburgh Steelers,New England Patriots,16.0,27.0,43.0,0,Sun,2016-10-23,4:25PM,PIT,NE
+105,2016,7,Arizona Cardinals,Seattle Seahawks,6.0,6.0,12.0,0,Sun,2016-10-23,8:30PM,ARI,SEA
+106,2016,7,Denver Broncos,Houston Texans,27.0,9.0,36.0,1,Mon,2016-10-24,8:30PM,DEN,HOU
+107,2016,8,Tennessee Titans,Jacksonville Jaguars,36.0,22.0,58.0,1,Thu,2016-10-27,8:26PM,TEN,JAX
+108,2016,8,Cincinnati Bengals,Washington Redskins,27.0,27.0,54.0,0,Sun,2016-10-30,8:36AM,CIN,WAS
+109,2016,8,Carolina Panthers,Arizona Cardinals,30.0,20.0,50.0,1,Sun,2016-10-30,12:47PM,CAR,ARI
+110,2016,8,Buffalo Bills,New England Patriots,25.0,41.0,66.0,0,Sun,2016-10-30,1:02PM,BUF,NE
+111,2016,8,Cleveland Browns,New York Jets,28.0,31.0,59.0,0,Sun,2016-10-30,1:02PM,CLE,NYJ
+112,2016,8,Indianapolis Colts,Kansas City Chiefs,14.0,30.0,44.0,0,Sun,2016-10-30,1:02PM,IND,KC
+113,2016,8,Tampa Bay Buccaneers,Oakland Raiders,24.0,30.0,54.0,0,Sun,2016-10-30,1:02PM,TB,LV
+114,2016,8,New Orleans Saints,Seattle Seahawks,25.0,20.0,45.0,1,Sun,2016-10-30,1:03PM,NO,SEA
+115,2016,8,Houston Texans,Detroit Lions,20.0,13.0,33.0,1,Sun,2016-10-30,1:03PM,HOU,DET
+116,2016,8,Denver Broncos,San Diego Chargers,27.0,19.0,46.0,1,Sun,2016-10-30,4:05PM,DEN,LAC
+117,2016,8,Atlanta Falcons,Green Bay Packers,33.0,32.0,65.0,1,Sun,2016-10-30,4:25PM,ATL,GB
+118,2016,8,Dallas Cowboys,Philadelphia Eagles,29.0,23.0,52.0,1,Sun,2016-10-30,8:31PM,DAL,PHI
+119,2016,8,Chicago Bears,Minnesota Vikings,20.0,10.0,30.0,1,Mon,2016-10-31,8:31PM,CHI,MIN
+120,2016,9,Tampa Bay Buccaneers,Atlanta Falcons,28.0,43.0,71.0,0,Thu,2016-11-03,8:25PM,TB,ATL
+121,2016,9,Kansas City Chiefs,Jacksonville Jaguars,19.0,14.0,33.0,1,Sun,2016-11-06,1:00PM,KC,JAX
+122,2016,9,Miami Dolphins,New York Jets,27.0,23.0,50.0,1,Sun,2016-11-06,1:00PM,MIA,NYJ
+123,2016,9,New York Giants,Philadelphia Eagles,28.0,23.0,51.0,1,Sun,2016-11-06,1:00PM,NYG,PHI
+124,2016,9,Baltimore Ravens,Pittsburgh Steelers,21.0,14.0,35.0,1,Sun,2016-11-06,1:00PM,BAL,PIT
+125,2016,9,Cleveland Browns,Dallas Cowboys,10.0,35.0,45.0,0,Sun,2016-11-06,1:00PM,CLE,DAL
+126,2016,9,Minnesota Vikings,Detroit Lions,16.0,22.0,38.0,0,Sun,2016-11-06,1:00PM,MIN,DET
+127,2016,9,Los Angeles Rams,Carolina Panthers,10.0,13.0,23.0,0,Sun,2016-11-06,4:05PM,LAR,CAR
+128,2016,9,San Francisco 49ers,New Orleans Saints,23.0,41.0,64.0,0,Sun,2016-11-06,4:05PM,SF,NO
+129,2016,9,Green Bay Packers,Indianapolis Colts,26.0,31.0,57.0,0,Sun,2016-11-06,4:25PM,GB,IND
+130,2016,9,San Diego Chargers,Tennessee Titans,43.0,35.0,78.0,1,Sun,2016-11-06,4:25PM,LAC,TEN
+131,2016,9,Oakland Raiders,Denver Broncos,30.0,20.0,50.0,1,Sun,2016-11-06,8:30PM,LV,DEN
+132,2016,9,Seattle Seahawks,Buffalo Bills,31.0,25.0,56.0,1,Mon,2016-11-07,8:30PM,SEA,BUF
+133,2016,10,Baltimore Ravens,Cleveland Browns,28.0,7.0,35.0,1,Thu,2016-11-10,8:25PM,BAL,CLE
+134,2016,10,Carolina Panthers,Kansas City Chiefs,17.0,20.0,37.0,0,Sun,2016-11-13,1:00PM,CAR,KC
+135,2016,10,Tampa Bay Buccaneers,Chicago Bears,36.0,10.0,46.0,1,Sun,2016-11-13,1:00PM,TB,CHI
+136,2016,10,Tennessee Titans,Green Bay Packers,47.0,25.0,72.0,1,Sun,2016-11-13,1:00PM,TEN,GB
+137,2016,10,Jacksonville Jaguars,Houston Texans,21.0,24.0,45.0,0,Sun,2016-11-13,1:00PM,JAX,HOU
+138,2016,10,Washington Redskins,Minnesota Vikings,26.0,20.0,46.0,1,Sun,2016-11-13,1:00PM,WAS,MIN
+139,2016,10,Philadelphia Eagles,Atlanta Falcons,24.0,15.0,39.0,1,Sun,2016-11-13,1:00PM,PHI,ATL
+140,2016,10,New Orleans Saints,Denver Broncos,23.0,25.0,48.0,0,Sun,2016-11-13,1:00PM,NO,DEN
+141,2016,10,New York Jets,Los Angeles Rams,6.0,9.0,15.0,0,Sun,2016-11-13,1:00PM,NYJ,LAR
+142,2016,10,San Diego Chargers,Miami Dolphins,24.0,31.0,55.0,0,Sun,2016-11-13,4:05PM,LAC,MIA
+143,2016,10,Arizona Cardinals,San Francisco 49ers,23.0,20.0,43.0,1,Sun,2016-11-13,4:25PM,ARI,SF
+144,2016,10,Pittsburgh Steelers,Dallas Cowboys,30.0,35.0,65.0,0,Sun,2016-11-13,4:25PM,PIT,DAL
+145,2016,10,New England Patriots,Seattle Seahawks,24.0,31.0,55.0,0,Sun,2016-11-13,8:30PM,NE,SEA
+146,2016,10,New York Giants,Cincinnati Bengals,21.0,20.0,41.0,1,Mon,2016-11-14,8:30PM,NYG,CIN
+147,2016,11,Carolina Panthers,New Orleans Saints,23.0,20.0,43.0,1,Thu,2016-11-17,8:25PM,CAR,NO
+148,2016,11,Cincinnati Bengals,Buffalo Bills,12.0,16.0,28.0,0,Sun,2016-11-20,1:00PM,CIN,BUF
+149,2016,11,New York Giants,Chicago Bears,22.0,16.0,38.0,1,Sun,2016-11-20,1:00PM,NYG,CHI
+150,2016,11,Indianapolis Colts,Tennessee Titans,24.0,17.0,41.0,1,Sun,2016-11-20,1:00PM,IND,TEN
+151,2016,11,Minnesota Vikings,Arizona Cardinals,30.0,24.0,54.0,1,Sun,2016-11-20,1:00PM,MIN,ARI
+152,2016,11,Dallas Cowboys,Baltimore Ravens,27.0,17.0,44.0,1,Sun,2016-11-20,1:00PM,DAL,BAL
+153,2016,11,Detroit Lions,Jacksonville Jaguars,26.0,19.0,45.0,1,Sun,2016-11-20,1:00PM,DET,JAX
+154,2016,11,Kansas City Chiefs,Tampa Bay Buccaneers,17.0,19.0,36.0,0,Sun,2016-11-20,1:00PM,KC,TB
+155,2016,11,Cleveland Browns,Pittsburgh Steelers,9.0,24.0,33.0,0,Sun,2016-11-20,1:00PM,CLE,PIT
+156,2016,11,Los Angeles Rams,Miami Dolphins,10.0,14.0,24.0,0,Sun,2016-11-20,4:05PM,LAR,MIA
+157,2016,11,San Francisco 49ers,New England Patriots,17.0,30.0,47.0,0,Sun,2016-11-20,4:25PM,SF,NE
+158,2016,11,Seattle Seahawks,Philadelphia Eagles,26.0,15.0,41.0,1,Sun,2016-11-20,4:25PM,SEA,PHI
+159,2016,11,Washington Redskins,Green Bay Packers,42.0,24.0,66.0,1,Sun,2016-11-20,8:30PM,WAS,GB
+160,2016,11,Oakland Raiders,Houston Texans,27.0,20.0,47.0,1,Mon,2016-11-21,8:30PM,LV,HOU
+161,2016,12,Detroit Lions,Minnesota Vikings,16.0,13.0,29.0,1,Thu,2016-11-24,12:30PM,DET,MIN
+162,2016,12,Dallas Cowboys,Washington Redskins,31.0,26.0,57.0,1,Thu,2016-11-24,4:30PM,DAL,WAS
+163,2016,12,Indianapolis Colts,Pittsburgh Steelers,7.0,28.0,35.0,0,Thu,2016-11-24,8:30PM,IND,PIT
+164,2016,12,Atlanta Falcons,Arizona Cardinals,38.0,19.0,57.0,1,Sun,2016-11-27,1:00PM,ATL,ARI
+165,2016,12,Buffalo Bills,Jacksonville Jaguars,28.0,21.0,49.0,1,Sun,2016-11-27,1:00PM,BUF,JAX
+166,2016,12,Chicago Bears,Tennessee Titans,21.0,27.0,48.0,0,Sun,2016-11-27,1:00PM,CHI,TEN
+167,2016,12,Baltimore Ravens,Cincinnati Bengals,19.0,14.0,33.0,1,Sun,2016-11-27,1:00PM,BAL,CIN
+168,2016,12,Houston Texans,San Diego Chargers,13.0,21.0,34.0,0,Sun,2016-11-27,1:00PM,HOU,LAC
+169,2016,12,Miami Dolphins,San Francisco 49ers,31.0,24.0,55.0,1,Sun,2016-11-27,1:00PM,MIA,SF
+170,2016,12,New Orleans Saints,Los Angeles Rams,49.0,21.0,70.0,1,Sun,2016-11-27,1:00PM,NO,LAR
+171,2016,12,Cleveland Browns,New York Giants,13.0,27.0,40.0,0,Sun,2016-11-27,1:00PM,CLE,NYG
+172,2016,12,Tampa Bay Buccaneers,Seattle Seahawks,14.0,5.0,19.0,1,Sun,2016-11-27,4:05PM,TB,SEA
+173,2016,12,Oakland Raiders,Carolina Panthers,35.0,32.0,67.0,1,Sun,2016-11-27,4:25PM,LV,CAR
+174,2016,12,New York Jets,New England Patriots,17.0,22.0,39.0,0,Sun,2016-11-27,4:25PM,NYJ,NE
+175,2016,12,Denver Broncos,Kansas City Chiefs,27.0,30.0,57.0,0,Sun,2016-11-27,8:30PM,DEN,KC
+176,2016,12,Philadelphia Eagles,Green Bay Packers,13.0,27.0,40.0,0,Mon,2016-11-28,8:30PM,PHI,GB
+177,2016,13,Minnesota Vikings,Dallas Cowboys,15.0,17.0,32.0,0,Thu,2016-12-01,7:25PM,MIN,DAL
+178,2016,13,Atlanta Falcons,Kansas City Chiefs,28.0,29.0,57.0,0,Sun,2016-12-04,1:00PM,ATL,KC
+179,2016,13,Chicago Bears,San Francisco 49ers,26.0,6.0,32.0,1,Sun,2016-12-04,1:00PM,CHI,SF
+180,2016,13,Cincinnati Bengals,Philadelphia Eagles,32.0,14.0,46.0,1,Sun,2016-12-04,1:00PM,CIN,PHI
+181,2016,13,Jacksonville Jaguars,Denver Broncos,10.0,20.0,30.0,0,Sun,2016-12-04,1:00PM,JAX,DEN
+182,2016,13,New Orleans Saints,Detroit Lions,13.0,28.0,41.0,0,Sun,2016-12-04,1:00PM,NO,DET
+183,2016,13,Green Bay Packers,Houston Texans,21.0,13.0,34.0,1,Sun,2016-12-04,1:00PM,GB,HOU
+184,2016,13,Baltimore Ravens,Miami Dolphins,38.0,6.0,44.0,1,Sun,2016-12-04,1:00PM,BAL,MIA
+185,2016,13,New England Patriots,Los Angeles Rams,26.0,10.0,36.0,1,Sun,2016-12-04,1:00PM,NE,LAR
+186,2016,13,Oakland Raiders,Buffalo Bills,38.0,24.0,62.0,1,Sun,2016-12-04,4:05PM,LV,BUF
+187,2016,13,Arizona Cardinals,Washington Redskins,31.0,23.0,54.0,1,Sun,2016-12-04,4:25PM,ARI,WAS
+188,2016,13,Pittsburgh Steelers,New York Giants,24.0,14.0,38.0,1,Sun,2016-12-04,4:25PM,PIT,NYG
+189,2016,13,San Diego Chargers,Tampa Bay Buccaneers,21.0,28.0,49.0,0,Sun,2016-12-04,4:25PM,LAC,TB
+190,2016,13,Seattle Seahawks,Carolina Panthers,40.0,7.0,47.0,1,Sun,2016-12-04,8:30PM,SEA,CAR
+191,2016,13,New York Jets,Indianapolis Colts,10.0,41.0,51.0,0,Mon,2016-12-05,8:30PM,NYJ,IND
+192,2016,14,Kansas City Chiefs,Oakland Raiders,21.0,13.0,34.0,1,Thu,2016-12-08,8:25PM,KC,LV
+193,2016,14,Buffalo Bills,Pittsburgh Steelers,20.0,27.0,47.0,0,Sun,2016-12-11,1:00PM,BUF,PIT
+194,2016,14,Carolina Panthers,San Diego Chargers,28.0,16.0,44.0,1,Sun,2016-12-11,1:00PM,CAR,LAC
+195,2016,14,Detroit Lions,Chicago Bears,20.0,17.0,37.0,1,Sun,2016-12-11,1:00PM,DET,CHI
+196,2016,14,Cleveland Browns,Cincinnati Bengals,10.0,23.0,33.0,0,Sun,2016-12-11,1:00PM,CLE,CIN
+197,2016,14,Indianapolis Colts,Houston Texans,17.0,22.0,39.0,0,Sun,2016-12-11,1:00PM,IND,HOU
+198,2016,14,Miami Dolphins,Arizona Cardinals,26.0,23.0,49.0,1,Sun,2016-12-11,1:00PM,MIA,ARI
+199,2016,14,Tennessee Titans,Denver Broncos,13.0,10.0,23.0,1,Sun,2016-12-11,1:00PM,TEN,DEN
+200,2016,14,Jacksonville Jaguars,Minnesota Vikings,16.0,25.0,41.0,0,Sun,2016-12-11,1:00PM,JAX,MIN
+201,2016,14,Philadelphia Eagles,Washington Redskins,22.0,27.0,49.0,0,Sun,2016-12-11,1:00PM,PHI,WAS
+202,2016,14,San Francisco 49ers,New York Jets,17.0,23.0,40.0,0,Sun,2016-12-11,4:05PM,SF,NYJ
+203,2016,14,Los Angeles Rams,Atlanta Falcons,14.0,42.0,56.0,0,Sun,2016-12-11,4:25PM,LAR,ATL
+204,2016,14,Green Bay Packers,Seattle Seahawks,38.0,10.0,48.0,1,Sun,2016-12-11,4:25PM,GB,SEA
+205,2016,14,Tampa Bay Buccaneers,New Orleans Saints,16.0,11.0,27.0,1,Sun,2016-12-11,4:25PM,TB,NO
+206,2016,14,New York Giants,Dallas Cowboys,10.0,7.0,17.0,1,Sun,2016-12-11,8:30PM,NYG,DAL
+207,2016,14,New England Patriots,Baltimore Ravens,30.0,23.0,53.0,1,Mon,2016-12-12,8:30PM,NE,BAL
+208,2016,15,Seattle Seahawks,Los Angeles Rams,24.0,3.0,27.0,1,Thu,2016-12-15,8:25PM,SEA,LAR
+209,2016,15,New York Jets,Miami Dolphins,13.0,34.0,47.0,0,Sat,2016-12-17,8:25PM,NYJ,MIA
+210,2016,15,Buffalo Bills,Cleveland Browns,33.0,13.0,46.0,1,Sun,2016-12-18,1:00PM,BUF,CLE
+211,2016,15,Chicago Bears,Green Bay Packers,27.0,30.0,57.0,0,Sun,2016-12-18,1:00PM,CHI,GB
+212,2016,15,Cincinnati Bengals,Pittsburgh Steelers,20.0,24.0,44.0,0,Sun,2016-12-18,1:00PM,CIN,PIT
+213,2016,15,Minnesota Vikings,Indianapolis Colts,6.0,34.0,40.0,0,Sun,2016-12-18,1:00PM,MIN,IND
+214,2016,15,New York Giants,Detroit Lions,17.0,6.0,23.0,1,Sun,2016-12-18,1:00PM,NYG,DET
+215,2016,15,Houston Texans,Jacksonville Jaguars,21.0,20.0,41.0,1,Sun,2016-12-18,1:00PM,HOU,JAX
+216,2016,15,Kansas City Chiefs,Tennessee Titans,17.0,19.0,36.0,0,Sun,2016-12-18,1:00PM,KC,TEN
+217,2016,15,Baltimore Ravens,Philadelphia Eagles,27.0,26.0,53.0,1,Sun,2016-12-18,1:00PM,BAL,PHI
+218,2016,15,Atlanta Falcons,San Francisco 49ers,41.0,13.0,54.0,1,Sun,2016-12-18,4:05PM,ATL,SF
+219,2016,15,Arizona Cardinals,New Orleans Saints,41.0,48.0,89.0,0,Sun,2016-12-18,4:05PM,ARI,NO
+220,2016,15,Denver Broncos,New England Patriots,3.0,16.0,19.0,0,Sun,2016-12-18,4:25PM,DEN,NE
+221,2016,15,San Diego Chargers,Oakland Raiders,16.0,19.0,35.0,0,Sun,2016-12-18,4:25PM,LAC,LV
+222,2016,15,Dallas Cowboys,Tampa Bay Buccaneers,26.0,20.0,46.0,1,Sun,2016-12-18,8:30PM,DAL,TB
+223,2016,15,Washington Redskins,Carolina Panthers,15.0,26.0,41.0,0,Mon,2016-12-19,8:30PM,WAS,CAR
+224,2016,16,Philadelphia Eagles,New York Giants,24.0,19.0,43.0,1,Thu,2016-12-22,8:25PM,PHI,NYG
+225,2016,16,Carolina Panthers,Atlanta Falcons,16.0,33.0,49.0,0,Sat,2016-12-24,1:00PM,CAR,ATL
+226,2016,16,Buffalo Bills,Miami Dolphins,31.0,34.0,65.0,0,Sat,2016-12-24,1:00PM,BUF,MIA
+227,2016,16,Chicago Bears,Washington Redskins,21.0,41.0,62.0,0,Sat,2016-12-24,1:00PM,CHI,WAS
+228,2016,16,Cleveland Browns,San Diego Chargers,20.0,17.0,37.0,1,Sat,2016-12-24,1:00PM,CLE,LAC
+229,2016,16,Green Bay Packers,Minnesota Vikings,38.0,25.0,63.0,1,Sat,2016-12-24,1:00PM,GB,MIN
+230,2016,16,Jacksonville Jaguars,Tennessee Titans,38.0,17.0,55.0,1,Sat,2016-12-24,1:00PM,JAX,TEN
+231,2016,16,New England Patriots,New York Jets,41.0,3.0,44.0,1,Sat,2016-12-24,1:00PM,NE,NYJ
+232,2016,16,Oakland Raiders,Indianapolis Colts,33.0,25.0,58.0,1,Sat,2016-12-24,4:05PM,LV,IND
+233,2016,16,Seattle Seahawks,Arizona Cardinals,31.0,34.0,65.0,0,Sat,2016-12-24,4:25PM,SEA,ARI
+234,2016,16,New Orleans Saints,Tampa Bay Buccaneers,31.0,24.0,55.0,1,Sat,2016-12-24,4:25PM,NO,TB
+235,2016,16,Los Angeles Rams,San Francisco 49ers,21.0,22.0,43.0,0,Sat,2016-12-24,4:25PM,LAR,SF
+236,2016,16,Houston Texans,Cincinnati Bengals,12.0,10.0,22.0,1,Sat,2016-12-24,8:25PM,HOU,CIN
+237,2016,16,Pittsburgh Steelers,Baltimore Ravens,31.0,27.0,58.0,1,Sun,2016-12-25,4:30PM,PIT,BAL
+238,2016,16,Kansas City Chiefs,Denver Broncos,33.0,10.0,43.0,1,Sun,2016-12-25,8:30PM,KC,DEN
+239,2016,16,Dallas Cowboys,Detroit Lions,42.0,21.0,63.0,1,Mon,2016-12-26,8:30PM,DAL,DET
+240,2016,17,New York Jets,Buffalo Bills,30.0,10.0,40.0,1,Sun,2017-01-01,1:00PM,NYJ,BUF
+241,2016,17,Tampa Bay Buccaneers,Carolina Panthers,17.0,16.0,33.0,1,Sun,2017-01-01,1:00PM,TB,CAR
+242,2016,17,Minnesota Vikings,Chicago Bears,38.0,10.0,48.0,1,Sun,2017-01-01,1:00PM,MIN,CHI
+243,2016,17,Cincinnati Bengals,Baltimore Ravens,27.0,10.0,37.0,1,Sun,2017-01-01,1:00PM,CIN,BAL
+244,2016,17,Pittsburgh Steelers,Cleveland Browns,27.0,24.0,51.0,1,Sun,2017-01-01,1:00PM,PIT,CLE
+245,2016,17,Indianapolis Colts,Jacksonville Jaguars,24.0,20.0,44.0,1,Sun,2017-01-01,1:00PM,IND,JAX
+246,2016,17,Philadelphia Eagles,Dallas Cowboys,27.0,13.0,40.0,1,Sun,2017-01-01,1:00PM,PHI,DAL
+247,2016,17,Tennessee Titans,Houston Texans,24.0,17.0,41.0,1,Sun,2017-01-01,1:00PM,TEN,HOU
+248,2016,17,Miami Dolphins,New England Patriots,14.0,35.0,49.0,0,Sun,2017-01-01,1:00PM,MIA,NE
+249,2016,17,Atlanta Falcons,New Orleans Saints,38.0,32.0,70.0,1,Sun,2017-01-01,4:25PM,ATL,NO
+250,2016,17,Los Angeles Rams,Arizona Cardinals,6.0,44.0,50.0,0,Sun,2017-01-01,4:25PM,LAR,ARI
+251,2016,17,Denver Broncos,Oakland Raiders,24.0,6.0,30.0,1,Sun,2017-01-01,4:25PM,DEN,LV
+252,2016,17,San Diego Chargers,Kansas City Chiefs,27.0,37.0,64.0,0,Sun,2017-01-01,4:25PM,LAC,KC
+253,2016,17,Washington Redskins,New York Giants,10.0,19.0,29.0,0,Sun,2017-01-01,4:25PM,WAS,NYG
+254,2016,17,San Francisco 49ers,Seattle Seahawks,23.0,25.0,48.0,0,Sun,2017-01-01,4:25PM,SF,SEA
+255,2016,17,Detroit Lions,Green Bay Packers,24.0,31.0,55.0,0,Sun,2017-01-01,8:30PM,DET,GB
+256,2017,1,New England Patriots,Kansas City Chiefs,27.0,42.0,69.0,0,Thu,2017-09-07,8:30PM,NE,KC
+257,2017,1,Chicago Bears,Atlanta Falcons,17.0,23.0,40.0,0,Sun,2017-09-10,1:00PM,CHI,ATL
+258,2017,1,Buffalo Bills,New York Jets,21.0,12.0,33.0,1,Sun,2017-09-10,1:00PM,BUF,NYJ
+259,2017,1,Cincinnati Bengals,Baltimore Ravens,0.0,20.0,20.0,0,Sun,2017-09-10,1:00PM,CIN,BAL
+260,2017,1,Cleveland Browns,Pittsburgh Steelers,18.0,21.0,39.0,0,Sun,2017-09-10,1:00PM,CLE,PIT
+261,2017,1,Detroit Lions,Arizona Cardinals,35.0,23.0,58.0,1,Sun,2017-09-10,1:00PM,DET,ARI
+262,2017,1,Houston Texans,Jacksonville Jaguars,7.0,29.0,36.0,0,Sun,2017-09-10,1:00PM,HOU,JAX
+263,2017,1,Tennessee Titans,Oakland Raiders,16.0,26.0,42.0,0,Sun,2017-09-10,1:00PM,TEN,LV
+264,2017,1,Washington Redskins,Philadelphia Eagles,17.0,30.0,47.0,0,Sun,2017-09-10,1:00PM,WAS,PHI
+265,2017,1,Los Angeles Rams,Indianapolis Colts,46.0,9.0,55.0,1,Sun,2017-09-10,4:05PM,LAR,IND
+266,2017,1,San Francisco 49ers,Carolina Panthers,3.0,23.0,26.0,0,Sun,2017-09-10,4:25PM,SF,CAR
+267,2017,1,Green Bay Packers,Seattle Seahawks,17.0,9.0,26.0,1,Sun,2017-09-10,4:25PM,GB,SEA
+268,2017,1,Dallas Cowboys,New York Giants,19.0,3.0,22.0,1,Sun,2017-09-10,8:30PM,DAL,NYG
+269,2017,1,Minnesota Vikings,New Orleans Saints,29.0,19.0,48.0,1,Mon,2017-09-11,7:10PM,MIN,NO
+270,2017,1,Denver Broncos,Los Angeles Chargers,24.0,21.0,45.0,1,Mon,2017-09-11,10:20PM,DEN,LAC
+271,2017,2,Cincinnati Bengals,Houston Texans,9.0,13.0,22.0,0,Thu,2017-09-14,8:25PM,CIN,HOU
+272,2017,2,Carolina Panthers,Buffalo Bills,9.0,3.0,12.0,1,Sun,2017-09-17,1:00PM,CAR,BUF
+273,2017,2,Tampa Bay Buccaneers,Chicago Bears,29.0,7.0,36.0,1,Sun,2017-09-17,1:00PM,TB,CHI
+274,2017,2,Baltimore Ravens,Cleveland Browns,24.0,10.0,34.0,1,Sun,2017-09-17,1:00PM,BAL,CLE
+275,2017,2,Indianapolis Colts,Arizona Cardinals,13.0,16.0,29.0,0,Sun,2017-09-17,1:00PM,IND,ARI
+276,2017,2,Jacksonville Jaguars,Tennessee Titans,16.0,37.0,53.0,0,Sun,2017-09-17,1:00PM,JAX,TEN
+277,2017,2,Kansas City Chiefs,Philadelphia Eagles,27.0,20.0,47.0,1,Sun,2017-09-17,1:00PM,KC,PHI
+278,2017,2,Pittsburgh Steelers,Minnesota Vikings,26.0,9.0,35.0,1,Sun,2017-09-17,1:00PM,PIT,MIN
+279,2017,2,New Orleans Saints,New England Patriots,20.0,36.0,56.0,0,Sun,2017-09-17,1:00PM,NO,NE
+280,2017,2,Los Angeles Chargers,Miami Dolphins,17.0,19.0,36.0,0,Sun,2017-09-17,4:05PM,LAC,MIA
+281,2017,2,Oakland Raiders,New York Jets,45.0,20.0,65.0,1,Sun,2017-09-17,4:05PM,LV,NYJ
+282,2017,2,Denver Broncos,Dallas Cowboys,42.0,17.0,59.0,1,Sun,2017-09-17,4:25PM,DEN,DAL
+283,2017,2,Los Angeles Rams,Washington Redskins,20.0,27.0,47.0,0,Sun,2017-09-17,4:25PM,LAR,WAS
+284,2017,2,Seattle Seahawks,San Francisco 49ers,12.0,9.0,21.0,1,Sun,2017-09-17,4:25PM,SEA,SF
+285,2017,2,Atlanta Falcons,Green Bay Packers,34.0,23.0,57.0,1,Sun,2017-09-17,8:30PM,ATL,GB
+286,2017,2,New York Giants,Detroit Lions,10.0,24.0,34.0,0,Mon,2017-09-18,8:30PM,NYG,DET
+287,2017,3,San Francisco 49ers,Los Angeles Rams,39.0,41.0,80.0,0,Thu,2017-09-21,8:25PM,SF,LAR
+288,2017,3,Jacksonville Jaguars,Baltimore Ravens,44.0,7.0,51.0,1,Sun,2017-09-24,9:30AM,JAX,BAL
+289,2017,3,New York Jets,Miami Dolphins,20.0,6.0,26.0,1,Sun,2017-09-24,1:00PM,NYJ,MIA
+290,2017,3,Detroit Lions,Atlanta Falcons,26.0,30.0,56.0,0,Sun,2017-09-24,1:00PM,DET,ATL
+291,2017,3,Buffalo Bills,Denver Broncos,26.0,16.0,42.0,1,Sun,2017-09-24,1:00PM,BUF,DEN
+292,2017,3,Carolina Panthers,New Orleans Saints,13.0,34.0,47.0,0,Sun,2017-09-24,1:00PM,CAR,NO
+293,2017,3,Chicago Bears,Pittsburgh Steelers,23.0,17.0,40.0,1,Sun,2017-09-24,1:00PM,CHI,PIT
+294,2017,3,Indianapolis Colts,Cleveland Browns,31.0,28.0,59.0,1,Sun,2017-09-24,1:00PM,IND,CLE
+295,2017,3,New England Patriots,Houston Texans,36.0,33.0,69.0,1,Sun,2017-09-24,1:00PM,NE,HOU
+296,2017,3,Minnesota Vikings,Tampa Bay Buccaneers,34.0,17.0,51.0,1,Sun,2017-09-24,1:00PM,MIN,TB
+297,2017,3,Philadelphia Eagles,New York Giants,27.0,24.0,51.0,1,Sun,2017-09-24,1:00PM,PHI,NYG
+298,2017,3,Tennessee Titans,Seattle Seahawks,33.0,27.0,60.0,1,Sun,2017-09-24,4:05PM,TEN,SEA
+299,2017,3,Green Bay Packers,Cincinnati Bengals,27.0,24.0,51.0,1,Sun,2017-09-24,4:25PM,GB,CIN
+300,2017,3,Los Angeles Chargers,Kansas City Chiefs,10.0,24.0,34.0,0,Sun,2017-09-24,4:25PM,LAC,KC
+301,2017,3,Washington Redskins,Oakland Raiders,27.0,10.0,37.0,1,Sun,2017-09-24,8:30PM,WAS,LV
+302,2017,3,Arizona Cardinals,Dallas Cowboys,17.0,28.0,45.0,0,Mon,2017-09-25,8:30PM,ARI,DAL
+303,2017,4,Green Bay Packers,Chicago Bears,35.0,14.0,49.0,1,Thu,2017-09-28,8:25PM,GB,CHI
+304,2017,4,Miami Dolphins,New Orleans Saints,0.0,20.0,20.0,0,Sun,2017-10-01,9:30AM,MIA,NO
+305,2017,4,Atlanta Falcons,Buffalo Bills,17.0,23.0,40.0,0,Sun,2017-10-01,1:00PM,ATL,BUF
+306,2017,4,New England Patriots,Carolina Panthers,30.0,33.0,63.0,0,Sun,2017-10-01,1:00PM,NE,CAR
+307,2017,4,Cleveland Browns,Cincinnati Bengals,7.0,31.0,38.0,0,Sun,2017-10-01,1:00PM,CLE,CIN
+308,2017,4,Dallas Cowboys,Los Angeles Rams,30.0,35.0,65.0,0,Sun,2017-10-01,1:00PM,DAL,LAR
+309,2017,4,Minnesota Vikings,Detroit Lions,7.0,14.0,21.0,0,Sun,2017-10-01,1:00PM,MIN,DET
+310,2017,4,Houston Texans,Tennessee Titans,57.0,14.0,71.0,1,Sun,2017-10-01,1:00PM,HOU,TEN
+311,2017,4,New York Jets,Jacksonville Jaguars,23.0,20.0,43.0,1,Sun,2017-10-01,1:00PM,NYJ,JAX
+312,2017,4,Baltimore Ravens,Pittsburgh Steelers,9.0,26.0,35.0,0,Sun,2017-10-01,1:00PM,BAL,PIT
+313,2017,4,Arizona Cardinals,San Francisco 49ers,18.0,15.0,33.0,1,Sun,2017-10-01,4:05PM,ARI,SF
+314,2017,4,Tampa Bay Buccaneers,New York Giants,25.0,23.0,48.0,1,Sun,2017-10-01,4:05PM,TB,NYG
+315,2017,4,Los Angeles Chargers,Philadelphia Eagles,24.0,26.0,50.0,0,Sun,2017-10-01,4:05PM,LAC,PHI
+316,2017,4,Denver Broncos,Oakland Raiders,16.0,10.0,26.0,1,Sun,2017-10-01,4:25PM,DEN,LV
+317,2017,4,Seattle Seahawks,Indianapolis Colts,46.0,18.0,64.0,1,Sun,2017-10-01,8:30PM,SEA,IND
+318,2017,4,Kansas City Chiefs,Washington Redskins,29.0,20.0,49.0,1,Mon,2017-10-02,8:30PM,KC,WAS
+319,2017,5,Tampa Bay Buccaneers,New England Patriots,14.0,19.0,33.0,0,Thu,2017-10-05,8:25PM,TB,NE
+320,2017,5,Miami Dolphins,Tennessee Titans,16.0,10.0,26.0,1,Sun,2017-10-08,1:00PM,MIA,TEN
+321,2017,5,Cincinnati Bengals,Buffalo Bills,20.0,16.0,36.0,1,Sun,2017-10-08,1:00PM,CIN,BUF
+322,2017,5,Detroit Lions,Carolina Panthers,24.0,27.0,51.0,0,Sun,2017-10-08,1:00PM,DET,CAR
+323,2017,5,Cleveland Browns,New York Jets,14.0,17.0,31.0,0,Sun,2017-10-08,1:00PM,CLE,NYJ
+324,2017,5,Indianapolis Colts,San Francisco 49ers,26.0,23.0,49.0,1,Sun,2017-10-08,1:00PM,IND,SF
+325,2017,5,Philadelphia Eagles,Arizona Cardinals,34.0,7.0,41.0,1,Sun,2017-10-08,1:00PM,PHI,ARI
+326,2017,5,Pittsburgh Steelers,Jacksonville Jaguars,9.0,30.0,39.0,0,Sun,2017-10-08,1:00PM,PIT,JAX
+327,2017,5,New York Giants,Los Angeles Chargers,22.0,27.0,49.0,0,Sun,2017-10-08,1:00PM,NYG,LAC
+328,2017,5,Oakland Raiders,Baltimore Ravens,17.0,30.0,47.0,0,Sun,2017-10-08,4:05PM,LV,BAL
+329,2017,5,Los Angeles Rams,Seattle Seahawks,10.0,16.0,26.0,0,Sun,2017-10-08,4:05PM,LAR,SEA
+330,2017,5,Dallas Cowboys,Green Bay Packers,31.0,35.0,66.0,0,Sun,2017-10-08,4:25PM,DAL,GB
+331,2017,5,Houston Texans,Kansas City Chiefs,34.0,42.0,76.0,0,Sun,2017-10-08,8:30PM,HOU,KC
+332,2017,5,Chicago Bears,Minnesota Vikings,17.0,20.0,37.0,0,Mon,2017-10-09,8:30PM,CHI,MIN
+333,2017,6,Carolina Panthers,Philadelphia Eagles,23.0,28.0,51.0,0,Thu,2017-10-12,8:25PM,CAR,PHI
+334,2017,6,Atlanta Falcons,Miami Dolphins,17.0,20.0,37.0,0,Sun,2017-10-15,1:00PM,ATL,MIA
+335,2017,6,Baltimore Ravens,Chicago Bears,24.0,27.0,51.0,0,Sun,2017-10-15,1:00PM,BAL,CHI
+336,2017,6,Houston Texans,Cleveland Browns,33.0,17.0,50.0,1,Sun,2017-10-15,1:00PM,HOU,CLE
+337,2017,6,New Orleans Saints,Detroit Lions,52.0,38.0,90.0,1,Sun,2017-10-15,1:00PM,NO,DET
+338,2017,6,Minnesota Vikings,Green Bay Packers,23.0,10.0,33.0,1,Sun,2017-10-15,1:00PM,MIN,GB
+339,2017,6,New York Jets,New England Patriots,17.0,24.0,41.0,0,Sun,2017-10-15,1:00PM,NYJ,NE
+340,2017,6,Washington Redskins,San Francisco 49ers,26.0,24.0,50.0,1,Sun,2017-10-15,1:00PM,WAS,SF
+341,2017,6,Arizona Cardinals,Tampa Bay Buccaneers,38.0,33.0,71.0,1,Sun,2017-10-15,4:05PM,ARI,TB
+342,2017,6,Jacksonville Jaguars,Los Angeles Rams,17.0,27.0,44.0,0,Sun,2017-10-15,4:05PM,JAX,LAR
+343,2017,6,Kansas City Chiefs,Pittsburgh Steelers,13.0,19.0,32.0,0,Sun,2017-10-15,4:25PM,KC,PIT
+344,2017,6,Oakland Raiders,Los Angeles Chargers,16.0,17.0,33.0,0,Sun,2017-10-15,4:25PM,LV,LAC
+345,2017,6,Denver Broncos,New York Giants,10.0,23.0,33.0,0,Sun,2017-10-15,8:30PM,DEN,NYG
+346,2017,6,Tennessee Titans,Indianapolis Colts,36.0,22.0,58.0,1,Mon,2017-10-16,8:30PM,TEN,IND
+347,2017,7,Oakland Raiders,Kansas City Chiefs,31.0,30.0,61.0,1,Thu,2017-10-19,8:25PM,LV,KC
+348,2017,7,Buffalo Bills,Tampa Bay Buccaneers,30.0,27.0,57.0,1,Sun,2017-10-22,1:00PM,BUF,TB
+349,2017,7,Miami Dolphins,New York Jets,31.0,28.0,59.0,1,Sun,2017-10-22,1:00PM,MIA,NYJ
+350,2017,7,Chicago Bears,Carolina Panthers,17.0,3.0,20.0,1,Sun,2017-10-22,1:00PM,CHI,CAR
+351,2017,7,Cleveland Browns,Tennessee Titans,9.0,12.0,21.0,0,Sun,2017-10-22,1:00PM,CLE,TEN
+352,2017,7,Indianapolis Colts,Jacksonville Jaguars,0.0,27.0,27.0,0,Sun,2017-10-22,1:00PM,IND,JAX
+353,2017,7,Los Angeles Rams,Arizona Cardinals,33.0,0.0,33.0,1,Sun,2017-10-22,1:00PM,LAR,ARI
+354,2017,7,Green Bay Packers,New Orleans Saints,17.0,26.0,43.0,0,Sun,2017-10-22,1:00PM,GB,NO
+355,2017,7,Minnesota Vikings,Baltimore Ravens,24.0,16.0,40.0,1,Sun,2017-10-22,1:00PM,MIN,BAL
+356,2017,7,San Francisco 49ers,Dallas Cowboys,10.0,40.0,50.0,0,Sun,2017-10-22,4:05PM,SF,DAL
+357,2017,7,Pittsburgh Steelers,Cincinnati Bengals,29.0,14.0,43.0,1,Sun,2017-10-22,4:25PM,PIT,CIN
+358,2017,7,Los Angeles Chargers,Denver Broncos,21.0,0.0,21.0,1,Sun,2017-10-22,4:25PM,LAC,DEN
+359,2017,7,New York Giants,Seattle Seahawks,7.0,24.0,31.0,0,Sun,2017-10-22,4:25PM,NYG,SEA
+360,2017,7,New England Patriots,Atlanta Falcons,23.0,7.0,30.0,1,Sun,2017-10-22,8:30PM,NE,ATL
+361,2017,7,Philadelphia Eagles,Washington Redskins,34.0,24.0,58.0,1,Mon,2017-10-23,8:30PM,PHI,WAS
+362,2017,8,Baltimore Ravens,Miami Dolphins,40.0,0.0,40.0,1,Thu,2017-10-26,8:25PM,BAL,MIA
+363,2017,8,Cleveland Browns,Minnesota Vikings,16.0,33.0,49.0,0,Sun,2017-10-29,9:30AM,CLE,MIN
+364,2017,8,New York Jets,Atlanta Falcons,20.0,25.0,45.0,0,Sun,2017-10-29,1:00PM,NYJ,ATL
+365,2017,8,Buffalo Bills,Oakland Raiders,34.0,14.0,48.0,1,Sun,2017-10-29,1:00PM,BUF,LV
+366,2017,8,Cincinnati Bengals,Indianapolis Colts,24.0,23.0,47.0,1,Sun,2017-10-29,1:00PM,CIN,IND
+367,2017,8,Tampa Bay Buccaneers,Carolina Panthers,3.0,17.0,20.0,0,Sun,2017-10-29,1:00PM,TB,CAR
+368,2017,8,New Orleans Saints,Chicago Bears,20.0,12.0,32.0,1,Sun,2017-10-29,1:00PM,NO,CHI
+369,2017,8,New England Patriots,Los Angeles Chargers,21.0,13.0,34.0,1,Sun,2017-10-29,1:00PM,NE,LAC
+370,2017,8,Philadelphia Eagles,San Francisco 49ers,33.0,10.0,43.0,1,Sun,2017-10-29,1:00PM,PHI,SF
+371,2017,8,Seattle Seahawks,Houston Texans,41.0,38.0,79.0,1,Sun,2017-10-29,4:05PM,SEA,HOU
+372,2017,8,Washington Redskins,Dallas Cowboys,19.0,33.0,52.0,0,Sun,2017-10-29,4:25PM,WAS,DAL
+373,2017,8,Detroit Lions,Pittsburgh Steelers,15.0,20.0,35.0,0,Sun,2017-10-29,8:30PM,DET,PIT
+374,2017,8,Kansas City Chiefs,Denver Broncos,29.0,19.0,48.0,1,Mon,2017-10-30,8:30PM,KC,DEN
+375,2017,9,New York Jets,Buffalo Bills,34.0,21.0,55.0,1,Thu,2017-11-02,8:25PM,NYJ,BUF
+376,2017,9,Carolina Panthers,Atlanta Falcons,20.0,17.0,37.0,1,Sun,2017-11-05,1:00PM,CAR,ATL
+377,2017,9,Jacksonville Jaguars,Cincinnati Bengals,23.0,7.0,30.0,1,Sun,2017-11-05,1:00PM,JAX,CIN
+378,2017,9,Philadelphia Eagles,Denver Broncos,51.0,23.0,74.0,1,Sun,2017-11-05,1:00PM,PHI,DEN
+379,2017,9,New Orleans Saints,Tampa Bay Buccaneers,30.0,10.0,40.0,1,Sun,2017-11-05,1:00PM,NO,TB
+380,2017,9,New York Giants,Los Angeles Rams,17.0,51.0,68.0,0,Sun,2017-11-05,1:00PM,NYG,LAR
+381,2017,9,Tennessee Titans,Baltimore Ravens,23.0,20.0,43.0,1,Sun,2017-11-05,1:00PM,TEN,BAL
+382,2017,9,Houston Texans,Indianapolis Colts,14.0,20.0,34.0,0,Sun,2017-11-05,1:00PM,HOU,IND
+383,2017,9,San Francisco 49ers,Arizona Cardinals,10.0,20.0,30.0,0,Sun,2017-11-05,4:05PM,SF,ARI
+384,2017,9,Seattle Seahawks,Washington Redskins,14.0,17.0,31.0,0,Sun,2017-11-05,4:05PM,SEA,WAS
+385,2017,9,Dallas Cowboys,Kansas City Chiefs,28.0,17.0,45.0,1,Sun,2017-11-05,4:25PM,DAL,KC
+386,2017,9,Miami Dolphins,Oakland Raiders,24.0,27.0,51.0,0,Sun,2017-11-05,8:30PM,MIA,LV
+387,2017,9,Green Bay Packers,Detroit Lions,17.0,30.0,47.0,0,Mon,2017-11-06,8:30PM,GB,DET
+388,2017,10,Arizona Cardinals,Seattle Seahawks,16.0,22.0,38.0,0,Thu,2017-11-09,8:25PM,ARI,SEA
+389,2017,10,Buffalo Bills,New Orleans Saints,10.0,47.0,57.0,0,Sun,2017-11-12,1:00PM,BUF,NO
+390,2017,10,Chicago Bears,Green Bay Packers,16.0,23.0,39.0,0,Sun,2017-11-12,1:00PM,CHI,GB
+391,2017,10,Tennessee Titans,Cincinnati Bengals,24.0,20.0,44.0,1,Sun,2017-11-12,1:00PM,TEN,CIN
+392,2017,10,Detroit Lions,Cleveland Browns,38.0,24.0,62.0,1,Sun,2017-11-12,1:00PM,DET,CLE
+393,2017,10,Jacksonville Jaguars,Los Angeles Chargers,20.0,17.0,37.0,1,Sun,2017-11-12,1:00PM,JAX,LAC
+394,2017,10,Washington Redskins,Minnesota Vikings,30.0,38.0,68.0,0,Sun,2017-11-12,1:00PM,WAS,MIN
+395,2017,10,Indianapolis Colts,Pittsburgh Steelers,17.0,20.0,37.0,0,Sun,2017-11-12,1:00PM,IND,PIT
+396,2017,10,Tampa Bay Buccaneers,New York Jets,15.0,10.0,25.0,1,Sun,2017-11-12,1:00PM,TB,NYJ
+397,2017,10,Los Angeles Rams,Houston Texans,33.0,7.0,40.0,1,Sun,2017-11-12,4:05PM,LAR,HOU
+398,2017,10,Atlanta Falcons,Dallas Cowboys,27.0,7.0,34.0,1,Sun,2017-11-12,4:25PM,ATL,DAL
+399,2017,10,San Francisco 49ers,New York Giants,31.0,21.0,52.0,1,Sun,2017-11-12,4:25PM,SF,NYG
+400,2017,10,Denver Broncos,New England Patriots,16.0,41.0,57.0,0,Sun,2017-11-12,8:30PM,DEN,NE
+401,2017,10,Carolina Panthers,Miami Dolphins,45.0,21.0,66.0,1,Mon,2017-11-13,8:30PM,CAR,MIA
+402,2017,11,Pittsburgh Steelers,Tennessee Titans,40.0,17.0,57.0,1,Thu,2017-11-16,8:25PM,PIT,TEN
+403,2017,11,Chicago Bears,Detroit Lions,24.0,27.0,51.0,0,Sun,2017-11-19,1:00PM,CHI,DET
+404,2017,11,Cleveland Browns,Jacksonville Jaguars,7.0,19.0,26.0,0,Sun,2017-11-19,1:00PM,CLE,JAX
+405,2017,11,Houston Texans,Arizona Cardinals,31.0,21.0,52.0,1,Sun,2017-11-19,1:00PM,HOU,ARI
+406,2017,11,Green Bay Packers,Baltimore Ravens,0.0,23.0,23.0,0,Sun,2017-11-19,1:00PM,GB,BAL
+407,2017,11,New York Giants,Kansas City Chiefs,12.0,9.0,21.0,1,Sun,2017-11-19,1:00PM,NYG,KC
+408,2017,11,Miami Dolphins,Tampa Bay Buccaneers,20.0,30.0,50.0,0,Sun,2017-11-19,1:00PM,MIA,TB
+409,2017,11,Minnesota Vikings,Los Angeles Rams,24.0,7.0,31.0,1,Sun,2017-11-19,1:00PM,MIN,LAR
+410,2017,11,New Orleans Saints,Washington Redskins,34.0,31.0,65.0,1,Sun,2017-11-19,1:00PM,NO,WAS
+411,2017,11,Los Angeles Chargers,Buffalo Bills,54.0,24.0,78.0,1,Sun,2017-11-19,4:05PM,LAC,BUF
+412,2017,11,Denver Broncos,Cincinnati Bengals,17.0,20.0,37.0,0,Sun,2017-11-19,4:25PM,DEN,CIN
+413,2017,11,Oakland Raiders,New England Patriots,8.0,33.0,41.0,0,Sun,2017-11-19,4:25PM,LV,NE
+414,2017,11,Dallas Cowboys,Philadelphia Eagles,9.0,37.0,46.0,0,Sun,2017-11-19,8:30PM,DAL,PHI
+415,2017,11,Seattle Seahawks,Atlanta Falcons,31.0,34.0,65.0,0,Mon,2017-11-20,8:30PM,SEA,ATL
+416,2017,12,Detroit Lions,Minnesota Vikings,23.0,30.0,53.0,0,Thu,2017-11-23,12:30PM,DET,MIN
+417,2017,12,Dallas Cowboys,Los Angeles Chargers,6.0,28.0,34.0,0,Thu,2017-11-23,4:30PM,DAL,LAC
+418,2017,12,Washington Redskins,New York Giants,20.0,10.0,30.0,1,Thu,2017-11-23,8:30PM,WAS,NYG
+419,2017,12,Atlanta Falcons,Tampa Bay Buccaneers,34.0,20.0,54.0,1,Sun,2017-11-26,1:00PM,ATL,TB
+420,2017,12,Kansas City Chiefs,Buffalo Bills,10.0,16.0,26.0,0,Sun,2017-11-26,1:00PM,KC,BUF
+421,2017,12,New York Jets,Carolina Panthers,27.0,35.0,62.0,0,Sun,2017-11-26,1:00PM,NYJ,CAR
+422,2017,12,Philadelphia Eagles,Chicago Bears,31.0,3.0,34.0,1,Sun,2017-11-26,1:00PM,PHI,CHI
+423,2017,12,Cincinnati Bengals,Cleveland Browns,30.0,16.0,46.0,1,Sun,2017-11-26,1:00PM,CIN,CLE
+424,2017,12,Indianapolis Colts,Tennessee Titans,16.0,20.0,36.0,0,Sun,2017-11-26,1:00PM,IND,TEN
+425,2017,12,New England Patriots,Miami Dolphins,35.0,17.0,52.0,1,Sun,2017-11-26,1:00PM,NE,MIA
+426,2017,12,San Francisco 49ers,Seattle Seahawks,13.0,24.0,37.0,0,Sun,2017-11-26,4:05PM,SF,SEA
+427,2017,12,Arizona Cardinals,Jacksonville Jaguars,27.0,24.0,51.0,1,Sun,2017-11-26,4:25PM,ARI,JAX
+428,2017,12,Oakland Raiders,Denver Broncos,21.0,14.0,35.0,1,Sun,2017-11-26,4:25PM,LV,DEN
+429,2017,12,Los Angeles Rams,New Orleans Saints,26.0,20.0,46.0,1,Sun,2017-11-26,4:25PM,LAR,NO
+430,2017,12,Pittsburgh Steelers,Green Bay Packers,31.0,28.0,59.0,1,Sun,2017-11-26,8:30PM,PIT,GB
+431,2017,12,Baltimore Ravens,Houston Texans,23.0,16.0,39.0,1,Mon,2017-11-27,8:30PM,BAL,HOU
+432,2017,13,Dallas Cowboys,Washington Redskins,38.0,14.0,52.0,1,Thu,2017-11-30,8:25PM,DAL,WAS
+433,2017,13,Atlanta Falcons,Minnesota Vikings,9.0,14.0,23.0,0,Sun,2017-12-03,1:00PM,ATL,MIN
+434,2017,13,Buffalo Bills,New England Patriots,3.0,23.0,26.0,0,Sun,2017-12-03,1:00PM,BUF,NE
+435,2017,13,Chicago Bears,San Francisco 49ers,14.0,15.0,29.0,0,Sun,2017-12-03,1:00PM,CHI,SF
+436,2017,13,Jacksonville Jaguars,Indianapolis Colts,30.0,10.0,40.0,1,Sun,2017-12-03,1:00PM,JAX,IND
+437,2017,13,Miami Dolphins,Denver Broncos,35.0,9.0,44.0,1,Sun,2017-12-03,1:00PM,MIA,DEN
+438,2017,13,Baltimore Ravens,Detroit Lions,44.0,20.0,64.0,1,Sun,2017-12-03,1:00PM,BAL,DET
+439,2017,13,Green Bay Packers,Tampa Bay Buccaneers,26.0,20.0,46.0,1,Sun,2017-12-03,1:00PM,GB,TB
+440,2017,13,Tennessee Titans,Houston Texans,24.0,13.0,37.0,1,Sun,2017-12-03,1:00PM,TEN,HOU
+441,2017,13,New York Jets,Kansas City Chiefs,38.0,31.0,69.0,1,Sun,2017-12-03,1:00PM,NYJ,KC
+442,2017,13,Los Angeles Chargers,Cleveland Browns,19.0,10.0,29.0,1,Sun,2017-12-03,4:05PM,LAC,CLE
+443,2017,13,New Orleans Saints,Carolina Panthers,31.0,21.0,52.0,1,Sun,2017-12-03,4:25PM,NO,CAR
+444,2017,13,Arizona Cardinals,Los Angeles Rams,16.0,32.0,48.0,0,Sun,2017-12-03,4:25PM,ARI,LAR
+445,2017,13,Oakland Raiders,New York Giants,24.0,17.0,41.0,1,Sun,2017-12-03,4:25PM,LV,NYG
+446,2017,13,Seattle Seahawks,Philadelphia Eagles,24.0,10.0,34.0,1,Sun,2017-12-03,8:30PM,SEA,PHI
+447,2017,13,Cincinnati Bengals,Pittsburgh Steelers,20.0,23.0,43.0,0,Mon,2017-12-04,8:30PM,CIN,PIT
+448,2017,14,Atlanta Falcons,New Orleans Saints,20.0,17.0,37.0,1,Thu,2017-12-07,8:25PM,ATL,NO
+449,2017,14,Buffalo Bills,Indianapolis Colts,13.0,7.0,20.0,1,Sun,2017-12-10,1:00PM,BUF,IND
+450,2017,14,Carolina Panthers,Minnesota Vikings,31.0,24.0,55.0,1,Sun,2017-12-10,1:00PM,CAR,MIN
+451,2017,14,Cincinnati Bengals,Chicago Bears,7.0,33.0,40.0,0,Sun,2017-12-10,1:00PM,CIN,CHI
+452,2017,14,Cleveland Browns,Green Bay Packers,21.0,27.0,48.0,0,Sun,2017-12-10,1:00PM,CLE,GB
+453,2017,14,New York Giants,Dallas Cowboys,10.0,30.0,40.0,0,Sun,2017-12-10,1:00PM,NYG,DAL
+454,2017,14,Tampa Bay Buccaneers,Detroit Lions,21.0,24.0,45.0,0,Sun,2017-12-10,1:00PM,TB,DET
+455,2017,14,Houston Texans,San Francisco 49ers,16.0,26.0,42.0,0,Sun,2017-12-10,1:00PM,HOU,SF
+456,2017,14,Kansas City Chiefs,Oakland Raiders,26.0,15.0,41.0,1,Sun,2017-12-10,1:00PM,KC,LV
+457,2017,14,Arizona Cardinals,Tennessee Titans,12.0,7.0,19.0,1,Sun,2017-12-10,4:05PM,ARI,TEN
+458,2017,14,Denver Broncos,New York Jets,23.0,0.0,23.0,1,Sun,2017-12-10,4:05PM,DEN,NYJ
+459,2017,14,Los Angeles Chargers,Washington Redskins,30.0,13.0,43.0,1,Sun,2017-12-10,4:05PM,LAC,WAS
+460,2017,14,Jacksonville Jaguars,Seattle Seahawks,30.0,24.0,54.0,1,Sun,2017-12-10,4:25PM,JAX,SEA
+461,2017,14,Los Angeles Rams,Philadelphia Eagles,35.0,43.0,78.0,0,Sun,2017-12-10,4:25PM,LAR,PHI
+462,2017,14,Pittsburgh Steelers,Baltimore Ravens,39.0,38.0,77.0,1,Sun,2017-12-10,8:30PM,PIT,BAL
+463,2017,14,Miami Dolphins,New England Patriots,27.0,20.0,47.0,1,Mon,2017-12-11,8:30PM,MIA,NE
+464,2017,15,Indianapolis Colts,Denver Broncos,13.0,25.0,38.0,0,Thu,2017-12-14,8:25PM,IND,DEN
+465,2017,15,Detroit Lions,Chicago Bears,20.0,10.0,30.0,1,Sat,2017-12-16,4:30PM,DET,CHI
+466,2017,15,Kansas City Chiefs,Los Angeles Chargers,30.0,13.0,43.0,1,Sat,2017-12-16,8:25PM,KC,LAC
+467,2017,15,Buffalo Bills,Miami Dolphins,24.0,16.0,40.0,1,Sun,2017-12-17,1:00PM,BUF,MIA
+468,2017,15,Carolina Panthers,Green Bay Packers,31.0,24.0,55.0,1,Sun,2017-12-17,1:00PM,CAR,GB
+469,2017,15,Minnesota Vikings,Cincinnati Bengals,34.0,7.0,41.0,1,Sun,2017-12-17,1:00PM,MIN,CIN
+470,2017,15,Cleveland Browns,Baltimore Ravens,10.0,27.0,37.0,0,Sun,2017-12-17,1:00PM,CLE,BAL
+471,2017,15,Washington Redskins,Arizona Cardinals,20.0,15.0,35.0,1,Sun,2017-12-17,1:00PM,WAS,ARI
+472,2017,15,Jacksonville Jaguars,Houston Texans,45.0,7.0,52.0,1,Sun,2017-12-17,1:00PM,JAX,HOU
+473,2017,15,New Orleans Saints,New York Jets,31.0,19.0,50.0,1,Sun,2017-12-17,1:00PM,NO,NYJ
+474,2017,15,New York Giants,Philadelphia Eagles,29.0,34.0,63.0,0,Sun,2017-12-17,1:00PM,NYG,PHI
+475,2017,15,Seattle Seahawks,Los Angeles Rams,7.0,42.0,49.0,0,Sun,2017-12-17,4:05PM,SEA,LAR
+476,2017,15,Pittsburgh Steelers,New England Patriots,24.0,27.0,51.0,0,Sun,2017-12-17,4:25PM,PIT,NE
+477,2017,15,San Francisco 49ers,Tennessee Titans,25.0,23.0,48.0,1,Sun,2017-12-17,4:25PM,SF,TEN
+478,2017,15,Oakland Raiders,Dallas Cowboys,17.0,20.0,37.0,0,Sun,2017-12-17,8:30PM,LV,DAL
+479,2017,15,Tampa Bay Buccaneers,Atlanta Falcons,21.0,24.0,45.0,0,Mon,2017-12-18,8:30PM,TB,ATL
+480,2017,16,Baltimore Ravens,Indianapolis Colts,23.0,16.0,39.0,1,Sat,2017-12-23,4:30PM,BAL,IND
+481,2017,16,Green Bay Packers,Minnesota Vikings,0.0,16.0,16.0,0,Sat,2017-12-23,8:30PM,GB,MIN
+482,2017,16,New Orleans Saints,Atlanta Falcons,23.0,13.0,36.0,1,Sun,2017-12-24,1:00PM,NO,ATL
+483,2017,16,New England Patriots,Buffalo Bills,37.0,16.0,53.0,1,Sun,2017-12-24,1:00PM,NE,BUF
+484,2017,16,Carolina Panthers,Tampa Bay Buccaneers,22.0,19.0,41.0,1,Sun,2017-12-24,1:00PM,CAR,TB
+485,2017,16,Chicago Bears,Cleveland Browns,20.0,3.0,23.0,1,Sun,2017-12-24,1:00PM,CHI,CLE
+486,2017,16,Cincinnati Bengals,Detroit Lions,26.0,17.0,43.0,1,Sun,2017-12-24,1:00PM,CIN,DET
+487,2017,16,Washington Redskins,Denver Broncos,27.0,11.0,38.0,1,Sun,2017-12-24,1:00PM,WAS,DEN
+488,2017,16,Kansas City Chiefs,Miami Dolphins,29.0,13.0,42.0,1,Sun,2017-12-24,1:00PM,KC,MIA
+489,2017,16,New York Jets,Los Angeles Chargers,7.0,14.0,21.0,0,Sun,2017-12-24,1:00PM,NYJ,LAC
+490,2017,16,Tennessee Titans,Los Angeles Rams,23.0,27.0,50.0,0,Sun,2017-12-24,1:00PM,TEN,LAR
+491,2017,16,San Francisco 49ers,Jacksonville Jaguars,44.0,33.0,77.0,1,Sun,2017-12-24,4:05PM,SF,JAX
+492,2017,16,Arizona Cardinals,New York Giants,23.0,0.0,23.0,1,Sun,2017-12-24,4:25PM,ARI,NYG
+493,2017,16,Dallas Cowboys,Seattle Seahawks,12.0,21.0,33.0,0,Sun,2017-12-24,4:25PM,DAL,SEA
+494,2017,16,Houston Texans,Pittsburgh Steelers,6.0,34.0,40.0,0,Mon,2017-12-25,4:30PM,HOU,PIT
+495,2017,16,Philadelphia Eagles,Oakland Raiders,19.0,10.0,29.0,1,Mon,2017-12-25,8:30PM,PHI,LV
+496,2017,17,Minnesota Vikings,Chicago Bears,23.0,10.0,33.0,1,Sun,2017-12-31,1:00PM,MIN,CHI
+497,2017,17,Pittsburgh Steelers,Cleveland Browns,28.0,24.0,52.0,1,Sun,2017-12-31,1:00PM,PIT,CLE
+498,2017,17,Indianapolis Colts,Houston Texans,22.0,13.0,35.0,1,Sun,2017-12-31,1:00PM,IND,HOU
+499,2017,17,Philadelphia Eagles,Dallas Cowboys,0.0,6.0,6.0,0,Sun,2017-12-31,1:00PM,PHI,DAL
+500,2017,17,Detroit Lions,Green Bay Packers,35.0,11.0,46.0,1,Sun,2017-12-31,1:00PM,DET,GB
+501,2017,17,New England Patriots,New York Jets,26.0,6.0,32.0,1,Sun,2017-12-31,1:00PM,NE,NYJ
+502,2017,17,New York Giants,Washington Redskins,18.0,10.0,28.0,1,Sun,2017-12-31,1:00PM,NYG,WAS
+503,2017,17,Atlanta Falcons,Carolina Panthers,22.0,10.0,32.0,1,Sun,2017-12-31,4:25PM,ATL,CAR
+504,2017,17,Miami Dolphins,Buffalo Bills,16.0,22.0,38.0,0,Sun,2017-12-31,4:25PM,MIA,BUF
+505,2017,17,Baltimore Ravens,Cincinnati Bengals,27.0,31.0,58.0,0,Sun,2017-12-31,4:25PM,BAL,CIN
+506,2017,17,Seattle Seahawks,Arizona Cardinals,24.0,26.0,50.0,0,Sun,2017-12-31,4:25PM,SEA,ARI
+507,2017,17,Denver Broncos,Kansas City Chiefs,24.0,27.0,51.0,0,Sun,2017-12-31,4:25PM,DEN,KC
+508,2017,17,Tennessee Titans,Jacksonville Jaguars,15.0,10.0,25.0,1,Sun,2017-12-31,4:25PM,TEN,JAX
+509,2017,17,Tampa Bay Buccaneers,New Orleans Saints,31.0,24.0,55.0,1,Sun,2017-12-31,4:25PM,TB,NO
+510,2017,17,Los Angeles Chargers,Oakland Raiders,30.0,10.0,40.0,1,Sun,2017-12-31,4:25PM,LAC,LV
+511,2017,17,Los Angeles Rams,San Francisco 49ers,13.0,34.0,47.0,0,Sun,2017-12-31,4:25PM,LAR,SF
+512,2018,1,Philadelphia Eagles,Atlanta Falcons,18.0,12.0,30.0,1,Thu,2018-09-06,8:20PM,PHI,ATL
+513,2018,1,Baltimore Ravens,Buffalo Bills,47.0,3.0,50.0,1,Sun,2018-09-09,1:00PM,BAL,BUF
+514,2018,1,Indianapolis Colts,Cincinnati Bengals,23.0,34.0,57.0,0,Sun,2018-09-09,1:00PM,IND,CIN
+515,2018,1,Cleveland Browns,Pittsburgh Steelers,21.0,21.0,42.0,0,Sun,2018-09-09,1:00PM,CLE,PIT
+516,2018,1,New England Patriots,Houston Texans,27.0,20.0,47.0,1,Sun,2018-09-09,1:00PM,NE,HOU
+517,2018,1,New York Giants,Jacksonville Jaguars,15.0,20.0,35.0,0,Sun,2018-09-09,1:00PM,NYG,JAX
+518,2018,1,Miami Dolphins,Tennessee Titans,27.0,20.0,47.0,1,Sun,2018-09-09,1:00PM,MIA,TEN
+519,2018,1,Minnesota Vikings,San Francisco 49ers,24.0,16.0,40.0,1,Sun,2018-09-09,1:00PM,MIN,SF
+520,2018,1,New Orleans Saints,Tampa Bay Buccaneers,40.0,48.0,88.0,0,Sun,2018-09-09,1:00PM,NO,TB
+521,2018,1,Los Angeles Chargers,Kansas City Chiefs,28.0,38.0,66.0,0,Sun,2018-09-09,4:05PM,LAC,KC
+522,2018,1,Carolina Panthers,Dallas Cowboys,16.0,8.0,24.0,1,Sun,2018-09-09,4:25PM,CAR,DAL
+523,2018,1,Arizona Cardinals,Washington Redskins,6.0,24.0,30.0,0,Sun,2018-09-09,4:25PM,ARI,WAS
+524,2018,1,Denver Broncos,Seattle Seahawks,27.0,24.0,51.0,1,Sun,2018-09-09,4:25PM,DEN,SEA
+525,2018,1,Green Bay Packers,Chicago Bears,24.0,23.0,47.0,1,Sun,2018-09-09,8:20PM,GB,CHI
+526,2018,1,Detroit Lions,New York Jets,17.0,48.0,65.0,0,Mon,2018-09-10,7:10PM,DET,NYJ
+527,2018,1,Oakland Raiders,Los Angeles Rams,13.0,33.0,46.0,0,Mon,2018-09-10,10:20PM,LV,LAR
+528,2018,2,Cincinnati Bengals,Baltimore Ravens,34.0,23.0,57.0,1,Thu,2018-09-13,8:20PM,CIN,BAL
+529,2018,2,Atlanta Falcons,Carolina Panthers,31.0,24.0,55.0,1,Sun,2018-09-16,1:00PM,ATL,CAR
+530,2018,2,Buffalo Bills,Los Angeles Chargers,20.0,31.0,51.0,0,Sun,2018-09-16,1:00PM,BUF,LAC
+531,2018,2,New Orleans Saints,Cleveland Browns,21.0,18.0,39.0,1,Sun,2018-09-16,1:00PM,NO,CLE
+532,2018,2,Washington Redskins,Indianapolis Colts,9.0,21.0,30.0,0,Sun,2018-09-16,1:00PM,WAS,IND
+533,2018,2,Green Bay Packers,Minnesota Vikings,29.0,29.0,58.0,0,Sun,2018-09-16,1:00PM,GB,MIN
+534,2018,2,Tennessee Titans,Houston Texans,20.0,17.0,37.0,1,Sun,2018-09-16,1:00PM,TEN,HOU
+535,2018,2,Pittsburgh Steelers,Kansas City Chiefs,37.0,42.0,79.0,0,Sun,2018-09-16,1:00PM,PIT,KC
+536,2018,2,New York Jets,Miami Dolphins,12.0,20.0,32.0,0,Sun,2018-09-16,1:00PM,NYJ,MIA
+537,2018,2,Tampa Bay Buccaneers,Philadelphia Eagles,27.0,21.0,48.0,1,Sun,2018-09-16,1:00PM,TB,PHI
+538,2018,2,Los Angeles Rams,Arizona Cardinals,34.0,0.0,34.0,1,Sun,2018-09-16,4:05PM,LAR,ARI
+539,2018,2,San Francisco 49ers,Detroit Lions,30.0,27.0,57.0,1,Sun,2018-09-16,4:05PM,SF,DET
+540,2018,2,Denver Broncos,Oakland Raiders,20.0,19.0,39.0,1,Sun,2018-09-16,4:25PM,DEN,LV
+541,2018,2,Jacksonville Jaguars,New England Patriots,31.0,20.0,51.0,1,Sun,2018-09-16,4:25PM,JAX,NE
+542,2018,2,Dallas Cowboys,New York Giants,20.0,13.0,33.0,1,Sun,2018-09-16,8:20PM,DAL,NYG
+543,2018,2,Chicago Bears,Seattle Seahawks,24.0,17.0,41.0,1,Mon,2018-09-17,8:15PM,CHI,SEA
+544,2018,3,Cleveland Browns,New York Jets,21.0,17.0,38.0,1,Thu,2018-09-20,8:20PM,CLE,NYJ
+545,2018,3,Atlanta Falcons,New Orleans Saints,37.0,43.0,80.0,0,Sun,2018-09-23,1:00PM,ATL,NO
+546,2018,3,Minnesota Vikings,Buffalo Bills,6.0,27.0,33.0,0,Sun,2018-09-23,1:00PM,MIN,BUF
+547,2018,3,Carolina Panthers,Cincinnati Bengals,31.0,21.0,52.0,1,Sun,2018-09-23,1:00PM,CAR,CIN
+548,2018,3,Philadelphia Eagles,Indianapolis Colts,20.0,16.0,36.0,1,Sun,2018-09-23,1:00PM,PHI,IND
+549,2018,3,Baltimore Ravens,Denver Broncos,27.0,14.0,41.0,1,Sun,2018-09-23,1:00PM,BAL,DEN
+550,2018,3,Washington Redskins,Green Bay Packers,31.0,17.0,48.0,1,Sun,2018-09-23,1:00PM,WAS,GB
+551,2018,3,Houston Texans,New York Giants,22.0,27.0,49.0,0,Sun,2018-09-23,1:00PM,HOU,NYG
+552,2018,3,Jacksonville Jaguars,Tennessee Titans,6.0,9.0,15.0,0,Sun,2018-09-23,1:00PM,JAX,TEN
+553,2018,3,Kansas City Chiefs,San Francisco 49ers,38.0,27.0,65.0,1,Sun,2018-09-23,1:00PM,KC,SF
+554,2018,3,Miami Dolphins,Oakland Raiders,28.0,20.0,48.0,1,Sun,2018-09-23,1:00PM,MIA,LV
+555,2018,3,Los Angeles Rams,Los Angeles Chargers,35.0,23.0,58.0,1,Sun,2018-09-23,4:05PM,LAR,LAC
+556,2018,3,Arizona Cardinals,Chicago Bears,14.0,16.0,30.0,0,Sun,2018-09-23,4:25PM,ARI,CHI
+557,2018,3,Seattle Seahawks,Dallas Cowboys,24.0,13.0,37.0,1,Sun,2018-09-23,4:25PM,SEA,DAL
+558,2018,3,Detroit Lions,New England Patriots,26.0,10.0,36.0,1,Sun,2018-09-23,8:20PM,DET,NE
+559,2018,3,Tampa Bay Buccaneers,Pittsburgh Steelers,27.0,30.0,57.0,0,Mon,2018-09-24,8:15PM,TB,PIT
+560,2018,4,Los Angeles Rams,Minnesota Vikings,38.0,31.0,69.0,1,Thu,2018-09-27,8:20PM,LAR,MIN
+561,2018,4,Atlanta Falcons,Cincinnati Bengals,36.0,37.0,73.0,0,Sun,2018-09-30,1:00PM,ATL,CIN
+562,2018,4,Green Bay Packers,Buffalo Bills,22.0,0.0,22.0,1,Sun,2018-09-30,1:00PM,GB,BUF
+563,2018,4,Chicago Bears,Tampa Bay Buccaneers,48.0,10.0,58.0,1,Sun,2018-09-30,1:00PM,CHI,TB
+564,2018,4,Indianapolis Colts,Houston Texans,34.0,37.0,71.0,0,Sun,2018-09-30,1:00PM,IND,HOU
+565,2018,4,Dallas Cowboys,Detroit Lions,26.0,24.0,50.0,1,Sun,2018-09-30,1:00PM,DAL,DET
+566,2018,4,Jacksonville Jaguars,New York Jets,31.0,12.0,43.0,1,Sun,2018-09-30,1:00PM,JAX,NYJ
+567,2018,4,New England Patriots,Miami Dolphins,38.0,7.0,45.0,1,Sun,2018-09-30,1:00PM,NE,MIA
+568,2018,4,Tennessee Titans,Philadelphia Eagles,26.0,23.0,49.0,1,Sun,2018-09-30,1:00PM,TEN,PHI
+569,2018,4,Oakland Raiders,Cleveland Browns,45.0,42.0,87.0,1,Sun,2018-09-30,4:05PM,LV,CLE
+570,2018,4,Arizona Cardinals,Seattle Seahawks,17.0,20.0,37.0,0,Sun,2018-09-30,4:05PM,ARI,SEA
+571,2018,4,New York Giants,New Orleans Saints,18.0,33.0,51.0,0,Sun,2018-09-30,4:25PM,NYG,NO
+572,2018,4,Los Angeles Chargers,San Francisco 49ers,29.0,27.0,56.0,1,Sun,2018-09-30,4:25PM,LAC,SF
+573,2018,4,Pittsburgh Steelers,Baltimore Ravens,14.0,26.0,40.0,0,Sun,2018-09-30,8:20PM,PIT,BAL
+574,2018,4,Denver Broncos,Kansas City Chiefs,23.0,27.0,50.0,0,Mon,2018-10-01,8:15PM,DEN,KC
+575,2018,5,New England Patriots,Indianapolis Colts,38.0,24.0,62.0,1,Thu,2018-10-04,8:20PM,NE,IND
+576,2018,5,Carolina Panthers,New York Giants,33.0,31.0,64.0,1,Sun,2018-10-07,1:00PM,CAR,NYG
+577,2018,5,Pittsburgh Steelers,Atlanta Falcons,41.0,17.0,58.0,1,Sun,2018-10-07,1:00PM,PIT,ATL
+578,2018,5,Buffalo Bills,Tennessee Titans,13.0,12.0,25.0,1,Sun,2018-10-07,1:00PM,BUF,TEN
+579,2018,5,Cincinnati Bengals,Miami Dolphins,27.0,17.0,44.0,1,Sun,2018-10-07,1:00PM,CIN,MIA
+580,2018,5,Cleveland Browns,Baltimore Ravens,12.0,9.0,21.0,1,Sun,2018-10-07,1:00PM,CLE,BAL
+581,2018,5,New York Jets,Denver Broncos,34.0,16.0,50.0,1,Sun,2018-10-07,1:00PM,NYJ,DEN
+582,2018,5,Detroit Lions,Green Bay Packers,31.0,23.0,54.0,1,Sun,2018-10-07,1:00PM,DET,GB
+583,2018,5,Kansas City Chiefs,Jacksonville Jaguars,30.0,14.0,44.0,1,Sun,2018-10-07,1:00PM,KC,JAX
+584,2018,5,Los Angeles Chargers,Oakland Raiders,26.0,10.0,36.0,1,Sun,2018-10-07,4:05PM,LAC,LV
+585,2018,5,San Francisco 49ers,Arizona Cardinals,18.0,28.0,46.0,0,Sun,2018-10-07,4:25PM,SF,ARI
+586,2018,5,Philadelphia Eagles,Minnesota Vikings,21.0,23.0,44.0,0,Sun,2018-10-07,4:25PM,PHI,MIN
+587,2018,5,Seattle Seahawks,Los Angeles Rams,31.0,33.0,64.0,0,Sun,2018-10-07,4:25PM,SEA,LAR
+588,2018,5,Houston Texans,Dallas Cowboys,19.0,16.0,35.0,1,Sun,2018-10-07,8:20PM,HOU,DAL
+589,2018,5,New Orleans Saints,Washington Redskins,43.0,19.0,62.0,1,Mon,2018-10-08,8:15PM,NO,WAS
+590,2018,6,New York Giants,Philadelphia Eagles,13.0,34.0,47.0,0,Thu,2018-10-11,8:20PM,NYG,PHI
+591,2018,6,Washington Redskins,Carolina Panthers,23.0,17.0,40.0,1,Sun,2018-10-14,1:00PM,WAS,CAR
+592,2018,6,Miami Dolphins,Chicago Bears,31.0,28.0,59.0,1,Sun,2018-10-14,1:00PM,MIA,CHI
+593,2018,6,Atlanta Falcons,Tampa Bay Buccaneers,34.0,29.0,63.0,1,Sun,2018-10-14,1:00PM,ATL,TB
+594,2018,6,Houston Texans,Buffalo Bills,20.0,13.0,33.0,1,Sun,2018-10-14,1:00PM,HOU,BUF
+595,2018,6,Cincinnati Bengals,Pittsburgh Steelers,21.0,28.0,49.0,0,Sun,2018-10-14,1:00PM,CIN,PIT
+596,2018,6,Cleveland Browns,Los Angeles Chargers,14.0,38.0,52.0,0,Sun,2018-10-14,1:00PM,CLE,LAC
+597,2018,6,New York Jets,Indianapolis Colts,42.0,34.0,76.0,1,Sun,2018-10-14,1:00PM,NYJ,IND
+598,2018,6,Minnesota Vikings,Arizona Cardinals,27.0,17.0,44.0,1,Sun,2018-10-14,1:00PM,MIN,ARI
+599,2018,6,Oakland Raiders,Seattle Seahawks,3.0,27.0,30.0,0,Sun,2018-10-14,1:00PM,LV,SEA
+600,2018,6,Denver Broncos,Los Angeles Rams,20.0,23.0,43.0,0,Sun,2018-10-14,4:05PM,DEN,LAR
+601,2018,6,Dallas Cowboys,Jacksonville Jaguars,40.0,7.0,47.0,1,Sun,2018-10-14,4:25PM,DAL,JAX
+602,2018,6,Tennessee Titans,Baltimore Ravens,0.0,21.0,21.0,0,Sun,2018-10-14,4:25PM,TEN,BAL
+603,2018,6,New England Patriots,Kansas City Chiefs,43.0,40.0,83.0,1,Sun,2018-10-14,8:20PM,NE,KC
+604,2018,6,Green Bay Packers,San Francisco 49ers,33.0,30.0,63.0,1,Mon,2018-10-15,8:15PM,GB,SF
+605,2018,7,Arizona Cardinals,Denver Broncos,10.0,45.0,55.0,0,Thu,2018-10-18,8:20PM,ARI,DEN
+606,2018,7,Los Angeles Chargers,Tennessee Titans,20.0,19.0,39.0,1,Sun,2018-10-21,9:30AM,LAC,TEN
+607,2018,7,Philadelphia Eagles,Carolina Panthers,17.0,21.0,38.0,0,Sun,2018-10-21,1:00PM,PHI,CAR
+608,2018,7,Chicago Bears,New England Patriots,31.0,38.0,69.0,0,Sun,2018-10-21,1:00PM,CHI,NE
+609,2018,7,Miami Dolphins,Detroit Lions,21.0,32.0,53.0,0,Sun,2018-10-21,1:00PM,MIA,DET
+610,2018,7,Indianapolis Colts,Buffalo Bills,37.0,5.0,42.0,1,Sun,2018-10-21,1:00PM,IND,BUF
+611,2018,7,Tampa Bay Buccaneers,Cleveland Browns,26.0,23.0,49.0,1,Sun,2018-10-21,1:00PM,TB,CLE
+612,2018,7,Jacksonville Jaguars,Houston Texans,7.0,20.0,27.0,0,Sun,2018-10-21,1:00PM,JAX,HOU
+613,2018,7,New York Jets,Minnesota Vikings,17.0,37.0,54.0,0,Sun,2018-10-21,1:00PM,NYJ,MIN
+614,2018,7,Baltimore Ravens,New Orleans Saints,23.0,24.0,47.0,0,Sun,2018-10-21,4:05PM,BAL,NO
+615,2018,7,Washington Redskins,Dallas Cowboys,20.0,17.0,37.0,1,Sun,2018-10-21,4:25PM,WAS,DAL
+616,2018,7,San Francisco 49ers,Los Angeles Rams,10.0,39.0,49.0,0,Sun,2018-10-21,4:25PM,SF,LAR
+617,2018,7,Kansas City Chiefs,Cincinnati Bengals,45.0,10.0,55.0,1,Sun,2018-10-21,8:20PM,KC,CIN
+618,2018,7,Atlanta Falcons,New York Giants,23.0,20.0,43.0,1,Mon,2018-10-22,8:15PM,ATL,NYG
+619,2018,8,Houston Texans,Miami Dolphins,42.0,23.0,65.0,1,Thu,2018-10-25,8:20PM,HOU,MIA
+620,2018,8,Jacksonville Jaguars,Philadelphia Eagles,18.0,24.0,42.0,0,Sun,2018-10-28,9:30AM,JAX,PHI
+621,2018,8,Carolina Panthers,Baltimore Ravens,36.0,21.0,57.0,1,Sun,2018-10-28,1:00PM,CAR,BAL
+622,2018,8,Chicago Bears,New York Jets,24.0,10.0,34.0,1,Sun,2018-10-28,1:00PM,CHI,NYJ
+623,2018,8,Detroit Lions,Seattle Seahawks,14.0,28.0,42.0,0,Sun,2018-10-28,1:00PM,DET,SEA
+624,2018,8,Cincinnati Bengals,Tampa Bay Buccaneers,37.0,34.0,71.0,1,Sun,2018-10-28,1:00PM,CIN,TB
+625,2018,8,Pittsburgh Steelers,Cleveland Browns,33.0,18.0,51.0,1,Sun,2018-10-28,1:00PM,PIT,CLE
+626,2018,8,Kansas City Chiefs,Denver Broncos,30.0,23.0,53.0,1,Sun,2018-10-28,1:00PM,KC,DEN
+627,2018,8,New York Giants,Washington Redskins,13.0,20.0,33.0,0,Sun,2018-10-28,1:00PM,NYG,WAS
+628,2018,8,Oakland Raiders,Indianapolis Colts,28.0,42.0,70.0,0,Sun,2018-10-28,4:05PM,LV,IND
+629,2018,8,Los Angeles Rams,Green Bay Packers,29.0,27.0,56.0,1,Sun,2018-10-28,4:25PM,LAR,GB
+630,2018,8,Arizona Cardinals,San Francisco 49ers,18.0,15.0,33.0,1,Sun,2018-10-28,4:25PM,ARI,SF
+631,2018,8,Minnesota Vikings,New Orleans Saints,20.0,30.0,50.0,0,Sun,2018-10-28,8:20PM,MIN,NO
+632,2018,8,Buffalo Bills,New England Patriots,6.0,25.0,31.0,0,Mon,2018-10-29,8:15PM,BUF,NE
+633,2018,9,San Francisco 49ers,Oakland Raiders,34.0,3.0,37.0,1,Thu,2018-11-01,8:20PM,SF,LV
+634,2018,9,Washington Redskins,Atlanta Falcons,14.0,38.0,52.0,0,Sun,2018-11-04,1:00PM,WAS,ATL
+635,2018,9,Carolina Panthers,Tampa Bay Buccaneers,42.0,28.0,70.0,1,Sun,2018-11-04,1:00PM,CAR,TB
+636,2018,9,Minnesota Vikings,Detroit Lions,24.0,9.0,33.0,1,Sun,2018-11-04,1:00PM,MIN,DET
+637,2018,9,Baltimore Ravens,Pittsburgh Steelers,16.0,23.0,39.0,0,Sun,2018-11-04,1:00PM,BAL,PIT
+638,2018,9,Buffalo Bills,Chicago Bears,9.0,41.0,50.0,0,Sun,2018-11-04,1:00PM,BUF,CHI
+639,2018,9,Cleveland Browns,Kansas City Chiefs,21.0,37.0,58.0,0,Sun,2018-11-04,1:00PM,CLE,KC
+640,2018,9,Miami Dolphins,New York Jets,13.0,6.0,19.0,1,Sun,2018-11-04,1:00PM,MIA,NYJ
+641,2018,9,Seattle Seahawks,Los Angeles Chargers,17.0,25.0,42.0,0,Sun,2018-11-04,4:05PM,SEA,LAC
+642,2018,9,Denver Broncos,Houston Texans,17.0,19.0,36.0,0,Sun,2018-11-04,4:05PM,DEN,HOU
+643,2018,9,New Orleans Saints,Los Angeles Rams,45.0,35.0,80.0,1,Sun,2018-11-04,4:25PM,NO,LAR
+644,2018,9,New England Patriots,Green Bay Packers,31.0,17.0,48.0,1,Sun,2018-11-04,8:20PM,NE,GB
+645,2018,9,Dallas Cowboys,Tennessee Titans,14.0,28.0,42.0,0,Mon,2018-11-05,8:15PM,DAL,TEN
+646,2018,10,Pittsburgh Steelers,Carolina Panthers,52.0,21.0,73.0,1,Thu,2018-11-08,8:20PM,PIT,CAR
+647,2018,10,Cleveland Browns,Atlanta Falcons,28.0,16.0,44.0,1,Sun,2018-11-11,1:00PM,CLE,ATL
+648,2018,10,Chicago Bears,Detroit Lions,34.0,22.0,56.0,1,Sun,2018-11-11,1:00PM,CHI,DET
+649,2018,10,Cincinnati Bengals,New Orleans Saints,14.0,51.0,65.0,0,Sun,2018-11-11,1:00PM,CIN,NO
+650,2018,10,Indianapolis Colts,Jacksonville Jaguars,29.0,26.0,55.0,1,Sun,2018-11-11,1:00PM,IND,JAX
+651,2018,10,Kansas City Chiefs,Arizona Cardinals,26.0,14.0,40.0,1,Sun,2018-11-11,1:00PM,KC,ARI
+652,2018,10,Tampa Bay Buccaneers,Washington Redskins,3.0,16.0,19.0,0,Sun,2018-11-11,1:00PM,TB,WAS
+653,2018,10,New York Jets,Buffalo Bills,10.0,41.0,51.0,0,Sun,2018-11-11,1:00PM,NYJ,BUF
+654,2018,10,Tennessee Titans,New England Patriots,34.0,10.0,44.0,1,Sun,2018-11-11,1:00PM,TEN,NE
+655,2018,10,Oakland Raiders,Los Angeles Chargers,6.0,20.0,26.0,0,Sun,2018-11-11,4:05PM,LV,LAC
+656,2018,10,Green Bay Packers,Miami Dolphins,31.0,12.0,43.0,1,Sun,2018-11-11,4:25PM,GB,MIA
+657,2018,10,Los Angeles Rams,Seattle Seahawks,36.0,31.0,67.0,1,Sun,2018-11-11,4:25PM,LAR,SEA
+658,2018,10,Philadelphia Eagles,Dallas Cowboys,20.0,27.0,47.0,0,Sun,2018-11-11,8:20PM,PHI,DAL
+659,2018,10,San Francisco 49ers,New York Giants,23.0,27.0,50.0,0,Mon,2018-11-12,8:15PM,SF,NYG
+660,2018,11,Seattle Seahawks,Green Bay Packers,27.0,24.0,51.0,1,Thu,2018-11-15,8:20PM,SEA,GB
+661,2018,11,Atlanta Falcons,Dallas Cowboys,19.0,22.0,41.0,0,Sun,2018-11-18,1:00PM,ATL,DAL
+662,2018,11,Detroit Lions,Carolina Panthers,20.0,19.0,39.0,1,Sun,2018-11-18,1:00PM,DET,CAR
+663,2018,11,Baltimore Ravens,Cincinnati Bengals,24.0,21.0,45.0,1,Sun,2018-11-18,1:00PM,BAL,CIN
+664,2018,11,Indianapolis Colts,Tennessee Titans,38.0,10.0,48.0,1,Sun,2018-11-18,1:00PM,IND,TEN
+665,2018,11,Washington Redskins,Houston Texans,21.0,23.0,44.0,0,Sun,2018-11-18,1:00PM,WAS,HOU
+666,2018,11,Jacksonville Jaguars,Pittsburgh Steelers,16.0,20.0,36.0,0,Sun,2018-11-18,1:00PM,JAX,PIT
+667,2018,11,New York Giants,Tampa Bay Buccaneers,38.0,35.0,73.0,1,Sun,2018-11-18,1:00PM,NYG,TB
+668,2018,11,Arizona Cardinals,Oakland Raiders,21.0,23.0,44.0,0,Sun,2018-11-18,4:05PM,ARI,LV
+669,2018,11,Los Angeles Chargers,Denver Broncos,22.0,23.0,45.0,0,Sun,2018-11-18,4:05PM,LAC,DEN
+670,2018,11,New Orleans Saints,Philadelphia Eagles,48.0,7.0,55.0,1,Sun,2018-11-18,4:25PM,NO,PHI
+671,2018,11,Chicago Bears,Minnesota Vikings,25.0,20.0,45.0,1,Sun,2018-11-18,8:20PM,CHI,MIN
+672,2018,11,Los Angeles Rams,Kansas City Chiefs,54.0,51.0,105.0,1,Mon,2018-11-19,8:15PM,LAR,KC
+673,2018,12,Detroit Lions,Chicago Bears,16.0,23.0,39.0,0,Thu,2018-11-22,12:30PM,DET,CHI
+674,2018,12,Dallas Cowboys,Washington Redskins,31.0,23.0,54.0,1,Thu,2018-11-22,4:30PM,DAL,WAS
+675,2018,12,New Orleans Saints,Atlanta Falcons,31.0,17.0,48.0,1,Thu,2018-11-22,8:20PM,NO,ATL
+676,2018,12,Buffalo Bills,Jacksonville Jaguars,24.0,21.0,45.0,1,Sun,2018-11-25,1:00PM,BUF,JAX
+677,2018,12,Carolina Panthers,Seattle Seahawks,27.0,30.0,57.0,0,Sun,2018-11-25,1:00PM,CAR,SEA
+678,2018,12,Cincinnati Bengals,Cleveland Browns,20.0,35.0,55.0,0,Sun,2018-11-25,1:00PM,CIN,CLE
+679,2018,12,New York Jets,New England Patriots,13.0,27.0,40.0,0,Sun,2018-11-25,1:00PM,NYJ,NE
+680,2018,12,Philadelphia Eagles,New York Giants,25.0,22.0,47.0,1,Sun,2018-11-25,1:00PM,PHI,NYG
+681,2018,12,Baltimore Ravens,Oakland Raiders,34.0,17.0,51.0,1,Sun,2018-11-25,1:00PM,BAL,LV
+682,2018,12,Tampa Bay Buccaneers,San Francisco 49ers,27.0,9.0,36.0,1,Sun,2018-11-25,1:00PM,TB,SF
+683,2018,12,Los Angeles Chargers,Arizona Cardinals,45.0,10.0,55.0,1,Sun,2018-11-25,4:05PM,LAC,ARI
+684,2018,12,Indianapolis Colts,Miami Dolphins,27.0,24.0,51.0,1,Sun,2018-11-25,4:25PM,IND,MIA
+685,2018,12,Denver Broncos,Pittsburgh Steelers,24.0,17.0,41.0,1,Sun,2018-11-25,4:25PM,DEN,PIT
+686,2018,12,Minnesota Vikings,Green Bay Packers,24.0,17.0,41.0,1,Sun,2018-11-25,8:20PM,MIN,GB
+687,2018,12,Houston Texans,Tennessee Titans,34.0,17.0,51.0,1,Mon,2018-11-26,8:15PM,HOU,TEN
+688,2018,13,Dallas Cowboys,New Orleans Saints,13.0,10.0,23.0,1,Thu,2018-11-29,8:20PM,DAL,NO
+689,2018,13,Atlanta Falcons,Baltimore Ravens,16.0,26.0,42.0,0,Sun,2018-12-02,1:00PM,ATL,BAL
+690,2018,13,Miami Dolphins,Buffalo Bills,21.0,17.0,38.0,1,Sun,2018-12-02,1:00PM,MIA,BUF
+691,2018,13,Tampa Bay Buccaneers,Carolina Panthers,24.0,17.0,41.0,1,Sun,2018-12-02,1:00PM,TB,CAR
+692,2018,13,New York Giants,Chicago Bears,30.0,27.0,57.0,1,Sun,2018-12-02,1:00PM,NYG,CHI
+693,2018,13,Cincinnati Bengals,Denver Broncos,10.0,24.0,34.0,0,Sun,2018-12-02,1:00PM,CIN,DEN
+694,2018,13,Houston Texans,Cleveland Browns,29.0,13.0,42.0,1,Sun,2018-12-02,1:00PM,HOU,CLE
+695,2018,13,Jacksonville Jaguars,Indianapolis Colts,6.0,0.0,6.0,1,Sun,2018-12-02,1:00PM,JAX,IND
+696,2018,13,Green Bay Packers,Arizona Cardinals,17.0,20.0,37.0,0,Sun,2018-12-02,1:00PM,GB,ARI
+697,2018,13,Detroit Lions,Los Angeles Rams,16.0,30.0,46.0,0,Sun,2018-12-02,1:00PM,DET,LAR
+698,2018,13,Oakland Raiders,Kansas City Chiefs,33.0,40.0,73.0,0,Sun,2018-12-02,4:05PM,LV,KC
+699,2018,13,Tennessee Titans,New York Jets,26.0,22.0,48.0,1,Sun,2018-12-02,4:05PM,TEN,NYJ
+700,2018,13,New England Patriots,Minnesota Vikings,24.0,10.0,34.0,1,Sun,2018-12-02,4:25PM,NE,MIN
+701,2018,13,Seattle Seahawks,San Francisco 49ers,43.0,16.0,59.0,1,Sun,2018-12-02,4:25PM,SEA,SF
+702,2018,13,Pittsburgh Steelers,Los Angeles Chargers,30.0,33.0,63.0,0,Sun,2018-12-02,8:20PM,PIT,LAC
+703,2018,13,Philadelphia Eagles,Washington Redskins,28.0,13.0,41.0,1,Mon,2018-12-03,8:15PM,PHI,WAS
+704,2018,14,Tennessee Titans,Jacksonville Jaguars,30.0,9.0,39.0,1,Thu,2018-12-06,8:20PM,TEN,JAX
+705,2018,14,Green Bay Packers,Atlanta Falcons,34.0,20.0,54.0,1,Sun,2018-12-09,1:00PM,GB,ATL
+706,2018,14,Buffalo Bills,New York Jets,23.0,27.0,50.0,0,Sun,2018-12-09,1:00PM,BUF,NYJ
+707,2018,14,Cleveland Browns,Carolina Panthers,26.0,20.0,46.0,1,Sun,2018-12-09,1:00PM,CLE,CAR
+708,2018,14,Houston Texans,Indianapolis Colts,21.0,24.0,45.0,0,Sun,2018-12-09,1:00PM,HOU,IND
+709,2018,14,Kansas City Chiefs,Baltimore Ravens,27.0,24.0,51.0,1,Sun,2018-12-09,1:00PM,KC,BAL
+710,2018,14,Miami Dolphins,New England Patriots,34.0,33.0,67.0,1,Sun,2018-12-09,1:00PM,MIA,NE
+711,2018,14,Tampa Bay Buccaneers,New Orleans Saints,14.0,28.0,42.0,0,Sun,2018-12-09,1:00PM,TB,NO
+712,2018,14,Washington Redskins,New York Giants,16.0,40.0,56.0,0,Sun,2018-12-09,1:00PM,WAS,NYG
+713,2018,14,Los Angeles Chargers,Cincinnati Bengals,26.0,21.0,47.0,1,Sun,2018-12-09,4:05PM,LAC,CIN
+714,2018,14,San Francisco 49ers,Denver Broncos,20.0,14.0,34.0,1,Sun,2018-12-09,4:05PM,SF,DEN
+715,2018,14,Arizona Cardinals,Detroit Lions,3.0,17.0,20.0,0,Sun,2018-12-09,4:25PM,ARI,DET
+716,2018,14,Dallas Cowboys,Philadelphia Eagles,29.0,23.0,52.0,1,Sun,2018-12-09,4:25PM,DAL,PHI
+717,2018,14,Oakland Raiders,Pittsburgh Steelers,24.0,21.0,45.0,1,Sun,2018-12-09,4:25PM,LV,PIT
+718,2018,14,Chicago Bears,Los Angeles Rams,15.0,6.0,21.0,1,Sun,2018-12-09,8:20PM,CHI,LAR
+719,2018,14,Seattle Seahawks,Minnesota Vikings,21.0,7.0,28.0,1,Mon,2018-12-10,8:15PM,SEA,MIN
+720,2018,15,Kansas City Chiefs,Los Angeles Chargers,28.0,29.0,57.0,0,Thu,2018-12-13,8:20PM,KC,LAC
+721,2018,15,New York Jets,Houston Texans,22.0,29.0,51.0,0,Sat,2018-12-15,4:30PM,NYJ,HOU
+722,2018,15,Denver Broncos,Cleveland Browns,16.0,17.0,33.0,0,Sat,2018-12-15,8:20PM,DEN,CLE
+723,2018,15,Atlanta Falcons,Arizona Cardinals,40.0,14.0,54.0,1,Sun,2018-12-16,1:00PM,ATL,ARI
+724,2018,15,Buffalo Bills,Detroit Lions,14.0,13.0,27.0,1,Sun,2018-12-16,1:00PM,BUF,DET
+725,2018,15,Chicago Bears,Green Bay Packers,24.0,17.0,41.0,1,Sun,2018-12-16,1:00PM,CHI,GB
+726,2018,15,Cincinnati Bengals,Oakland Raiders,30.0,16.0,46.0,1,Sun,2018-12-16,1:00PM,CIN,LV
+727,2018,15,Indianapolis Colts,Dallas Cowboys,23.0,0.0,23.0,1,Sun,2018-12-16,1:00PM,IND,DAL
+728,2018,15,Jacksonville Jaguars,Washington Redskins,13.0,16.0,29.0,0,Sun,2018-12-16,1:00PM,JAX,WAS
+729,2018,15,Minnesota Vikings,Miami Dolphins,41.0,17.0,58.0,1,Sun,2018-12-16,1:00PM,MIN,MIA
+730,2018,15,New York Giants,Tennessee Titans,0.0,17.0,17.0,0,Sun,2018-12-16,1:00PM,NYG,TEN
+731,2018,15,Baltimore Ravens,Tampa Bay Buccaneers,20.0,12.0,32.0,1,Sun,2018-12-16,1:00PM,BAL,TB
+732,2018,15,San Francisco 49ers,Seattle Seahawks,26.0,23.0,49.0,1,Sun,2018-12-16,4:05PM,SF,SEA
+733,2018,15,Pittsburgh Steelers,New England Patriots,17.0,10.0,27.0,1,Sun,2018-12-16,4:25PM,PIT,NE
+734,2018,15,Los Angeles Rams,Philadelphia Eagles,23.0,30.0,53.0,0,Sun,2018-12-16,8:20PM,LAR,PHI
+735,2018,15,Carolina Panthers,New Orleans Saints,9.0,12.0,21.0,0,Mon,2018-12-17,8:15PM,CAR,NO
+736,2018,16,Tennessee Titans,Washington Redskins,25.0,16.0,41.0,1,Sat,2018-12-22,4:30PM,TEN,WAS
+737,2018,16,Los Angeles Chargers,Baltimore Ravens,10.0,22.0,32.0,0,Sat,2018-12-22,8:20PM,LAC,BAL
+738,2018,16,Carolina Panthers,Atlanta Falcons,10.0,24.0,34.0,0,Sun,2018-12-23,1:00PM,CAR,ATL
+739,2018,16,New England Patriots,Buffalo Bills,24.0,12.0,36.0,1,Sun,2018-12-23,1:00PM,NE,BUF
+740,2018,16,Cleveland Browns,Cincinnati Bengals,26.0,18.0,44.0,1,Sun,2018-12-23,1:00PM,CLE,CIN
+741,2018,16,Indianapolis Colts,New York Giants,28.0,27.0,55.0,1,Sun,2018-12-23,1:00PM,IND,NYG
+742,2018,16,Dallas Cowboys,Tampa Bay Buccaneers,27.0,20.0,47.0,1,Sun,2018-12-23,1:00PM,DAL,TB
+743,2018,16,Detroit Lions,Minnesota Vikings,9.0,27.0,36.0,0,Sun,2018-12-23,1:00PM,DET,MIN
+744,2018,16,New York Jets,Green Bay Packers,38.0,44.0,82.0,0,Sun,2018-12-23,1:00PM,NYJ,GB
+745,2018,16,Philadelphia Eagles,Houston Texans,32.0,30.0,62.0,1,Sun,2018-12-23,1:00PM,PHI,HOU
+746,2018,16,Miami Dolphins,Jacksonville Jaguars,7.0,17.0,24.0,0,Sun,2018-12-23,1:00PM,MIA,JAX
+747,2018,16,San Francisco 49ers,Chicago Bears,9.0,14.0,23.0,0,Sun,2018-12-23,4:05PM,SF,CHI
+748,2018,16,Arizona Cardinals,Los Angeles Rams,9.0,31.0,40.0,0,Sun,2018-12-23,4:05PM,ARI,LAR
+749,2018,16,New Orleans Saints,Pittsburgh Steelers,31.0,28.0,59.0,1,Sun,2018-12-23,4:25PM,NO,PIT
+750,2018,16,Seattle Seahawks,Kansas City Chiefs,38.0,31.0,69.0,1,Sun,2018-12-23,8:20PM,SEA,KC
+751,2018,16,Oakland Raiders,Denver Broncos,27.0,14.0,41.0,1,Mon,2018-12-24,8:15PM,LV,DEN
+752,2018,17,Tampa Bay Buccaneers,Atlanta Falcons,32.0,34.0,66.0,0,Sun,2018-12-30,1:00PM,TB,ATL
+753,2018,17,Buffalo Bills,Miami Dolphins,42.0,17.0,59.0,1,Sun,2018-12-30,1:00PM,BUF,MIA
+754,2018,17,New Orleans Saints,Carolina Panthers,14.0,33.0,47.0,0,Sun,2018-12-30,1:00PM,NO,CAR
+755,2018,17,New York Giants,Dallas Cowboys,35.0,36.0,71.0,0,Sun,2018-12-30,1:00PM,NYG,DAL
+756,2018,17,Green Bay Packers,Detroit Lions,0.0,31.0,31.0,0,Sun,2018-12-30,1:00PM,GB,DET
+757,2018,17,Houston Texans,Jacksonville Jaguars,20.0,3.0,23.0,1,Sun,2018-12-30,1:00PM,HOU,JAX
+758,2018,17,New England Patriots,New York Jets,38.0,3.0,41.0,1,Sun,2018-12-30,1:00PM,NE,NYJ
+759,2018,17,Minnesota Vikings,Chicago Bears,10.0,24.0,34.0,0,Sun,2018-12-30,4:25PM,MIN,CHI
+760,2018,17,Pittsburgh Steelers,Cincinnati Bengals,16.0,13.0,29.0,1,Sun,2018-12-30,4:25PM,PIT,CIN
+761,2018,17,Baltimore Ravens,Cleveland Browns,26.0,24.0,50.0,1,Sun,2018-12-30,4:25PM,BAL,CLE
+762,2018,17,Seattle Seahawks,Arizona Cardinals,27.0,24.0,51.0,1,Sun,2018-12-30,4:25PM,SEA,ARI
+763,2018,17,Denver Broncos,Los Angeles Chargers,9.0,23.0,32.0,0,Sun,2018-12-30,4:25PM,DEN,LAC
+764,2018,17,Kansas City Chiefs,Oakland Raiders,35.0,3.0,38.0,1,Sun,2018-12-30,4:25PM,KC,LV
+765,2018,17,Washington Redskins,Philadelphia Eagles,0.0,24.0,24.0,0,Sun,2018-12-30,4:25PM,WAS,PHI
+766,2018,17,Los Angeles Rams,San Francisco 49ers,48.0,32.0,80.0,1,Sun,2018-12-30,4:25PM,LAR,SF
+767,2018,17,Tennessee Titans,Indianapolis Colts,17.0,33.0,50.0,0,Sun,2018-12-30,8:20PM,TEN,IND
+768,2019,1,Chicago Bears,Green Bay Packers,3.0,10.0,13.0,0,Thu,2019-09-05,8:20PM,CHI,GB
+769,2019,1,Minnesota Vikings,Atlanta Falcons,28.0,12.0,40.0,1,Sun,2019-09-08,1:00PM,MIN,ATL
+770,2019,1,New York Jets,Buffalo Bills,16.0,17.0,33.0,0,Sun,2019-09-08,1:00PM,NYJ,BUF
+771,2019,1,Carolina Panthers,Los Angeles Rams,27.0,30.0,57.0,0,Sun,2019-09-08,1:00PM,CAR,LAR
+772,2019,1,Cleveland Browns,Tennessee Titans,13.0,43.0,56.0,0,Sun,2019-09-08,1:00PM,CLE,TEN
+773,2019,1,Jacksonville Jaguars,Kansas City Chiefs,26.0,40.0,66.0,0,Sun,2019-09-08,1:00PM,JAX,KC
+774,2019,1,Miami Dolphins,Baltimore Ravens,10.0,59.0,69.0,0,Sun,2019-09-08,1:00PM,MIA,BAL
+775,2019,1,Philadelphia Eagles,Washington Redskins,32.0,27.0,59.0,1,Sun,2019-09-08,1:00PM,PHI,WAS
+776,2019,1,Seattle Seahawks,Cincinnati Bengals,21.0,20.0,41.0,1,Sun,2019-09-08,4:05PM,SEA,CIN
+777,2019,1,Los Angeles Chargers,Indianapolis Colts,30.0,24.0,54.0,1,Sun,2019-09-08,4:05PM,LAC,IND
+778,2019,1,Arizona Cardinals,Detroit Lions,27.0,27.0,54.0,0,Sun,2019-09-08,4:25PM,ARI,DET
+779,2019,1,Dallas Cowboys,New York Giants,35.0,17.0,52.0,1,Sun,2019-09-08,4:25PM,DAL,NYG
+780,2019,1,Tampa Bay Buccaneers,San Francisco 49ers,17.0,31.0,48.0,0,Sun,2019-09-08,4:25PM,TB,SF
+781,2019,1,New England Patriots,Pittsburgh Steelers,33.0,3.0,36.0,1,Sun,2019-09-08,8:20PM,NE,PIT
+782,2019,1,New Orleans Saints,Houston Texans,30.0,28.0,58.0,1,Mon,2019-09-09,7:10PM,NO,HOU
+783,2019,1,Oakland Raiders,Denver Broncos,24.0,16.0,40.0,1,Mon,2019-09-09,10:20PM,LV,DEN
+784,2019,2,Carolina Panthers,Tampa Bay Buccaneers,14.0,20.0,34.0,0,Thu,2019-09-12,8:20PM,CAR,TB
+785,2019,2,New York Giants,Buffalo Bills,14.0,28.0,42.0,0,Sun,2019-09-15,1:00PM,NYG,BUF
+786,2019,2,Cincinnati Bengals,San Francisco 49ers,17.0,41.0,58.0,0,Sun,2019-09-15,1:00PM,CIN,SF
+787,2019,2,Tennessee Titans,Indianapolis Colts,17.0,19.0,36.0,0,Sun,2019-09-15,1:00PM,TEN,IND
+788,2019,2,Baltimore Ravens,Arizona Cardinals,23.0,17.0,40.0,1,Sun,2019-09-15,1:00PM,BAL,ARI
+789,2019,2,Washington Redskins,Dallas Cowboys,21.0,31.0,52.0,0,Sun,2019-09-15,1:00PM,WAS,DAL
+790,2019,2,Detroit Lions,Los Angeles Chargers,13.0,10.0,23.0,1,Sun,2019-09-15,1:00PM,DET,LAC
+791,2019,2,Green Bay Packers,Minnesota Vikings,21.0,16.0,37.0,1,Sun,2019-09-15,1:00PM,GB,MIN
+792,2019,2,Houston Texans,Jacksonville Jaguars,13.0,12.0,25.0,1,Sun,2019-09-15,1:00PM,HOU,JAX
+793,2019,2,Miami Dolphins,New England Patriots,0.0,43.0,43.0,0,Sun,2019-09-15,1:00PM,MIA,NE
+794,2019,2,Pittsburgh Steelers,Seattle Seahawks,26.0,28.0,54.0,0,Sun,2019-09-15,1:00PM,PIT,SEA
+795,2019,2,Oakland Raiders,Kansas City Chiefs,10.0,28.0,38.0,0,Sun,2019-09-15,4:05PM,LV,KC
+796,2019,2,Denver Broncos,Chicago Bears,14.0,16.0,30.0,0,Sun,2019-09-15,4:25PM,DEN,CHI
+797,2019,2,Los Angeles Rams,New Orleans Saints,27.0,9.0,36.0,1,Sun,2019-09-15,4:25PM,LAR,NO
+798,2019,2,Atlanta Falcons,Philadelphia Eagles,24.0,20.0,44.0,1,Sun,2019-09-15,8:20PM,ATL,PHI
+799,2019,2,New York Jets,Cleveland Browns,3.0,23.0,26.0,0,Mon,2019-09-16,8:15PM,NYJ,CLE
+800,2019,3,Jacksonville Jaguars,Tennessee Titans,20.0,7.0,27.0,1,Thu,2019-09-19,8:20PM,JAX,TEN
+801,2019,3,Indianapolis Colts,Atlanta Falcons,27.0,24.0,51.0,1,Sun,2019-09-22,1:00PM,IND,ATL
+802,2019,3,Buffalo Bills,Cincinnati Bengals,21.0,17.0,38.0,1,Sun,2019-09-22,1:00PM,BUF,CIN
+803,2019,3,Dallas Cowboys,Miami Dolphins,31.0,6.0,37.0,1,Sun,2019-09-22,1:00PM,DAL,MIA
+804,2019,3,Green Bay Packers,Denver Broncos,27.0,16.0,43.0,1,Sun,2019-09-22,1:00PM,GB,DEN
+805,2019,3,Philadelphia Eagles,Detroit Lions,24.0,27.0,51.0,0,Sun,2019-09-22,1:00PM,PHI,DET
+806,2019,3,Kansas City Chiefs,Baltimore Ravens,33.0,28.0,61.0,1,Sun,2019-09-22,1:00PM,KC,BAL
+807,2019,3,Minnesota Vikings,Oakland Raiders,34.0,14.0,48.0,1,Sun,2019-09-22,1:00PM,MIN,LV
+808,2019,3,New England Patriots,New York Jets,30.0,14.0,44.0,1,Sun,2019-09-22,1:00PM,NE,NYJ
+809,2019,3,Arizona Cardinals,Carolina Panthers,20.0,38.0,58.0,0,Sun,2019-09-22,4:05PM,ARI,CAR
+810,2019,3,Tampa Bay Buccaneers,New York Giants,31.0,32.0,63.0,0,Sun,2019-09-22,4:05PM,TB,NYG
+811,2019,3,Los Angeles Chargers,Houston Texans,20.0,27.0,47.0,0,Sun,2019-09-22,4:25PM,LAC,HOU
+812,2019,3,Seattle Seahawks,New Orleans Saints,27.0,33.0,60.0,0,Sun,2019-09-22,4:25PM,SEA,NO
+813,2019,3,San Francisco 49ers,Pittsburgh Steelers,24.0,20.0,44.0,1,Sun,2019-09-22,4:25PM,SF,PIT
+814,2019,3,Cleveland Browns,Los Angeles Rams,13.0,20.0,33.0,0,Sun,2019-09-22,8:20PM,CLE,LAR
+815,2019,3,Washington Redskins,Chicago Bears,15.0,31.0,46.0,0,Mon,2019-09-23,8:15PM,WAS,CHI
+816,2019,4,Green Bay Packers,Philadelphia Eagles,27.0,34.0,61.0,0,Thu,2019-09-26,8:20PM,GB,PHI
+817,2019,4,Atlanta Falcons,Tennessee Titans,10.0,24.0,34.0,0,Sun,2019-09-29,1:00PM,ATL,TEN
+818,2019,4,Buffalo Bills,New England Patriots,10.0,16.0,26.0,0,Sun,2019-09-29,1:00PM,BUF,NE
+819,2019,4,Houston Texans,Carolina Panthers,10.0,16.0,26.0,0,Sun,2019-09-29,1:00PM,HOU,CAR
+820,2019,4,Baltimore Ravens,Cleveland Browns,25.0,40.0,65.0,0,Sun,2019-09-29,1:00PM,BAL,CLE
+821,2019,4,Indianapolis Colts,Oakland Raiders,24.0,31.0,55.0,0,Sun,2019-09-29,1:00PM,IND,LV
+822,2019,4,Detroit Lions,Kansas City Chiefs,30.0,34.0,64.0,0,Sun,2019-09-29,1:00PM,DET,KC
+823,2019,4,Miami Dolphins,Los Angeles Chargers,10.0,30.0,40.0,0,Sun,2019-09-29,1:00PM,MIA,LAC
+824,2019,4,New York Giants,Washington Redskins,24.0,3.0,27.0,1,Sun,2019-09-29,1:00PM,NYG,WAS
+825,2019,4,Arizona Cardinals,Seattle Seahawks,10.0,27.0,37.0,0,Sun,2019-09-29,4:05PM,ARI,SEA
+826,2019,4,Los Angeles Rams,Tampa Bay Buccaneers,40.0,55.0,95.0,0,Sun,2019-09-29,4:05PM,LAR,TB
+827,2019,4,Chicago Bears,Minnesota Vikings,16.0,6.0,22.0,1,Sun,2019-09-29,4:25PM,CHI,MIN
+828,2019,4,Denver Broncos,Jacksonville Jaguars,24.0,26.0,50.0,0,Sun,2019-09-29,4:25PM,DEN,JAX
+829,2019,4,New Orleans Saints,Dallas Cowboys,12.0,10.0,22.0,1,Sun,2019-09-29,8:20PM,NO,DAL
+830,2019,4,Pittsburgh Steelers,Cincinnati Bengals,27.0,3.0,30.0,1,Mon,2019-09-30,8:15PM,PIT,CIN
+831,2019,5,Seattle Seahawks,Los Angeles Rams,30.0,29.0,59.0,1,Thu,2019-10-03,8:20PM,SEA,LAR
+832,2019,5,Philadelphia Eagles,New York Jets,31.0,6.0,37.0,1,Sun,2019-10-06,1:00PM,PHI,NYJ
+833,2019,5,Houston Texans,Atlanta Falcons,53.0,32.0,85.0,1,Sun,2019-10-06,1:00PM,HOU,ATL
+834,2019,5,Tennessee Titans,Buffalo Bills,7.0,14.0,21.0,0,Sun,2019-10-06,1:00PM,TEN,BUF
+835,2019,5,Carolina Panthers,Jacksonville Jaguars,34.0,27.0,61.0,1,Sun,2019-10-06,1:00PM,CAR,JAX
+836,2019,5,Oakland Raiders,Chicago Bears,24.0,21.0,45.0,1,Sun,2019-10-06,1:00PM,LV,CHI
+837,2019,5,Cincinnati Bengals,Arizona Cardinals,23.0,26.0,49.0,0,Sun,2019-10-06,1:00PM,CIN,ARI
+838,2019,5,New York Giants,Minnesota Vikings,10.0,28.0,38.0,0,Sun,2019-10-06,1:00PM,NYG,MIN
+839,2019,5,New Orleans Saints,Tampa Bay Buccaneers,31.0,24.0,55.0,1,Sun,2019-10-06,1:00PM,NO,TB
+840,2019,5,Washington Redskins,New England Patriots,7.0,33.0,40.0,0,Sun,2019-10-06,1:00PM,WAS,NE
+841,2019,5,Pittsburgh Steelers,Baltimore Ravens,23.0,26.0,49.0,0,Sun,2019-10-06,1:00PM,PIT,BAL
+842,2019,5,Los Angeles Chargers,Denver Broncos,13.0,20.0,33.0,0,Sun,2019-10-06,4:05PM,LAC,DEN
+843,2019,5,Dallas Cowboys,Green Bay Packers,24.0,34.0,58.0,0,Sun,2019-10-06,4:25PM,DAL,GB
+844,2019,5,Kansas City Chiefs,Indianapolis Colts,13.0,19.0,32.0,0,Sun,2019-10-06,8:20PM,KC,IND
+845,2019,5,San Francisco 49ers,Cleveland Browns,31.0,3.0,34.0,1,Mon,2019-10-07,8:15PM,SF,CLE
+846,2019,6,New England Patriots,New York Giants,35.0,14.0,49.0,1,Thu,2019-10-10,8:20PM,NE,NYG
+847,2019,6,Tampa Bay Buccaneers,Carolina Panthers,26.0,37.0,63.0,0,Sun,2019-10-13,9:30AM,TB,CAR
+848,2019,6,Miami Dolphins,Washington Redskins,16.0,17.0,33.0,0,Sun,2019-10-13,1:00PM,MIA,WAS
+849,2019,6,Baltimore Ravens,Cincinnati Bengals,23.0,17.0,40.0,1,Sun,2019-10-13,1:00PM,BAL,CIN
+850,2019,6,Cleveland Browns,Seattle Seahawks,28.0,32.0,60.0,0,Sun,2019-10-13,1:00PM,CLE,SEA
+851,2019,6,Kansas City Chiefs,Houston Texans,24.0,31.0,55.0,0,Sun,2019-10-13,1:00PM,KC,HOU
+852,2019,6,Jacksonville Jaguars,New Orleans Saints,6.0,13.0,19.0,0,Sun,2019-10-13,1:00PM,JAX,NO
+853,2019,6,Minnesota Vikings,Philadelphia Eagles,38.0,20.0,58.0,1,Sun,2019-10-13,1:00PM,MIN,PHI
+854,2019,6,Arizona Cardinals,Atlanta Falcons,34.0,33.0,67.0,1,Sun,2019-10-13,4:05PM,ARI,ATL
+855,2019,6,Los Angeles Rams,San Francisco 49ers,7.0,20.0,27.0,0,Sun,2019-10-13,4:05PM,LAR,SF
+856,2019,6,New York Jets,Dallas Cowboys,24.0,22.0,46.0,1,Sun,2019-10-13,4:25PM,NYJ,DAL
+857,2019,6,Denver Broncos,Tennessee Titans,16.0,0.0,16.0,1,Sun,2019-10-13,4:25PM,DEN,TEN
+858,2019,6,Los Angeles Chargers,Pittsburgh Steelers,17.0,24.0,41.0,0,Sun,2019-10-13,8:20PM,LAC,PIT
+859,2019,6,Green Bay Packers,Detroit Lions,23.0,22.0,45.0,1,Mon,2019-10-14,8:15PM,GB,DET
+860,2019,7,Denver Broncos,Kansas City Chiefs,6.0,30.0,36.0,0,Thu,2019-10-17,8:20PM,DEN,KC
+861,2019,7,Buffalo Bills,Miami Dolphins,31.0,21.0,52.0,1,Sun,2019-10-20,1:00PM,BUF,MIA
+862,2019,7,Indianapolis Colts,Houston Texans,30.0,23.0,53.0,1,Sun,2019-10-20,1:00PM,IND,HOU
+863,2019,7,Detroit Lions,Minnesota Vikings,30.0,42.0,72.0,0,Sun,2019-10-20,1:00PM,DET,MIN
+864,2019,7,Washington Redskins,San Francisco 49ers,0.0,9.0,9.0,0,Sun,2019-10-20,1:00PM,WAS,SF
+865,2019,7,Atlanta Falcons,Los Angeles Rams,10.0,37.0,47.0,0,Sun,2019-10-20,1:00PM,ATL,LAR
+866,2019,7,Cincinnati Bengals,Jacksonville Jaguars,17.0,27.0,44.0,0,Sun,2019-10-20,1:00PM,CIN,JAX
+867,2019,7,New York Giants,Arizona Cardinals,21.0,27.0,48.0,0,Sun,2019-10-20,1:00PM,NYG,ARI
+868,2019,7,Green Bay Packers,Oakland Raiders,42.0,24.0,66.0,1,Sun,2019-10-20,1:00PM,GB,LV
+869,2019,7,Tennessee Titans,Los Angeles Chargers,23.0,20.0,43.0,1,Sun,2019-10-20,4:05PM,TEN,LAC
+870,2019,7,Chicago Bears,New Orleans Saints,25.0,36.0,61.0,0,Sun,2019-10-20,4:25PM,CHI,NO
+871,2019,7,Seattle Seahawks,Baltimore Ravens,16.0,30.0,46.0,0,Sun,2019-10-20,4:25PM,SEA,BAL
+872,2019,7,Dallas Cowboys,Philadelphia Eagles,37.0,10.0,47.0,1,Sun,2019-10-20,8:20PM,DAL,PHI
+873,2019,7,New York Jets,New England Patriots,0.0,33.0,33.0,0,Mon,2019-10-21,8:15PM,NYJ,NE
+874,2019,8,Minnesota Vikings,Washington Redskins,19.0,9.0,28.0,1,Thu,2019-10-24,8:20PM,MIN,WAS
+875,2019,8,Buffalo Bills,Philadelphia Eagles,13.0,31.0,44.0,0,Sun,2019-10-27,1:00PM,BUF,PHI
+876,2019,8,Chicago Bears,Los Angeles Chargers,16.0,17.0,33.0,0,Sun,2019-10-27,1:00PM,CHI,LAC
+877,2019,8,Indianapolis Colts,Denver Broncos,15.0,13.0,28.0,1,Sun,2019-10-27,1:00PM,IND,DEN
+878,2019,8,Detroit Lions,New York Giants,31.0,26.0,57.0,1,Sun,2019-10-27,1:00PM,DET,NYG
+879,2019,8,Atlanta Falcons,Seattle Seahawks,20.0,27.0,47.0,0,Sun,2019-10-27,1:00PM,ATL,SEA
+880,2019,8,Los Angeles Rams,Cincinnati Bengals,24.0,10.0,34.0,1,Sun,2019-10-27,1:00PM,LAR,CIN
+881,2019,8,New Orleans Saints,Arizona Cardinals,31.0,9.0,40.0,1,Sun,2019-10-27,1:00PM,NO,ARI
+882,2019,8,Jacksonville Jaguars,New York Jets,29.0,15.0,44.0,1,Sun,2019-10-27,1:00PM,JAX,NYJ
+883,2019,8,Tennessee Titans,Tampa Bay Buccaneers,27.0,23.0,50.0,1,Sun,2019-10-27,1:00PM,TEN,TB
+884,2019,8,San Francisco 49ers,Carolina Panthers,51.0,13.0,64.0,1,Sun,2019-10-27,4:05PM,SF,CAR
+885,2019,8,New England Patriots,Cleveland Browns,27.0,13.0,40.0,1,Sun,2019-10-27,4:25PM,NE,CLE
+886,2019,8,Houston Texans,Oakland Raiders,27.0,24.0,51.0,1,Sun,2019-10-27,4:25PM,HOU,LV
+887,2019,8,Kansas City Chiefs,Green Bay Packers,24.0,31.0,55.0,0,Sun,2019-10-27,8:20PM,KC,GB
+888,2019,8,Pittsburgh Steelers,Miami Dolphins,27.0,14.0,41.0,1,Mon,2019-10-28,8:15PM,PIT,MIA
+889,2019,9,Arizona Cardinals,San Francisco 49ers,25.0,28.0,53.0,0,Thu,2019-10-31,8:20PM,ARI,SF
+890,2019,9,Jacksonville Jaguars,Houston Texans,3.0,26.0,29.0,0,Sun,2019-11-03,9:30AM,JAX,HOU
+891,2019,9,Buffalo Bills,Washington Redskins,24.0,9.0,33.0,1,Sun,2019-11-03,1:00PM,BUF,WAS
+892,2019,9,Carolina Panthers,Tennessee Titans,30.0,20.0,50.0,1,Sun,2019-11-03,1:00PM,CAR,TEN
+893,2019,9,Philadelphia Eagles,Chicago Bears,22.0,14.0,36.0,1,Sun,2019-11-03,1:00PM,PHI,CHI
+894,2019,9,Pittsburgh Steelers,Indianapolis Colts,26.0,24.0,50.0,1,Sun,2019-11-03,1:00PM,PIT,IND
+895,2019,9,Miami Dolphins,New York Jets,26.0,18.0,44.0,1,Sun,2019-11-03,1:00PM,MIA,NYJ
+896,2019,9,Kansas City Chiefs,Minnesota Vikings,26.0,23.0,49.0,1,Sun,2019-11-03,1:00PM,KC,MIN
+897,2019,9,Oakland Raiders,Detroit Lions,31.0,24.0,55.0,1,Sun,2019-11-03,4:05PM,LV,DET
+898,2019,9,Seattle Seahawks,Tampa Bay Buccaneers,40.0,34.0,74.0,1,Sun,2019-11-03,4:05PM,SEA,TB
+899,2019,9,Denver Broncos,Cleveland Browns,24.0,19.0,43.0,1,Sun,2019-11-03,4:25PM,DEN,CLE
+900,2019,9,Los Angeles Chargers,Green Bay Packers,26.0,11.0,37.0,1,Sun,2019-11-03,4:25PM,LAC,GB
+901,2019,9,Baltimore Ravens,New England Patriots,37.0,20.0,57.0,1,Sun,2019-11-03,8:20PM,BAL,NE
+902,2019,9,New York Giants,Dallas Cowboys,18.0,37.0,55.0,0,Mon,2019-11-04,8:15PM,NYG,DAL
+903,2019,10,Oakland Raiders,Los Angeles Chargers,26.0,24.0,50.0,1,Thu,2019-11-07,8:20PM,LV,LAC
+904,2019,10,New Orleans Saints,Atlanta Falcons,9.0,26.0,35.0,0,Sun,2019-11-10,1:00PM,NO,ATL
+905,2019,10,Cleveland Browns,Buffalo Bills,19.0,16.0,35.0,1,Sun,2019-11-10,1:00PM,CLE,BUF
+906,2019,10,Chicago Bears,Detroit Lions,20.0,13.0,33.0,1,Sun,2019-11-10,1:00PM,CHI,DET
+907,2019,10,Cincinnati Bengals,Baltimore Ravens,13.0,49.0,62.0,0,Sun,2019-11-10,1:00PM,CIN,BAL
+908,2019,10,Tampa Bay Buccaneers,Arizona Cardinals,30.0,27.0,57.0,1,Sun,2019-11-10,1:00PM,TB,ARI
+909,2019,10,Tennessee Titans,Kansas City Chiefs,35.0,32.0,67.0,1,Sun,2019-11-10,1:00PM,TEN,KC
+910,2019,10,New York Jets,New York Giants,34.0,27.0,61.0,1,Sun,2019-11-10,1:00PM,NYJ,NYG
+911,2019,10,Indianapolis Colts,Miami Dolphins,12.0,16.0,28.0,0,Sun,2019-11-10,4:05PM,IND,MIA
+912,2019,10,Green Bay Packers,Carolina Panthers,24.0,16.0,40.0,1,Sun,2019-11-10,4:25PM,GB,CAR
+913,2019,10,Pittsburgh Steelers,Los Angeles Rams,17.0,12.0,29.0,1,Sun,2019-11-10,4:25PM,PIT,LAR
+914,2019,10,Dallas Cowboys,Minnesota Vikings,24.0,28.0,52.0,0,Sun,2019-11-10,8:20PM,DAL,MIN
+915,2019,10,San Francisco 49ers,Seattle Seahawks,24.0,27.0,51.0,0,Mon,2019-11-11,8:15PM,SF,SEA
+916,2019,11,Cleveland Browns,Pittsburgh Steelers,21.0,7.0,28.0,1,Thu,2019-11-14,8:20PM,CLE,PIT
+917,2019,11,Carolina Panthers,Atlanta Falcons,3.0,29.0,32.0,0,Sun,2019-11-17,1:00PM,CAR,ATL
+918,2019,11,Miami Dolphins,Buffalo Bills,20.0,37.0,57.0,0,Sun,2019-11-17,1:00PM,MIA,BUF
+919,2019,11,Indianapolis Colts,Jacksonville Jaguars,33.0,13.0,46.0,1,Sun,2019-11-17,1:00PM,IND,JAX
+920,2019,11,Detroit Lions,Dallas Cowboys,27.0,35.0,62.0,0,Sun,2019-11-17,1:00PM,DET,DAL
+921,2019,11,Minnesota Vikings,Denver Broncos,27.0,23.0,50.0,1,Sun,2019-11-17,1:00PM,MIN,DEN
+922,2019,11,Baltimore Ravens,Houston Texans,41.0,7.0,48.0,1,Sun,2019-11-17,1:00PM,BAL,HOU
+923,2019,11,Tampa Bay Buccaneers,New Orleans Saints,17.0,34.0,51.0,0,Sun,2019-11-17,1:00PM,TB,NO
+924,2019,11,Washington Redskins,New York Jets,17.0,34.0,51.0,0,Sun,2019-11-17,1:00PM,WAS,NYJ
+925,2019,11,San Francisco 49ers,Arizona Cardinals,36.0,26.0,62.0,1,Sun,2019-11-17,4:05PM,SF,ARI
+926,2019,11,Oakland Raiders,Cincinnati Bengals,17.0,10.0,27.0,1,Sun,2019-11-17,4:25PM,LV,CIN
+927,2019,11,Philadelphia Eagles,New England Patriots,10.0,17.0,27.0,0,Sun,2019-11-17,4:25PM,PHI,NE
+928,2019,11,Los Angeles Rams,Chicago Bears,17.0,7.0,24.0,1,Sun,2019-11-17,8:20PM,LAR,CHI
+929,2019,11,Los Angeles Chargers,Kansas City Chiefs,17.0,24.0,41.0,0,Mon,2019-11-18,8:15PM,LAC,KC
+930,2019,12,Houston Texans,Indianapolis Colts,20.0,17.0,37.0,1,Thu,2019-11-21,8:20PM,HOU,IND
+931,2019,12,Atlanta Falcons,Tampa Bay Buccaneers,22.0,35.0,57.0,0,Sun,2019-11-24,1:00PM,ATL,TB
+932,2019,12,Buffalo Bills,Denver Broncos,20.0,3.0,23.0,1,Sun,2019-11-24,1:00PM,BUF,DEN
+933,2019,12,New Orleans Saints,Carolina Panthers,34.0,31.0,65.0,1,Sun,2019-11-24,1:00PM,NO,CAR
+934,2019,12,Chicago Bears,New York Giants,19.0,14.0,33.0,1,Sun,2019-11-24,1:00PM,CHI,NYG
+935,2019,12,Cincinnati Bengals,Pittsburgh Steelers,10.0,16.0,26.0,0,Sun,2019-11-24,1:00PM,CIN,PIT
+936,2019,12,Cleveland Browns,Miami Dolphins,41.0,24.0,65.0,1,Sun,2019-11-24,1:00PM,CLE,MIA
+937,2019,12,Washington Redskins,Detroit Lions,19.0,16.0,35.0,1,Sun,2019-11-24,1:00PM,WAS,DET
+938,2019,12,New York Jets,Oakland Raiders,34.0,3.0,37.0,1,Sun,2019-11-24,1:00PM,NYJ,LV
+939,2019,12,Philadelphia Eagles,Seattle Seahawks,9.0,17.0,26.0,0,Sun,2019-11-24,1:00PM,PHI,SEA
+940,2019,12,Tennessee Titans,Jacksonville Jaguars,42.0,20.0,62.0,1,Sun,2019-11-24,4:05PM,TEN,JAX
+941,2019,12,New England Patriots,Dallas Cowboys,13.0,9.0,22.0,1,Sun,2019-11-24,4:25PM,NE,DAL
+942,2019,12,San Francisco 49ers,Green Bay Packers,37.0,8.0,45.0,1,Sun,2019-11-24,8:20PM,SF,GB
+943,2019,12,Los Angeles Rams,Baltimore Ravens,6.0,45.0,51.0,0,Mon,2019-11-25,8:15PM,LAR,BAL
+944,2019,13,Detroit Lions,Chicago Bears,20.0,24.0,44.0,0,Thu,2019-11-28,12:30PM,DET,CHI
+945,2019,13,Dallas Cowboys,Buffalo Bills,15.0,26.0,41.0,0,Thu,2019-11-28,4:30PM,DAL,BUF
+946,2019,13,Atlanta Falcons,New Orleans Saints,18.0,26.0,44.0,0,Thu,2019-11-28,8:20PM,ATL,NO
+947,2019,13,Carolina Panthers,Washington Redskins,21.0,29.0,50.0,0,Sun,2019-12-01,1:00PM,CAR,WAS
+948,2019,13,Cincinnati Bengals,New York Jets,22.0,6.0,28.0,1,Sun,2019-12-01,1:00PM,CIN,NYJ
+949,2019,13,Pittsburgh Steelers,Cleveland Browns,20.0,13.0,33.0,1,Sun,2019-12-01,1:00PM,PIT,CLE
+950,2019,13,Indianapolis Colts,Tennessee Titans,17.0,31.0,48.0,0,Sun,2019-12-01,1:00PM,IND,TEN
+951,2019,13,New York Giants,Green Bay Packers,13.0,31.0,44.0,0,Sun,2019-12-01,1:00PM,NYG,GB
+952,2019,13,Jacksonville Jaguars,Tampa Bay Buccaneers,11.0,28.0,39.0,0,Sun,2019-12-01,1:00PM,JAX,TB
+953,2019,13,Miami Dolphins,Philadelphia Eagles,37.0,31.0,68.0,1,Sun,2019-12-01,1:00PM,MIA,PHI
+954,2019,13,Baltimore Ravens,San Francisco 49ers,20.0,17.0,37.0,1,Sun,2019-12-01,1:00PM,BAL,SF
+955,2019,13,Arizona Cardinals,Los Angeles Rams,7.0,34.0,41.0,0,Sun,2019-12-01,4:05PM,ARI,LAR
+956,2019,13,Denver Broncos,Los Angeles Chargers,23.0,20.0,43.0,1,Sun,2019-12-01,4:25PM,DEN,LAC
+957,2019,13,Kansas City Chiefs,Oakland Raiders,40.0,9.0,49.0,1,Sun,2019-12-01,4:25PM,KC,LV
+958,2019,13,Houston Texans,New England Patriots,28.0,22.0,50.0,1,Sun,2019-12-01,8:20PM,HOU,NE
+959,2019,13,Seattle Seahawks,Minnesota Vikings,37.0,30.0,67.0,1,Mon,2019-12-02,8:15PM,SEA,MIN
+960,2019,14,Chicago Bears,Dallas Cowboys,31.0,24.0,55.0,1,Thu,2019-12-05,8:20PM,CHI,DAL
+961,2019,14,Atlanta Falcons,Carolina Panthers,40.0,20.0,60.0,1,Sun,2019-12-08,1:00PM,ATL,CAR
+962,2019,14,Buffalo Bills,Baltimore Ravens,17.0,24.0,41.0,0,Sun,2019-12-08,1:00PM,BUF,BAL
+963,2019,14,Cleveland Browns,Cincinnati Bengals,27.0,19.0,46.0,1,Sun,2019-12-08,1:00PM,CLE,CIN
+964,2019,14,Tampa Bay Buccaneers,Indianapolis Colts,38.0,35.0,73.0,1,Sun,2019-12-08,1:00PM,TB,IND
+965,2019,14,Houston Texans,Denver Broncos,24.0,38.0,62.0,0,Sun,2019-12-08,1:00PM,HOU,DEN
+966,2019,14,Minnesota Vikings,Detroit Lions,20.0,7.0,27.0,1,Sun,2019-12-08,1:00PM,MIN,DET
+967,2019,14,Green Bay Packers,Washington Redskins,20.0,15.0,35.0,1,Sun,2019-12-08,1:00PM,GB,WAS
+968,2019,14,New York Jets,Miami Dolphins,22.0,21.0,43.0,1,Sun,2019-12-08,1:00PM,NYJ,MIA
+969,2019,14,New Orleans Saints,San Francisco 49ers,46.0,48.0,94.0,0,Sun,2019-12-08,1:00PM,NO,SF
+970,2019,14,Jacksonville Jaguars,Los Angeles Chargers,10.0,45.0,55.0,0,Sun,2019-12-08,4:05PM,JAX,LAC
+971,2019,14,Arizona Cardinals,Pittsburgh Steelers,17.0,23.0,40.0,0,Sun,2019-12-08,4:25PM,ARI,PIT
+972,2019,14,New England Patriots,Kansas City Chiefs,16.0,23.0,39.0,0,Sun,2019-12-08,4:25PM,NE,KC
+973,2019,14,Oakland Raiders,Tennessee Titans,21.0,42.0,63.0,0,Sun,2019-12-08,4:25PM,LV,TEN
+974,2019,14,Los Angeles Rams,Seattle Seahawks,28.0,12.0,40.0,1,Sun,2019-12-08,8:20PM,LAR,SEA
+975,2019,14,Philadelphia Eagles,New York Giants,23.0,17.0,40.0,1,Mon,2019-12-09,8:15PM,PHI,NYG
+976,2019,15,Baltimore Ravens,New York Jets,42.0,21.0,63.0,1,Thu,2019-12-12,8:20PM,BAL,NYJ
+977,2019,15,Carolina Panthers,Seattle Seahawks,24.0,30.0,54.0,0,Sun,2019-12-15,1:00PM,CAR,SEA
+978,2019,15,Green Bay Packers,Chicago Bears,21.0,13.0,34.0,1,Sun,2019-12-15,1:00PM,GB,CHI
+979,2019,15,Cincinnati Bengals,New England Patriots,13.0,34.0,47.0,0,Sun,2019-12-15,1:00PM,CIN,NE
+980,2019,15,Kansas City Chiefs,Denver Broncos,23.0,3.0,26.0,1,Sun,2019-12-15,1:00PM,KC,DEN
+981,2019,15,Detroit Lions,Tampa Bay Buccaneers,17.0,38.0,55.0,0,Sun,2019-12-15,1:00PM,DET,TB
+982,2019,15,Tennessee Titans,Houston Texans,21.0,24.0,45.0,0,Sun,2019-12-15,1:00PM,TEN,HOU
+983,2019,15,New York Giants,Miami Dolphins,36.0,20.0,56.0,1,Sun,2019-12-15,1:00PM,NYG,MIA
+984,2019,15,Washington Redskins,Philadelphia Eagles,27.0,37.0,64.0,0,Sun,2019-12-15,1:00PM,WAS,PHI
+985,2019,15,Arizona Cardinals,Cleveland Browns,38.0,24.0,62.0,1,Sun,2019-12-15,4:05PM,ARI,CLE
+986,2019,15,Oakland Raiders,Jacksonville Jaguars,16.0,20.0,36.0,0,Sun,2019-12-15,4:05PM,LV,JAX
+987,2019,15,Los Angeles Chargers,Minnesota Vikings,10.0,39.0,49.0,0,Sun,2019-12-15,4:05PM,LAC,MIN
+988,2019,15,San Francisco 49ers,Atlanta Falcons,22.0,29.0,51.0,0,Sun,2019-12-15,4:25PM,SF,ATL
+989,2019,15,Dallas Cowboys,Los Angeles Rams,44.0,21.0,65.0,1,Sun,2019-12-15,4:25PM,DAL,LAR
+990,2019,15,Pittsburgh Steelers,Buffalo Bills,10.0,17.0,27.0,0,Sun,2019-12-15,8:20PM,PIT,BUF
+991,2019,15,New Orleans Saints,Indianapolis Colts,34.0,7.0,41.0,1,Mon,2019-12-16,8:15PM,NO,IND
+992,2019,16,Tampa Bay Buccaneers,Houston Texans,20.0,23.0,43.0,0,Sat,2019-12-21,1:00PM,TB,HOU
+993,2019,16,New England Patriots,Buffalo Bills,24.0,17.0,41.0,1,Sat,2019-12-21,4:30PM,NE,BUF
+994,2019,16,San Francisco 49ers,Los Angeles Rams,34.0,31.0,65.0,1,Sat,2019-12-21,8:15PM,SF,LAR
+995,2019,16,Atlanta Falcons,Jacksonville Jaguars,24.0,12.0,36.0,1,Sun,2019-12-22,1:00PM,ATL,JAX
+996,2019,16,Indianapolis Colts,Carolina Panthers,38.0,6.0,44.0,1,Sun,2019-12-22,1:00PM,IND,CAR
+997,2019,16,Miami Dolphins,Cincinnati Bengals,38.0,35.0,73.0,1,Sun,2019-12-22,1:00PM,MIA,CIN
+998,2019,16,Cleveland Browns,Baltimore Ravens,15.0,31.0,46.0,0,Sun,2019-12-22,1:00PM,CLE,BAL
+999,2019,16,Tennessee Titans,New Orleans Saints,28.0,38.0,66.0,0,Sun,2019-12-22,1:00PM,TEN,NO
+1000,2019,16,Washington Redskins,New York Giants,35.0,41.0,76.0,0,Sun,2019-12-22,1:00PM,WAS,NYG
+1001,2019,16,New York Jets,Pittsburgh Steelers,16.0,10.0,26.0,1,Sun,2019-12-22,1:00PM,NYJ,PIT
+1002,2019,16,Denver Broncos,Detroit Lions,27.0,17.0,44.0,1,Sun,2019-12-22,4:05PM,DEN,DET
+1003,2019,16,Los Angeles Chargers,Oakland Raiders,17.0,24.0,41.0,0,Sun,2019-12-22,4:05PM,LAC,LV
+1004,2019,16,Seattle Seahawks,Arizona Cardinals,13.0,27.0,40.0,0,Sun,2019-12-22,4:25PM,SEA,ARI
+1005,2019,16,Philadelphia Eagles,Dallas Cowboys,17.0,9.0,26.0,1,Sun,2019-12-22,4:25PM,PHI,DAL
+1006,2019,16,Chicago Bears,Kansas City Chiefs,3.0,26.0,29.0,0,Sun,2019-12-22,8:20PM,CHI,KC
+1007,2019,16,Minnesota Vikings,Green Bay Packers,10.0,23.0,33.0,0,Mon,2019-12-23,8:15PM,MIN,GB
+1008,2019,17,Tampa Bay Buccaneers,Atlanta Falcons,22.0,28.0,50.0,0,Sun,2019-12-29,1:00PM,TB,ATL
+1009,2019,17,Buffalo Bills,New York Jets,6.0,13.0,19.0,0,Sun,2019-12-29,1:00PM,BUF,NYJ
+1010,2019,17,Carolina Panthers,New Orleans Saints,10.0,42.0,52.0,0,Sun,2019-12-29,1:00PM,CAR,NO
+1011,2019,17,Minnesota Vikings,Chicago Bears,19.0,21.0,40.0,0,Sun,2019-12-29,1:00PM,MIN,CHI
+1012,2019,17,Cincinnati Bengals,Cleveland Browns,33.0,23.0,56.0,1,Sun,2019-12-29,1:00PM,CIN,CLE
+1013,2019,17,Detroit Lions,Green Bay Packers,20.0,23.0,43.0,0,Sun,2019-12-29,1:00PM,DET,GB
+1014,2019,17,Kansas City Chiefs,Los Angeles Chargers,31.0,21.0,52.0,1,Sun,2019-12-29,1:00PM,KC,LAC
+1015,2019,17,New England Patriots,Miami Dolphins,24.0,27.0,51.0,0,Sun,2019-12-29,1:00PM,NE,MIA
+1016,2019,17,Jacksonville Jaguars,Indianapolis Colts,38.0,20.0,58.0,1,Sun,2019-12-29,4:25PM,JAX,IND
+1017,2019,17,Los Angeles Rams,Arizona Cardinals,31.0,24.0,55.0,1,Sun,2019-12-29,4:25PM,LAR,ARI
+1018,2019,17,Dallas Cowboys,Washington Redskins,47.0,16.0,63.0,1,Sun,2019-12-29,4:25PM,DAL,WAS
+1019,2019,17,Denver Broncos,Oakland Raiders,16.0,15.0,31.0,1,Sun,2019-12-29,4:25PM,DEN,LV
+1020,2019,17,Houston Texans,Tennessee Titans,14.0,35.0,49.0,0,Sun,2019-12-29,4:25PM,HOU,TEN
+1021,2019,17,New York Giants,Philadelphia Eagles,17.0,34.0,51.0,0,Sun,2019-12-29,4:25PM,NYG,PHI
+1022,2019,17,Baltimore Ravens,Pittsburgh Steelers,28.0,10.0,38.0,1,Sun,2019-12-29,4:25PM,BAL,PIT
+1023,2019,17,Seattle Seahawks,San Francisco 49ers,21.0,26.0,47.0,0,Sun,2019-12-29,8:20PM,SEA,SF
+1024,2020,1,Kansas City Chiefs,Houston Texans,34.0,20.0,54.0,1,Thu,2020-09-10,8:20PM,KC,HOU
+1025,2020,1,Atlanta Falcons,Seattle Seahawks,25.0,38.0,63.0,0,Sun,2020-09-13,1:00PM,ATL,SEA
+1026,2020,1,Buffalo Bills,New York Jets,27.0,17.0,44.0,1,Sun,2020-09-13,1:00PM,BUF,NYJ
+1027,2020,1,Carolina Panthers,Las Vegas Raiders,30.0,34.0,64.0,0,Sun,2020-09-13,1:00PM,CAR,LV
+1028,2020,1,Detroit Lions,Chicago Bears,23.0,27.0,50.0,0,Sun,2020-09-13,1:00PM,DET,CHI
+1029,2020,1,Baltimore Ravens,Cleveland Browns,38.0,6.0,44.0,1,Sun,2020-09-13,1:00PM,BAL,CLE
+1030,2020,1,Jacksonville Jaguars,Indianapolis Colts,27.0,20.0,47.0,1,Sun,2020-09-13,1:00PM,JAX,IND
+1031,2020,1,Minnesota Vikings,Green Bay Packers,34.0,43.0,77.0,0,Sun,2020-09-13,1:00PM,MIN,GB
+1032,2020,1,New England Patriots,Miami Dolphins,21.0,11.0,32.0,1,Sun,2020-09-13,1:00PM,NE,MIA
+1033,2020,1,Washington Football Team,Philadelphia Eagles,27.0,17.0,44.0,1,Sun,2020-09-13,1:00PM,WAS,PHI
+1034,2020,1,Cincinnati Bengals,Los Angeles Chargers,13.0,16.0,29.0,0,Sun,2020-09-13,4:05PM,CIN,LAC
+1035,2020,1,San Francisco 49ers,Arizona Cardinals,20.0,24.0,44.0,0,Sun,2020-09-13,4:25PM,SF,ARI
+1036,2020,1,New Orleans Saints,Tampa Bay Buccaneers,34.0,23.0,57.0,1,Sun,2020-09-13,4:25PM,NO,TB
+1037,2020,1,Los Angeles Rams,Dallas Cowboys,20.0,17.0,37.0,1,Sun,2020-09-13,8:20PM,LAR,DAL
+1038,2020,1,New York Giants,Pittsburgh Steelers,16.0,26.0,42.0,0,Mon,2020-09-14,7:15PM,NYG,PIT
+1039,2020,1,Denver Broncos,Tennessee Titans,14.0,16.0,30.0,0,Mon,2020-09-14,10:10PM,DEN,TEN
+1040,2020,2,Cleveland Browns,Cincinnati Bengals,35.0,30.0,65.0,1,Thu,2020-09-17,8:20PM,CLE,CIN
+1041,2020,2,Dallas Cowboys,Atlanta Falcons,40.0,39.0,79.0,1,Sun,2020-09-20,1:00PM,DAL,ATL
+1042,2020,2,Miami Dolphins,Buffalo Bills,28.0,31.0,59.0,0,Sun,2020-09-20,1:00PM,MIA,BUF
+1043,2020,2,Tampa Bay Buccaneers,Carolina Panthers,31.0,17.0,48.0,1,Sun,2020-09-20,1:00PM,TB,CAR
+1044,2020,2,Chicago Bears,New York Giants,17.0,13.0,30.0,1,Sun,2020-09-20,1:00PM,CHI,NYG
+1045,2020,2,Indianapolis Colts,Minnesota Vikings,28.0,11.0,39.0,1,Sun,2020-09-20,1:00PM,IND,MIN
+1046,2020,2,Pittsburgh Steelers,Denver Broncos,26.0,21.0,47.0,1,Sun,2020-09-20,1:00PM,PIT,DEN
+1047,2020,2,Green Bay Packers,Detroit Lions,42.0,21.0,63.0,1,Sun,2020-09-20,1:00PM,GB,DET
+1048,2020,2,Tennessee Titans,Jacksonville Jaguars,33.0,30.0,63.0,1,Sun,2020-09-20,1:00PM,TEN,JAX
+1049,2020,2,New York Jets,San Francisco 49ers,13.0,31.0,44.0,0,Sun,2020-09-20,1:00PM,NYJ,SF
+1050,2020,2,Philadelphia Eagles,Los Angeles Rams,19.0,37.0,56.0,0,Sun,2020-09-20,1:00PM,PHI,LAR
+1051,2020,2,Arizona Cardinals,Washington Football Team,30.0,15.0,45.0,1,Sun,2020-09-20,4:05PM,ARI,WAS
+1052,2020,2,Houston Texans,Baltimore Ravens,16.0,33.0,49.0,0,Sun,2020-09-20,4:25PM,HOU,BAL
+1053,2020,2,Los Angeles Chargers,Kansas City Chiefs,20.0,23.0,43.0,0,Sun,2020-09-20,4:25PM,LAC,KC
+1054,2020,2,Seattle Seahawks,New England Patriots,35.0,30.0,65.0,1,Sun,2020-09-20,8:20PM,SEA,NE
+1055,2020,2,Las Vegas Raiders,New Orleans Saints,34.0,24.0,58.0,1,Mon,2020-09-21,8:15PM,LV,NO
+1056,2020,3,Jacksonville Jaguars,Miami Dolphins,13.0,31.0,44.0,0,Thu,2020-09-24,8:20PM,JAX,MIA
+1057,2020,3,Atlanta Falcons,Chicago Bears,26.0,30.0,56.0,0,Sun,2020-09-27,1:00PM,ATL,CHI
+1058,2020,3,Buffalo Bills,Los Angeles Rams,35.0,32.0,67.0,1,Sun,2020-09-27,1:00PM,BUF,LAR
+1059,2020,3,Philadelphia Eagles,Cincinnati Bengals,23.0,23.0,46.0,1,Sun,2020-09-27,1:00PM,PHI,CIN
+1060,2020,3,Cleveland Browns,Washington Football Team,34.0,20.0,54.0,1,Sun,2020-09-27,1:00PM,CLE,WAS
+1061,2020,3,Pittsburgh Steelers,Houston Texans,28.0,21.0,49.0,1,Sun,2020-09-27,1:00PM,PIT,HOU
+1062,2020,3,Minnesota Vikings,Tennessee Titans,30.0,31.0,61.0,0,Sun,2020-09-27,1:00PM,MIN,TEN
+1063,2020,3,New England Patriots,Las Vegas Raiders,36.0,20.0,56.0,1,Sun,2020-09-27,1:00PM,NE,LV
+1064,2020,3,New York Giants,San Francisco 49ers,9.0,36.0,45.0,0,Sun,2020-09-27,1:00PM,NYG,SF
+1065,2020,3,Los Angeles Chargers,Carolina Panthers,16.0,21.0,37.0,0,Sun,2020-09-27,4:05PM,LAC,CAR
+1066,2020,3,Indianapolis Colts,New York Jets,36.0,7.0,43.0,1,Sun,2020-09-27,4:05PM,IND,NYJ
+1067,2020,3,Arizona Cardinals,Detroit Lions,23.0,26.0,49.0,0,Sun,2020-09-27,4:25PM,ARI,DET
+1068,2020,3,Seattle Seahawks,Dallas Cowboys,38.0,31.0,69.0,1,Sun,2020-09-27,4:25PM,SEA,DAL
+1069,2020,3,Denver Broncos,Tampa Bay Buccaneers,10.0,28.0,38.0,0,Sun,2020-09-27,4:25PM,DEN,TB
+1070,2020,3,New Orleans Saints,Green Bay Packers,30.0,37.0,67.0,0,Sun,2020-09-27,8:20PM,NO,GB
+1071,2020,3,Baltimore Ravens,Kansas City Chiefs,20.0,34.0,54.0,0,Mon,2020-09-28,8:15PM,BAL,KC
+1072,2020,4,New York Jets,Denver Broncos,28.0,37.0,65.0,0,Thu,2020-10-01,8:20PM,NYJ,DEN
+1073,2020,4,Carolina Panthers,Arizona Cardinals,31.0,21.0,52.0,1,Sun,2020-10-04,1:00PM,CAR,ARI
+1074,2020,4,Chicago Bears,Indianapolis Colts,11.0,19.0,30.0,0,Sun,2020-10-04,1:00PM,CHI,IND
+1075,2020,4,Cincinnati Bengals,Jacksonville Jaguars,33.0,25.0,58.0,1,Sun,2020-10-04,1:00PM,CIN,JAX
+1076,2020,4,Dallas Cowboys,Cleveland Browns,38.0,49.0,87.0,0,Sun,2020-10-04,1:00PM,DAL,CLE
+1077,2020,4,Detroit Lions,New Orleans Saints,29.0,35.0,64.0,0,Sun,2020-10-04,1:00PM,DET,NO
+1078,2020,4,Houston Texans,Minnesota Vikings,23.0,31.0,54.0,0,Sun,2020-10-04,1:00PM,HOU,MIN
+1079,2020,4,Miami Dolphins,Seattle Seahawks,23.0,31.0,54.0,0,Sun,2020-10-04,1:00PM,MIA,SEA
+1080,2020,4,Washington Football Team,Baltimore Ravens,17.0,31.0,48.0,0,Sun,2020-10-04,1:00PM,WAS,BAL
+1081,2020,4,Tampa Bay Buccaneers,Los Angeles Chargers,38.0,31.0,69.0,1,Sun,2020-10-04,1:00PM,TB,LAC
+1082,2020,4,Los Angeles Rams,New York Giants,17.0,9.0,26.0,1,Sun,2020-10-04,4:05PM,LAR,NYG
+1083,2020,4,Las Vegas Raiders,Buffalo Bills,23.0,30.0,53.0,0,Sun,2020-10-04,4:25PM,LV,BUF
+1084,2020,4,San Francisco 49ers,Philadelphia Eagles,20.0,25.0,45.0,0,Sun,2020-10-04,8:20PM,SF,PHI
+1085,2020,4,Kansas City Chiefs,New England Patriots,26.0,10.0,36.0,1,Mon,2020-10-05,7:05PM,KC,NE
+1086,2020,4,Green Bay Packers,Atlanta Falcons,30.0,16.0,46.0,1,Mon,2020-10-05,8:15PM,GB,ATL
+1087,2020,5,Chicago Bears,Tampa Bay Buccaneers,20.0,19.0,39.0,1,Thu,2020-10-08,8:20PM,CHI,TB
+1088,2020,5,Atlanta Falcons,Carolina Panthers,16.0,23.0,39.0,0,Sun,2020-10-11,1:00PM,ATL,CAR
+1089,2020,5,Baltimore Ravens,Cincinnati Bengals,27.0,3.0,30.0,1,Sun,2020-10-11,1:00PM,BAL,CIN
+1090,2020,5,New York Jets,Arizona Cardinals,10.0,30.0,40.0,0,Sun,2020-10-11,1:00PM,NYJ,ARI
+1091,2020,5,Houston Texans,Jacksonville Jaguars,30.0,14.0,44.0,1,Sun,2020-10-11,1:00PM,HOU,JAX
+1092,2020,5,Kansas City Chiefs,Las Vegas Raiders,32.0,40.0,72.0,0,Sun,2020-10-11,1:00PM,KC,LV
+1093,2020,5,Pittsburgh Steelers,Philadelphia Eagles,38.0,29.0,67.0,1,Sun,2020-10-11,1:00PM,PIT,PHI
+1094,2020,5,Washington Football Team,Los Angeles Rams,10.0,30.0,40.0,0,Sun,2020-10-11,1:00PM,WAS,LAR
+1095,2020,5,San Francisco 49ers,Miami Dolphins,17.0,43.0,60.0,0,Sun,2020-10-11,4:05PM,SF,MIA
+1096,2020,5,Cleveland Browns,Indianapolis Colts,32.0,23.0,55.0,1,Sun,2020-10-11,4:25PM,CLE,IND
+1097,2020,5,Dallas Cowboys,New York Giants,37.0,34.0,71.0,1,Sun,2020-10-11,4:25PM,DAL,NYG
+1098,2020,5,Seattle Seahawks,Minnesota Vikings,27.0,26.0,53.0,1,Sun,2020-10-11,8:20PM,SEA,MIN
+1099,2020,5,New Orleans Saints,Los Angeles Chargers,30.0,27.0,57.0,1,Mon,2020-10-12,8:15PM,NO,LAC
+1100,2020,5,Tennessee Titans,Buffalo Bills,42.0,16.0,58.0,1,Tue,2020-10-13,7:00PM,TEN,BUF
+1101,2020,6,New England Patriots,Denver Broncos,12.0,18.0,30.0,0,Sun,2020-10-18,1:00PM,NE,DEN
+1102,2020,6,Jacksonville Jaguars,Detroit Lions,16.0,34.0,50.0,0,Sun,2020-10-18,1:00PM,JAX,DET
+1103,2020,6,Minnesota Vikings,Atlanta Falcons,23.0,40.0,63.0,0,Sun,2020-10-18,1:00PM,MIN,ATL
+1104,2020,6,Carolina Panthers,Chicago Bears,16.0,23.0,39.0,0,Sun,2020-10-18,1:00PM,CAR,CHI
+1105,2020,6,Indianapolis Colts,Cincinnati Bengals,31.0,27.0,58.0,1,Sun,2020-10-18,1:00PM,IND,CIN
+1106,2020,6,Pittsburgh Steelers,Cleveland Browns,38.0,7.0,45.0,1,Sun,2020-10-18,1:00PM,PIT,CLE
+1107,2020,6,Tennessee Titans,Houston Texans,42.0,36.0,78.0,1,Sun,2020-10-18,1:00PM,TEN,HOU
+1108,2020,6,New York Giants,Washington Football Team,20.0,19.0,39.0,1,Sun,2020-10-18,1:00PM,NYG,WAS
+1109,2020,6,Philadelphia Eagles,Baltimore Ravens,28.0,30.0,58.0,0,Sun,2020-10-18,1:00PM,PHI,BAL
+1110,2020,6,Miami Dolphins,New York Jets,24.0,0.0,24.0,1,Sun,2020-10-18,4:05PM,MIA,NYJ
+1111,2020,6,Tampa Bay Buccaneers,Green Bay Packers,38.0,10.0,48.0,1,Sun,2020-10-18,4:25PM,TB,GB
+1112,2020,6,San Francisco 49ers,Los Angeles Rams,24.0,16.0,40.0,1,Sun,2020-10-18,8:20PM,SF,LAR
+1113,2020,6,Buffalo Bills,Kansas City Chiefs,17.0,26.0,43.0,0,Mon,2020-10-19,5:00PM,BUF,KC
+1114,2020,6,Dallas Cowboys,Arizona Cardinals,10.0,38.0,48.0,0,Mon,2020-10-19,8:15PM,DAL,ARI
+1115,2020,7,Philadelphia Eagles,New York Giants,22.0,21.0,43.0,1,Thu,2020-10-22,8:20PM,PHI,NYG
+1116,2020,7,Houston Texans,Green Bay Packers,20.0,35.0,55.0,0,Sun,2020-10-25,1:00PM,HOU,GB
+1117,2020,7,Tennessee Titans,Pittsburgh Steelers,24.0,27.0,51.0,0,Sun,2020-10-25,1:00PM,TEN,PIT
+1118,2020,7,Atlanta Falcons,Detroit Lions,22.0,23.0,45.0,0,Sun,2020-10-25,1:00PM,ATL,DET
+1119,2020,7,New York Jets,Buffalo Bills,10.0,18.0,28.0,0,Sun,2020-10-25,1:00PM,NYJ,BUF
+1120,2020,7,New Orleans Saints,Carolina Panthers,27.0,24.0,51.0,1,Sun,2020-10-25,1:00PM,NO,CAR
+1121,2020,7,Cincinnati Bengals,Cleveland Browns,34.0,37.0,71.0,0,Sun,2020-10-25,1:00PM,CIN,CLE
+1122,2020,7,Washington Football Team,Dallas Cowboys,25.0,3.0,28.0,1,Sun,2020-10-25,1:00PM,WAS,DAL
+1123,2020,7,Las Vegas Raiders,Tampa Bay Buccaneers,20.0,45.0,65.0,0,Sun,2020-10-25,4:05PM,LV,TB
+1124,2020,7,Denver Broncos,Kansas City Chiefs,16.0,43.0,59.0,0,Sun,2020-10-25,4:25PM,DEN,KC
+1125,2020,7,New England Patriots,San Francisco 49ers,6.0,33.0,39.0,0,Sun,2020-10-25,4:25PM,NE,SF
+1126,2020,7,Los Angeles Chargers,Jacksonville Jaguars,39.0,29.0,68.0,1,Sun,2020-10-25,4:25PM,LAC,JAX
+1127,2020,7,Arizona Cardinals,Seattle Seahawks,37.0,34.0,71.0,1,Sun,2020-10-25,8:20PM,ARI,SEA
+1128,2020,7,Los Angeles Rams,Chicago Bears,24.0,10.0,34.0,1,Mon,2020-10-26,8:15PM,LAR,CHI
+1129,2020,8,Carolina Panthers,Atlanta Falcons,17.0,25.0,42.0,0,Thu,2020-10-29,8:20PM,CAR,ATL
+1130,2020,8,Detroit Lions,Indianapolis Colts,21.0,41.0,62.0,0,Sun,2020-11-01,1:00PM,DET,IND
+1131,2020,8,Green Bay Packers,Minnesota Vikings,22.0,28.0,50.0,0,Sun,2020-11-01,1:00PM,GB,MIN
+1132,2020,8,Miami Dolphins,Los Angeles Rams,28.0,17.0,45.0,1,Sun,2020-11-01,1:00PM,MIA,LAR
+1133,2020,8,Baltimore Ravens,Pittsburgh Steelers,24.0,28.0,52.0,0,Sun,2020-11-01,1:00PM,BAL,PIT
+1134,2020,8,Buffalo Bills,New England Patriots,24.0,21.0,45.0,1,Sun,2020-11-01,1:00PM,BUF,NE
+1135,2020,8,Cincinnati Bengals,Tennessee Titans,31.0,20.0,51.0,1,Sun,2020-11-01,1:00PM,CIN,TEN
+1136,2020,8,Cleveland Browns,Las Vegas Raiders,6.0,16.0,22.0,0,Sun,2020-11-01,1:00PM,CLE,LV
+1137,2020,8,Kansas City Chiefs,New York Jets,35.0,9.0,44.0,1,Sun,2020-11-01,1:00PM,KC,NYJ
+1138,2020,8,Denver Broncos,Los Angeles Chargers,31.0,30.0,61.0,1,Sun,2020-11-01,4:05PM,DEN,LAC
+1139,2020,8,Seattle Seahawks,San Francisco 49ers,37.0,27.0,64.0,1,Sun,2020-11-01,4:25PM,SEA,SF
+1140,2020,8,Chicago Bears,New Orleans Saints,23.0,26.0,49.0,0,Sun,2020-11-01,4:25PM,CHI,NO
+1141,2020,8,Philadelphia Eagles,Dallas Cowboys,23.0,9.0,32.0,1,Sun,2020-11-01,8:20PM,PHI,DAL
+1142,2020,8,New York Giants,Tampa Bay Buccaneers,23.0,25.0,48.0,0,Mon,2020-11-02,8:15PM,NYG,TB
+1143,2020,9,San Francisco 49ers,Green Bay Packers,17.0,34.0,51.0,0,Thu,2020-11-05,8:20PM,SF,GB
+1144,2020,9,Indianapolis Colts,Baltimore Ravens,10.0,24.0,34.0,0,Sun,2020-11-08,1:00PM,IND,BAL
+1145,2020,9,Minnesota Vikings,Detroit Lions,34.0,20.0,54.0,1,Sun,2020-11-08,1:00PM,MIN,DET
+1146,2020,9,Jacksonville Jaguars,Houston Texans,25.0,27.0,52.0,0,Sun,2020-11-08,1:00PM,JAX,HOU
+1147,2020,9,Atlanta Falcons,Denver Broncos,34.0,27.0,61.0,1,Sun,2020-11-08,1:00PM,ATL,DEN
+1148,2020,9,Buffalo Bills,Seattle Seahawks,44.0,34.0,78.0,1,Sun,2020-11-08,1:00PM,BUF,SEA
+1149,2020,9,Kansas City Chiefs,Carolina Panthers,33.0,31.0,64.0,1,Sun,2020-11-08,1:00PM,KC,CAR
+1150,2020,9,Tennessee Titans,Chicago Bears,24.0,17.0,41.0,1,Sun,2020-11-08,1:00PM,TEN,CHI
+1151,2020,9,Washington Football Team,New York Giants,20.0,23.0,43.0,0,Sun,2020-11-08,1:00PM,WAS,NYG
+1152,2020,9,Los Angeles Chargers,Las Vegas Raiders,26.0,31.0,57.0,0,Sun,2020-11-08,4:05PM,LAC,LV
+1153,2020,9,Arizona Cardinals,Miami Dolphins,31.0,34.0,65.0,0,Sun,2020-11-08,4:25PM,ARI,MIA
+1154,2020,9,Dallas Cowboys,Pittsburgh Steelers,19.0,24.0,43.0,0,Sun,2020-11-08,4:25PM,DAL,PIT
+1155,2020,9,Tampa Bay Buccaneers,New Orleans Saints,3.0,38.0,41.0,0,Sun,2020-11-08,8:20PM,TB,NO
+1156,2020,9,New York Jets,New England Patriots,27.0,30.0,57.0,0,Mon,2020-11-09,8:15PM,NYJ,NE
+1157,2020,10,Tennessee Titans,Indianapolis Colts,17.0,34.0,51.0,0,Thu,2020-11-12,8:20PM,TEN,IND
+1158,2020,10,Cleveland Browns,Houston Texans,10.0,7.0,17.0,1,Sun,2020-11-15,1:00PM,CLE,HOU
+1159,2020,10,Detroit Lions,Washington Football Team,30.0,27.0,57.0,1,Sun,2020-11-15,1:00PM,DET,WAS
+1160,2020,10,Green Bay Packers,Jacksonville Jaguars,24.0,20.0,44.0,1,Sun,2020-11-15,1:00PM,GB,JAX
+1161,2020,10,Carolina Panthers,Tampa Bay Buccaneers,23.0,46.0,69.0,0,Sun,2020-11-15,1:00PM,CAR,TB
+1162,2020,10,New York Giants,Philadelphia Eagles,27.0,17.0,44.0,1,Sun,2020-11-15,1:00PM,NYG,PHI
+1163,2020,10,Las Vegas Raiders,Denver Broncos,37.0,12.0,49.0,1,Sun,2020-11-15,4:05PM,LV,DEN
+1164,2020,10,Miami Dolphins,Los Angeles Chargers,29.0,21.0,50.0,1,Sun,2020-11-15,4:05PM,MIA,LAC
+1165,2020,10,Arizona Cardinals,Buffalo Bills,32.0,30.0,62.0,1,Sun,2020-11-15,4:05PM,ARI,BUF
+1166,2020,10,Pittsburgh Steelers,Cincinnati Bengals,36.0,10.0,46.0,1,Sun,2020-11-15,4:25PM,PIT,CIN
+1167,2020,10,New Orleans Saints,San Francisco 49ers,27.0,13.0,40.0,1,Sun,2020-11-15,4:25PM,NO,SF
+1168,2020,10,Los Angeles Rams,Seattle Seahawks,23.0,16.0,39.0,1,Sun,2020-11-15,4:25PM,LAR,SEA
+1169,2020,10,New England Patriots,Baltimore Ravens,23.0,17.0,40.0,1,Sun,2020-11-15,8:20PM,NE,BAL
+1170,2020,10,Chicago Bears,Minnesota Vikings,13.0,19.0,32.0,0,Mon,2020-11-16,8:15PM,CHI,MIN
+1171,2020,11,Seattle Seahawks,Arizona Cardinals,28.0,21.0,49.0,1,Thu,2020-11-19,8:20PM,SEA,ARI
+1172,2020,11,New Orleans Saints,Atlanta Falcons,24.0,9.0,33.0,1,Sun,2020-11-22,1:00PM,NO,ATL
+1173,2020,11,Washington Football Team,Cincinnati Bengals,20.0,9.0,29.0,1,Sun,2020-11-22,1:00PM,WAS,CIN
+1174,2020,11,Cleveland Browns,Philadelphia Eagles,22.0,17.0,39.0,1,Sun,2020-11-22,1:00PM,CLE,PHI
+1175,2020,11,Houston Texans,New England Patriots,27.0,20.0,47.0,1,Sun,2020-11-22,1:00PM,HOU,NE
+1176,2020,11,Jacksonville Jaguars,Pittsburgh Steelers,3.0,27.0,30.0,0,Sun,2020-11-22,1:00PM,JAX,PIT
+1177,2020,11,Baltimore Ravens,Tennessee Titans,24.0,30.0,54.0,0,Sun,2020-11-22,1:00PM,BAL,TEN
+1178,2020,11,Carolina Panthers,Detroit Lions,20.0,0.0,20.0,1,Sun,2020-11-22,1:00PM,CAR,DET
+1179,2020,11,Denver Broncos,Miami Dolphins,20.0,13.0,33.0,1,Sun,2020-11-22,4:05PM,DEN,MIA
+1180,2020,11,Los Angeles Chargers,New York Jets,34.0,28.0,62.0,1,Sun,2020-11-22,4:05PM,LAC,NYJ
+1181,2020,11,Indianapolis Colts,Green Bay Packers,34.0,31.0,65.0,1,Sun,2020-11-22,4:25PM,IND,GB
+1182,2020,11,Minnesota Vikings,Dallas Cowboys,28.0,31.0,59.0,0,Sun,2020-11-22,4:25PM,MIN,DAL
+1183,2020,11,Las Vegas Raiders,Kansas City Chiefs,31.0,35.0,66.0,0,Sun,2020-11-22,8:20PM,LV,KC
+1184,2020,11,Tampa Bay Buccaneers,Los Angeles Rams,24.0,27.0,51.0,0,Mon,2020-11-23,8:15PM,TB,LAR
+1185,2020,12,Detroit Lions,Houston Texans,25.0,41.0,66.0,0,Thu,2020-11-26,12:30PM,DET,HOU
+1186,2020,12,Dallas Cowboys,Washington Football Team,16.0,41.0,57.0,0,Thu,2020-11-26,4:30PM,DAL,WAS
+1187,2020,12,Atlanta Falcons,Las Vegas Raiders,43.0,6.0,49.0,1,Sun,2020-11-29,1:00PM,ATL,LV
+1188,2020,12,Buffalo Bills,Los Angeles Chargers,27.0,17.0,44.0,1,Sun,2020-11-29,1:00PM,BUF,LAC
+1189,2020,12,Cincinnati Bengals,New York Giants,17.0,19.0,36.0,0,Sun,2020-11-29,1:00PM,CIN,NYG
+1190,2020,12,Jacksonville Jaguars,Cleveland Browns,25.0,27.0,52.0,0,Sun,2020-11-29,1:00PM,JAX,CLE
+1191,2020,12,Indianapolis Colts,Tennessee Titans,26.0,45.0,71.0,0,Sun,2020-11-29,1:00PM,IND,TEN
+1192,2020,12,New England Patriots,Arizona Cardinals,20.0,17.0,37.0,1,Sun,2020-11-29,1:00PM,NE,ARI
+1193,2020,12,New York Jets,Miami Dolphins,3.0,20.0,23.0,0,Sun,2020-11-29,1:00PM,NYJ,MIA
+1194,2020,12,Minnesota Vikings,Carolina Panthers,28.0,27.0,55.0,1,Sun,2020-11-29,1:00PM,MIN,CAR
+1195,2020,12,Denver Broncos,New Orleans Saints,3.0,31.0,34.0,0,Sun,2020-11-29,4:05PM,DEN,NO
+1196,2020,12,Los Angeles Rams,San Francisco 49ers,20.0,23.0,43.0,0,Sun,2020-11-29,4:05PM,LAR,SF
+1197,2020,12,Tampa Bay Buccaneers,Kansas City Chiefs,24.0,27.0,51.0,0,Sun,2020-11-29,4:25PM,TB,KC
+1198,2020,12,Green Bay Packers,Chicago Bears,41.0,25.0,66.0,1,Sun,2020-11-29,8:20PM,GB,CHI
+1199,2020,12,Philadelphia Eagles,Seattle Seahawks,17.0,23.0,40.0,0,Mon,2020-11-30,8:15PM,PHI,SEA
+1200,2020,12,Pittsburgh Steelers,Baltimore Ravens,19.0,14.0,33.0,1,Wed,2020-12-02,3:40PM,PIT,BAL
+1201,2020,13,Atlanta Falcons,New Orleans Saints,16.0,21.0,37.0,0,Sun,2020-12-06,1:00PM,ATL,NO
+1202,2020,13,Chicago Bears,Detroit Lions,30.0,34.0,64.0,0,Sun,2020-12-06,1:00PM,CHI,DET
+1203,2020,13,Miami Dolphins,Cincinnati Bengals,19.0,7.0,26.0,1,Sun,2020-12-06,1:00PM,MIA,CIN
+1204,2020,13,Tennessee Titans,Cleveland Browns,35.0,41.0,76.0,0,Sun,2020-12-06,1:00PM,TEN,CLE
+1205,2020,13,Houston Texans,Indianapolis Colts,20.0,26.0,46.0,0,Sun,2020-12-06,1:00PM,HOU,IND
+1206,2020,13,Minnesota Vikings,Jacksonville Jaguars,27.0,24.0,51.0,1,Sun,2020-12-06,1:00PM,MIN,JAX
+1207,2020,13,New York Jets,Las Vegas Raiders,28.0,31.0,59.0,0,Sun,2020-12-06,1:00PM,NYJ,LV
+1208,2020,13,Arizona Cardinals,Los Angeles Rams,28.0,38.0,66.0,0,Sun,2020-12-06,4:05PM,ARI,LAR
+1209,2020,13,Seattle Seahawks,New York Giants,12.0,17.0,29.0,0,Sun,2020-12-06,4:05PM,SEA,NYG
+1210,2020,13,Green Bay Packers,Philadelphia Eagles,30.0,16.0,46.0,1,Sun,2020-12-06,4:25PM,GB,PHI
+1211,2020,13,Los Angeles Chargers,New England Patriots,0.0,45.0,45.0,0,Sun,2020-12-06,4:25PM,LAC,NE
+1212,2020,13,Kansas City Chiefs,Denver Broncos,22.0,16.0,38.0,1,Sun,2020-12-06,8:20PM,KC,DEN
+1213,2020,13,Pittsburgh Steelers,Washington Football Team,17.0,23.0,40.0,0,Mon,2020-12-07,5:00PM,PIT,WAS
+1214,2020,13,San Francisco 49ers,Buffalo Bills,24.0,34.0,58.0,0,Mon,2020-12-07,8:15PM,SF,BUF
+1215,2020,13,Baltimore Ravens,Dallas Cowboys,34.0,17.0,51.0,1,Tue,2020-12-08,8:05PM,BAL,DAL
+1216,2020,14,Los Angeles Rams,New England Patriots,24.0,3.0,27.0,1,Thu,2020-12-10,8:20PM,LAR,NE
+1217,2020,14,Carolina Panthers,Denver Broncos,27.0,32.0,59.0,0,Sun,2020-12-13,1:00PM,CAR,DEN
+1218,2020,14,Chicago Bears,Houston Texans,36.0,7.0,43.0,1,Sun,2020-12-13,1:00PM,CHI,HOU
+1219,2020,14,Cincinnati Bengals,Dallas Cowboys,7.0,30.0,37.0,0,Sun,2020-12-13,1:00PM,CIN,DAL
+1220,2020,14,New York Giants,Arizona Cardinals,7.0,26.0,33.0,0,Sun,2020-12-13,1:00PM,NYG,ARI
+1221,2020,14,Jacksonville Jaguars,Tennessee Titans,10.0,31.0,41.0,0,Sun,2020-12-13,1:00PM,JAX,TEN
+1222,2020,14,Miami Dolphins,Kansas City Chiefs,27.0,33.0,60.0,0,Sun,2020-12-13,1:00PM,MIA,KC
+1223,2020,14,Tampa Bay Buccaneers,Minnesota Vikings,26.0,14.0,40.0,1,Sun,2020-12-13,1:00PM,TB,MIN
+1224,2020,14,Las Vegas Raiders,Indianapolis Colts,27.0,44.0,71.0,0,Sun,2020-12-13,4:05PM,LV,IND
+1225,2020,14,Seattle Seahawks,New York Jets,40.0,3.0,43.0,1,Sun,2020-12-13,4:05PM,SEA,NYJ
+1226,2020,14,Los Angeles Chargers,Atlanta Falcons,20.0,17.0,37.0,1,Sun,2020-12-13,4:25PM,LAC,ATL
+1227,2020,14,Detroit Lions,Green Bay Packers,24.0,31.0,55.0,0,Sun,2020-12-13,4:25PM,DET,GB
+1228,2020,14,Philadelphia Eagles,New Orleans Saints,24.0,21.0,45.0,1,Sun,2020-12-13,4:25PM,PHI,NO
+1229,2020,14,San Francisco 49ers,Washington Football Team,15.0,23.0,38.0,0,Sun,2020-12-13,4:25PM,SF,WAS
+1230,2020,14,Buffalo Bills,Pittsburgh Steelers,26.0,15.0,41.0,1,Sun,2020-12-13,8:20PM,BUF,PIT
+1231,2020,14,Cleveland Browns,Baltimore Ravens,42.0,47.0,89.0,0,Mon,2020-12-14,8:15PM,CLE,BAL
+1232,2020,15,Las Vegas Raiders,Los Angeles Chargers,27.0,30.0,57.0,0,Thu,2020-12-17,8:20PM,LV,LAC
+1233,2020,15,Denver Broncos,Buffalo Bills,19.0,48.0,67.0,0,Sat,2020-12-19,4:30PM,DEN,BUF
+1234,2020,15,Green Bay Packers,Carolina Panthers,24.0,16.0,40.0,1,Sat,2020-12-19,8:15PM,GB,CAR
+1235,2020,15,Atlanta Falcons,Tampa Bay Buccaneers,27.0,31.0,58.0,0,Sun,2020-12-20,1:00PM,ATL,TB
+1236,2020,15,Minnesota Vikings,Chicago Bears,27.0,33.0,60.0,0,Sun,2020-12-20,1:00PM,MIN,CHI
+1237,2020,15,Indianapolis Colts,Houston Texans,27.0,20.0,47.0,1,Sun,2020-12-20,1:00PM,IND,HOU
+1238,2020,15,Dallas Cowboys,San Francisco 49ers,41.0,33.0,74.0,1,Sun,2020-12-20,1:00PM,DAL,SF
+1239,2020,15,Tennessee Titans,Detroit Lions,46.0,25.0,71.0,1,Sun,2020-12-20,1:00PM,TEN,DET
+1240,2020,15,Baltimore Ravens,Jacksonville Jaguars,40.0,14.0,54.0,1,Sun,2020-12-20,1:00PM,BAL,JAX
+1241,2020,15,Miami Dolphins,New England Patriots,22.0,12.0,34.0,1,Sun,2020-12-20,1:00PM,MIA,NE
+1242,2020,15,Washington Football Team,Seattle Seahawks,15.0,20.0,35.0,0,Sun,2020-12-20,1:00PM,WAS,SEA
+1243,2020,15,Arizona Cardinals,Philadelphia Eagles,33.0,26.0,59.0,1,Sun,2020-12-20,4:05PM,ARI,PHI
+1244,2020,15,Los Angeles Rams,New York Jets,20.0,23.0,43.0,0,Sun,2020-12-20,4:05PM,LAR,NYJ
+1245,2020,15,New Orleans Saints,Kansas City Chiefs,29.0,32.0,61.0,0,Sun,2020-12-20,4:25PM,NO,KC
+1246,2020,15,New York Giants,Cleveland Browns,6.0,20.0,26.0,0,Sun,2020-12-20,8:20PM,NYG,CLE
+1247,2020,15,Cincinnati Bengals,Pittsburgh Steelers,27.0,17.0,44.0,1,Mon,2020-12-21,8:15PM,CIN,PIT
+1248,2020,16,New Orleans Saints,Minnesota Vikings,52.0,33.0,85.0,1,Fri,2020-12-25,4:30PM,NO,MIN
+1249,2020,16,Detroit Lions,Tampa Bay Buccaneers,7.0,47.0,54.0,0,Sat,2020-12-26,1:00PM,DET,TB
+1250,2020,16,Arizona Cardinals,San Francisco 49ers,12.0,20.0,32.0,0,Sat,2020-12-26,4:30PM,ARI,SF
+1251,2020,16,Las Vegas Raiders,Miami Dolphins,25.0,26.0,51.0,0,Sat,2020-12-26,8:15PM,LV,MIA
+1252,2020,16,Kansas City Chiefs,Atlanta Falcons,17.0,14.0,31.0,1,Sun,2020-12-27,1:00PM,KC,ATL
+1253,2020,16,Jacksonville Jaguars,Chicago Bears,17.0,41.0,58.0,0,Sun,2020-12-27,1:00PM,JAX,CHI
+1254,2020,16,Houston Texans,Cincinnati Bengals,31.0,37.0,68.0,0,Sun,2020-12-27,1:00PM,HOU,CIN
+1255,2020,16,New York Jets,Cleveland Browns,23.0,16.0,39.0,1,Sun,2020-12-27,1:00PM,NYJ,CLE
+1256,2020,16,Pittsburgh Steelers,Indianapolis Colts,28.0,24.0,52.0,1,Sun,2020-12-27,1:00PM,PIT,IND
+1257,2020,16,Baltimore Ravens,New York Giants,27.0,13.0,40.0,1,Sun,2020-12-27,1:00PM,BAL,NYG
+1258,2020,16,Washington Football Team,Carolina Panthers,13.0,20.0,33.0,0,Sun,2020-12-27,4:05PM,WAS,CAR
+1259,2020,16,Los Angeles Chargers,Denver Broncos,19.0,16.0,35.0,1,Sun,2020-12-27,4:05PM,LAC,DEN
+1260,2020,16,Dallas Cowboys,Philadelphia Eagles,37.0,17.0,54.0,1,Sun,2020-12-27,4:25PM,DAL,PHI
+1261,2020,16,Seattle Seahawks,Los Angeles Rams,20.0,9.0,29.0,1,Sun,2020-12-27,4:25PM,SEA,LAR
+1262,2020,16,Green Bay Packers,Tennessee Titans,40.0,14.0,54.0,1,Sun,2020-12-27,8:20PM,GB,TEN
+1263,2020,16,New England Patriots,Buffalo Bills,9.0,38.0,47.0,0,Mon,2020-12-28,8:15PM,NE,BUF
+1264,2020,17,Tampa Bay Buccaneers,Atlanta Falcons,44.0,27.0,71.0,1,Sun,2021-01-03,1:00PM,TB,ATL
+1265,2020,17,Buffalo Bills,Miami Dolphins,56.0,26.0,82.0,1,Sun,2021-01-03,1:00PM,BUF,MIA
+1266,2020,17,Cincinnati Bengals,Baltimore Ravens,3.0,38.0,41.0,0,Sun,2021-01-03,1:00PM,CIN,BAL
+1267,2020,17,Cleveland Browns,Pittsburgh Steelers,24.0,22.0,46.0,1,Sun,2021-01-03,1:00PM,CLE,PIT
+1268,2020,17,New York Giants,Dallas Cowboys,23.0,19.0,42.0,1,Sun,2021-01-03,1:00PM,NYG,DAL
+1269,2020,17,Detroit Lions,Minnesota Vikings,35.0,37.0,72.0,0,Sun,2021-01-03,1:00PM,DET,MIN
+1270,2020,17,New England Patriots,New York Jets,28.0,14.0,42.0,1,Sun,2021-01-03,1:00PM,NE,NYJ
+1271,2020,17,Carolina Panthers,New Orleans Saints,7.0,33.0,40.0,0,Sun,2021-01-03,4:25PM,CAR,NO
+1272,2020,17,Chicago Bears,Green Bay Packers,16.0,35.0,51.0,0,Sun,2021-01-03,4:25PM,CHI,GB
+1273,2020,17,Indianapolis Colts,Jacksonville Jaguars,28.0,14.0,42.0,1,Sun,2021-01-03,4:25PM,IND,JAX
+1274,2020,17,Los Angeles Rams,Arizona Cardinals,18.0,7.0,25.0,1,Sun,2021-01-03,4:25PM,LAR,ARI
+1275,2020,17,Denver Broncos,Las Vegas Raiders,31.0,32.0,63.0,0,Sun,2021-01-03,4:25PM,DEN,LV
+1276,2020,17,Houston Texans,Tennessee Titans,38.0,41.0,79.0,0,Sun,2021-01-03,4:25PM,HOU,TEN
+1277,2020,17,Kansas City Chiefs,Los Angeles Chargers,21.0,38.0,59.0,0,Sun,2021-01-03,4:25PM,KC,LAC
+1278,2020,17,San Francisco 49ers,Seattle Seahawks,23.0,26.0,49.0,0,Sun,2021-01-03,4:25PM,SF,SEA
+1279,2020,17,Philadelphia Eagles,Washington Football Team,14.0,20.0,34.0,0,Sun,2021-01-03,8:20PM,PHI,WAS
+1280,2021,1,Tampa Bay Buccaneers,Dallas Cowboys,31.0,29.0,60.0,1,Thu,2021-09-09,8:20PM,TB,DAL
+1281,2021,1,Atlanta Falcons,Philadelphia Eagles,6.0,32.0,38.0,0,Sun,2021-09-12,1:00PM,ATL,PHI
+1282,2021,1,Buffalo Bills,Pittsburgh Steelers,16.0,23.0,39.0,0,Sun,2021-09-12,1:00PM,BUF,PIT
+1283,2021,1,Carolina Panthers,New York Jets,19.0,14.0,33.0,1,Sun,2021-09-12,1:00PM,CAR,NYJ
+1284,2021,1,Cincinnati Bengals,Minnesota Vikings,27.0,24.0,51.0,1,Sun,2021-09-12,1:00PM,CIN,MIN
+1285,2021,1,Indianapolis Colts,Seattle Seahawks,16.0,28.0,44.0,0,Sun,2021-09-12,1:00PM,IND,SEA
+1286,2021,1,Tennessee Titans,Arizona Cardinals,13.0,38.0,51.0,0,Sun,2021-09-12,1:00PM,TEN,ARI
+1287,2021,1,Detroit Lions,San Francisco 49ers,33.0,41.0,74.0,0,Sun,2021-09-12,1:00PM,DET,SF
+1288,2021,1,Houston Texans,Jacksonville Jaguars,37.0,21.0,58.0,1,Sun,2021-09-12,1:00PM,HOU,JAX
+1289,2021,1,Washington Football Team,Los Angeles Chargers,16.0,20.0,36.0,0,Sun,2021-09-12,1:00PM,WAS,LAC
+1290,2021,1,Kansas City Chiefs,Cleveland Browns,33.0,29.0,62.0,1,Sun,2021-09-12,4:25PM,KC,CLE
+1291,2021,1,New York Giants,Denver Broncos,13.0,27.0,40.0,0,Sun,2021-09-12,4:25PM,NYG,DEN
+1292,2021,1,New Orleans Saints,Green Bay Packers,38.0,3.0,41.0,1,Sun,2021-09-12,4:25PM,NO,GB
+1293,2021,1,New England Patriots,Miami Dolphins,16.0,17.0,33.0,0,Sun,2021-09-12,4:25PM,NE,MIA
+1294,2021,1,Los Angeles Rams,Chicago Bears,34.0,14.0,48.0,1,Sun,2021-09-12,8:20PM,LAR,CHI
+1295,2021,1,Las Vegas Raiders,Baltimore Ravens,33.0,27.0,60.0,1,Mon,2021-09-13,8:15PM,LV,BAL
+1296,2021,2,Washington Football Team,New York Giants,30.0,29.0,59.0,1,Thu,2021-09-16,8:20PM,WAS,NYG
+1297,2021,2,Miami Dolphins,Buffalo Bills,0.0,35.0,35.0,0,Sun,2021-09-19,1:00PM,MIA,BUF
+1298,2021,2,Carolina Panthers,New Orleans Saints,26.0,7.0,33.0,1,Sun,2021-09-19,1:00PM,CAR,NO
+1299,2021,2,Chicago Bears,Cincinnati Bengals,20.0,17.0,37.0,1,Sun,2021-09-19,1:00PM,CHI,CIN
+1300,2021,2,Cleveland Browns,Houston Texans,31.0,21.0,52.0,1,Sun,2021-09-19,1:00PM,CLE,HOU
+1301,2021,2,Indianapolis Colts,Los Angeles Rams,24.0,27.0,51.0,0,Sun,2021-09-19,1:00PM,IND,LAR
+1302,2021,2,Jacksonville Jaguars,Denver Broncos,13.0,23.0,36.0,0,Sun,2021-09-19,1:00PM,JAX,DEN
+1303,2021,2,New York Jets,New England Patriots,6.0,25.0,31.0,0,Sun,2021-09-19,1:00PM,NYJ,NE
+1304,2021,2,Philadelphia Eagles,San Francisco 49ers,11.0,17.0,28.0,0,Sun,2021-09-19,1:00PM,PHI,SF
+1305,2021,2,Pittsburgh Steelers,Las Vegas Raiders,17.0,26.0,43.0,0,Sun,2021-09-19,1:00PM,PIT,LV
+1306,2021,2,Tampa Bay Buccaneers,Atlanta Falcons,48.0,25.0,73.0,1,Sun,2021-09-19,4:05PM,TB,ATL
+1307,2021,2,Arizona Cardinals,Minnesota Vikings,34.0,33.0,67.0,1,Sun,2021-09-19,4:05PM,ARI,MIN
+1308,2021,2,Los Angeles Chargers,Dallas Cowboys,17.0,20.0,37.0,0,Sun,2021-09-19,4:25PM,LAC,DAL
+1309,2021,2,Seattle Seahawks,Tennessee Titans,30.0,33.0,63.0,0,Sun,2021-09-19,4:25PM,SEA,TEN
+1310,2021,2,Baltimore Ravens,Kansas City Chiefs,36.0,35.0,71.0,1,Sun,2021-09-19,8:20PM,BAL,KC
+1311,2021,2,Green Bay Packers,Detroit Lions,35.0,17.0,52.0,1,Mon,2021-09-20,8:15PM,GB,DET
+1312,2021,3,Houston Texans,Carolina Panthers,9.0,24.0,33.0,0,Thu,2021-09-23,8:20PM,HOU,CAR
+1313,2021,3,New York Giants,Atlanta Falcons,14.0,17.0,31.0,0,Sun,2021-09-26,1:00PM,NYG,ATL
+1314,2021,3,Buffalo Bills,Washington Football Team,43.0,21.0,64.0,1,Sun,2021-09-26,1:00PM,BUF,WAS
+1315,2021,3,Cleveland Browns,Chicago Bears,26.0,6.0,32.0,1,Sun,2021-09-26,1:00PM,CLE,CHI
+1316,2021,3,Pittsburgh Steelers,Cincinnati Bengals,10.0,24.0,34.0,0,Sun,2021-09-26,1:00PM,PIT,CIN
+1317,2021,3,Tennessee Titans,Indianapolis Colts,25.0,16.0,41.0,1,Sun,2021-09-26,1:00PM,TEN,IND
+1318,2021,3,Jacksonville Jaguars,Arizona Cardinals,19.0,31.0,50.0,0,Sun,2021-09-26,1:00PM,JAX,ARI
+1319,2021,3,Detroit Lions,Baltimore Ravens,17.0,19.0,36.0,0,Sun,2021-09-26,1:00PM,DET,BAL
+1320,2021,3,Kansas City Chiefs,Los Angeles Chargers,24.0,30.0,54.0,0,Sun,2021-09-26,1:00PM,KC,LAC
+1321,2021,3,New England Patriots,New Orleans Saints,13.0,28.0,41.0,0,Sun,2021-09-26,1:00PM,NE,NO
+1322,2021,3,Denver Broncos,New York Jets,26.0,0.0,26.0,1,Sun,2021-09-26,4:05PM,DEN,NYJ
+1323,2021,3,Las Vegas Raiders,Miami Dolphins,31.0,28.0,59.0,1,Sun,2021-09-26,4:05PM,LV,MIA
+1324,2021,3,Minnesota Vikings,Seattle Seahawks,30.0,17.0,47.0,1,Sun,2021-09-26,4:25PM,MIN,SEA
+1325,2021,3,Los Angeles Rams,Tampa Bay Buccaneers,34.0,24.0,58.0,1,Sun,2021-09-26,4:25PM,LAR,TB
+1326,2021,3,San Francisco 49ers,Green Bay Packers,28.0,30.0,58.0,0,Sun,2021-09-26,8:20PM,SF,GB
+1327,2021,3,Dallas Cowboys,Philadelphia Eagles,41.0,21.0,62.0,1,Mon,2021-09-27,8:15PM,DAL,PHI
+1328,2021,4,Cincinnati Bengals,Jacksonville Jaguars,24.0,21.0,45.0,1,Thu,2021-09-30,8:20PM,CIN,JAX
+1329,2021,4,Atlanta Falcons,Washington Football Team,30.0,34.0,64.0,0,Sun,2021-10-03,1:00PM,ATL,WAS
+1330,2021,4,Buffalo Bills,Houston Texans,40.0,0.0,40.0,1,Sun,2021-10-03,1:00PM,BUF,HOU
+1331,2021,4,Dallas Cowboys,Carolina Panthers,36.0,28.0,64.0,1,Sun,2021-10-03,1:00PM,DAL,CAR
+1332,2021,4,Chicago Bears,Detroit Lions,24.0,14.0,38.0,1,Sun,2021-10-03,1:00PM,CHI,DET
+1333,2021,4,Minnesota Vikings,Cleveland Browns,7.0,14.0,21.0,0,Sun,2021-10-03,1:00PM,MIN,CLE
+1334,2021,4,Miami Dolphins,Indianapolis Colts,17.0,27.0,44.0,0,Sun,2021-10-03,1:00PM,MIA,IND
+1335,2021,4,Philadelphia Eagles,Kansas City Chiefs,30.0,42.0,72.0,0,Sun,2021-10-03,1:00PM,PHI,KC
+1336,2021,4,New Orleans Saints,New York Giants,21.0,27.0,48.0,0,Sun,2021-10-03,1:00PM,NO,NYG
+1337,2021,4,New York Jets,Tennessee Titans,27.0,24.0,51.0,1,Sun,2021-10-03,1:00PM,NYJ,TEN
+1338,2021,4,Los Angeles Rams,Arizona Cardinals,20.0,37.0,57.0,0,Sun,2021-10-03,4:05PM,LAR,ARI
+1339,2021,4,San Francisco 49ers,Seattle Seahawks,21.0,28.0,49.0,0,Sun,2021-10-03,4:05PM,SF,SEA
+1340,2021,4,Denver Broncos,Baltimore Ravens,7.0,23.0,30.0,0,Sun,2021-10-03,4:25PM,DEN,BAL
+1341,2021,4,Green Bay Packers,Pittsburgh Steelers,27.0,17.0,44.0,1,Sun,2021-10-03,4:25PM,GB,PIT
+1342,2021,4,New England Patriots,Tampa Bay Buccaneers,17.0,19.0,36.0,0,Sun,2021-10-03,8:20PM,NE,TB
+1343,2021,4,Los Angeles Chargers,Las Vegas Raiders,28.0,14.0,42.0,1,Mon,2021-10-04,8:15PM,LAC,LV
+1344,2021,5,Seattle Seahawks,Los Angeles Rams,17.0,26.0,43.0,0,Thu,2021-10-07,8:20PM,SEA,LAR
+1345,2021,5,Atlanta Falcons,New York Jets,27.0,20.0,47.0,1,Sun,2021-10-10,9:30AM,ATL,NYJ
+1346,2021,5,Carolina Panthers,Philadelphia Eagles,18.0,21.0,39.0,0,Sun,2021-10-10,1:00PM,CAR,PHI
+1347,2021,5,Cincinnati Bengals,Green Bay Packers,22.0,25.0,47.0,0,Sun,2021-10-10,1:00PM,CIN,GB
+1348,2021,5,Pittsburgh Steelers,Denver Broncos,27.0,19.0,46.0,1,Sun,2021-10-10,1:00PM,PIT,DEN
+1349,2021,5,Minnesota Vikings,Detroit Lions,19.0,17.0,36.0,1,Sun,2021-10-10,1:00PM,MIN,DET
+1350,2021,5,Houston Texans,New England Patriots,22.0,25.0,47.0,0,Sun,2021-10-10,1:00PM,HOU,NE
+1351,2021,5,Jacksonville Jaguars,Tennessee Titans,19.0,37.0,56.0,0,Sun,2021-10-10,1:00PM,JAX,TEN
+1352,2021,5,Tampa Bay Buccaneers,Miami Dolphins,45.0,17.0,62.0,1,Sun,2021-10-10,1:00PM,TB,MIA
+1353,2021,5,Washington Football Team,New Orleans Saints,22.0,33.0,55.0,0,Sun,2021-10-10,1:00PM,WAS,NO
+1354,2021,5,Las Vegas Raiders,Chicago Bears,9.0,20.0,29.0,0,Sun,2021-10-10,4:05PM,LV,CHI
+1355,2021,5,Los Angeles Chargers,Cleveland Browns,47.0,42.0,89.0,1,Sun,2021-10-10,4:05PM,LAC,CLE
+1356,2021,5,Arizona Cardinals,San Francisco 49ers,17.0,10.0,27.0,1,Sun,2021-10-10,4:25PM,ARI,SF
+1357,2021,5,Dallas Cowboys,New York Giants,44.0,20.0,64.0,1,Sun,2021-10-10,4:25PM,DAL,NYG
+1358,2021,5,Kansas City Chiefs,Buffalo Bills,20.0,38.0,58.0,0,Sun,2021-10-10,8:20PM,KC,BUF
+1359,2021,5,Baltimore Ravens,Indianapolis Colts,31.0,25.0,56.0,1,Mon,2021-10-11,8:15PM,BAL,IND
+1360,2021,6,Philadelphia Eagles,Tampa Bay Buccaneers,22.0,28.0,50.0,0,Thu,2021-10-14,8:20PM,PHI,TB
+1361,2021,6,Jacksonville Jaguars,Miami Dolphins,23.0,20.0,43.0,1,Sun,2021-10-17,9:30AM,JAX,MIA
+1362,2021,6,Carolina Panthers,Minnesota Vikings,28.0,34.0,62.0,0,Sun,2021-10-17,1:00PM,CAR,MIN
+1363,2021,6,Chicago Bears,Green Bay Packers,14.0,24.0,38.0,0,Sun,2021-10-17,1:00PM,CHI,GB
+1364,2021,6,Detroit Lions,Cincinnati Bengals,11.0,34.0,45.0,0,Sun,2021-10-17,1:00PM,DET,CIN
+1365,2021,6,Indianapolis Colts,Houston Texans,31.0,3.0,34.0,1,Sun,2021-10-17,1:00PM,IND,HOU
+1366,2021,6,Washington Football Team,Kansas City Chiefs,13.0,31.0,44.0,0,Sun,2021-10-17,1:00PM,WAS,KC
+1367,2021,6,New York Giants,Los Angeles Rams,11.0,38.0,49.0,0,Sun,2021-10-17,1:00PM,NYG,LAR
+1368,2021,6,Baltimore Ravens,Los Angeles Chargers,34.0,6.0,40.0,1,Sun,2021-10-17,1:00PM,BAL,LAC
+1369,2021,6,Cleveland Browns,Arizona Cardinals,14.0,37.0,51.0,0,Sun,2021-10-17,4:05PM,CLE,ARI
+1370,2021,6,New England Patriots,Dallas Cowboys,29.0,35.0,64.0,0,Sun,2021-10-17,4:25PM,NE,DAL
+1371,2021,6,Denver Broncos,Las Vegas Raiders,24.0,34.0,58.0,0,Sun,2021-10-17,4:25PM,DEN,LV
+1372,2021,6,Pittsburgh Steelers,Seattle Seahawks,23.0,20.0,43.0,1,Sun,2021-10-17,8:20PM,PIT,SEA
+1373,2021,6,Tennessee Titans,Buffalo Bills,34.0,31.0,65.0,1,Mon,2021-10-18,8:15PM,TEN,BUF
+1374,2021,7,Cleveland Browns,Denver Broncos,17.0,14.0,31.0,1,Thu,2021-10-21,8:20PM,CLE,DEN
+1375,2021,7,Miami Dolphins,Atlanta Falcons,28.0,30.0,58.0,0,Sun,2021-10-24,1:00PM,MIA,ATL
+1376,2021,7,New York Giants,Carolina Panthers,25.0,3.0,28.0,1,Sun,2021-10-24,1:00PM,NYG,CAR
+1377,2021,7,Baltimore Ravens,Cincinnati Bengals,17.0,41.0,58.0,0,Sun,2021-10-24,1:00PM,BAL,CIN
+1378,2021,7,Green Bay Packers,Washington Football Team,24.0,10.0,34.0,1,Sun,2021-10-24,1:00PM,GB,WAS
+1379,2021,7,Tennessee Titans,Kansas City Chiefs,27.0,3.0,30.0,1,Sun,2021-10-24,1:00PM,TEN,KC
+1380,2021,7,New England Patriots,New York Jets,54.0,13.0,67.0,1,Sun,2021-10-24,1:00PM,NE,NYJ
+1381,2021,7,Los Angeles Rams,Detroit Lions,28.0,19.0,47.0,1,Sun,2021-10-24,4:05PM,LAR,DET
+1382,2021,7,Las Vegas Raiders,Philadelphia Eagles,33.0,22.0,55.0,1,Sun,2021-10-24,4:05PM,LV,PHI
+1383,2021,7,Tampa Bay Buccaneers,Chicago Bears,38.0,3.0,41.0,1,Sun,2021-10-24,4:25PM,TB,CHI
+1384,2021,7,Arizona Cardinals,Houston Texans,31.0,5.0,36.0,1,Sun,2021-10-24,4:25PM,ARI,HOU
+1385,2021,7,San Francisco 49ers,Indianapolis Colts,18.0,30.0,48.0,0,Sun,2021-10-24,8:20PM,SF,IND
+1386,2021,7,Seattle Seahawks,New Orleans Saints,10.0,13.0,23.0,0,Mon,2021-10-25,8:15PM,SEA,NO
+1387,2021,8,Arizona Cardinals,Green Bay Packers,21.0,24.0,45.0,0,Thu,2021-10-28,8:20PM,ARI,GB
+1388,2021,8,Atlanta Falcons,Carolina Panthers,13.0,19.0,32.0,0,Sun,2021-10-31,1:00PM,ATL,CAR
+1389,2021,8,Buffalo Bills,Miami Dolphins,26.0,11.0,37.0,1,Sun,2021-10-31,1:00PM,BUF,MIA
+1390,2021,8,Chicago Bears,San Francisco 49ers,22.0,33.0,55.0,0,Sun,2021-10-31,1:00PM,CHI,SF
+1391,2021,8,New York Jets,Cincinnati Bengals,34.0,31.0,65.0,1,Sun,2021-10-31,1:00PM,NYJ,CIN
+1392,2021,8,Cleveland Browns,Pittsburgh Steelers,10.0,15.0,25.0,0,Sun,2021-10-31,1:00PM,CLE,PIT
+1393,2021,8,Indianapolis Colts,Tennessee Titans,31.0,34.0,65.0,0,Sun,2021-10-31,1:00PM,IND,TEN
+1394,2021,8,Detroit Lions,Philadelphia Eagles,6.0,44.0,50.0,0,Sun,2021-10-31,1:00PM,DET,PHI
+1395,2021,8,Houston Texans,Los Angeles Rams,22.0,38.0,60.0,0,Sun,2021-10-31,1:00PM,HOU,LAR
+1396,2021,8,Seattle Seahawks,Jacksonville Jaguars,31.0,7.0,38.0,1,Sun,2021-10-31,4:05PM,SEA,JAX
+1397,2021,8,Los Angeles Chargers,New England Patriots,24.0,27.0,51.0,0,Sun,2021-10-31,4:05PM,LAC,NE
+1398,2021,8,New Orleans Saints,Tampa Bay Buccaneers,36.0,27.0,63.0,1,Sun,2021-10-31,4:25PM,NO,TB
+1399,2021,8,Denver Broncos,Washington Football Team,17.0,10.0,27.0,1,Sun,2021-10-31,4:25PM,DEN,WAS
+1400,2021,8,Minnesota Vikings,Dallas Cowboys,16.0,20.0,36.0,0,Sun,2021-10-31,8:20PM,MIN,DAL
+1401,2021,8,Kansas City Chiefs,New York Giants,20.0,17.0,37.0,1,Mon,2021-11-01,8:15PM,KC,NYG
+1402,2021,9,Indianapolis Colts,New York Jets,45.0,30.0,75.0,1,Thu,2021-11-04,8:20PM,IND,NYJ
+1403,2021,9,New Orleans Saints,Atlanta Falcons,25.0,27.0,52.0,0,Sun,2021-11-07,1:00PM,NO,ATL
+1404,2021,9,Jacksonville Jaguars,Buffalo Bills,9.0,6.0,15.0,1,Sun,2021-11-07,1:00PM,JAX,BUF
+1405,2021,9,Dallas Cowboys,Denver Broncos,16.0,30.0,46.0,0,Sun,2021-11-07,1:00PM,DAL,DEN
+1406,2021,9,Baltimore Ravens,Minnesota Vikings,34.0,31.0,65.0,1,Sun,2021-11-07,1:00PM,BAL,MIN
+1407,2021,9,Carolina Panthers,New England Patriots,6.0,24.0,30.0,0,Sun,2021-11-07,1:00PM,CAR,NE
+1408,2021,9,Cincinnati Bengals,Cleveland Browns,16.0,41.0,57.0,0,Sun,2021-11-07,1:00PM,CIN,CLE
+1409,2021,9,Miami Dolphins,Houston Texans,17.0,9.0,26.0,1,Sun,2021-11-07,1:00PM,MIA,HOU
+1410,2021,9,New York Giants,Las Vegas Raiders,23.0,16.0,39.0,1,Sun,2021-11-07,1:00PM,NYG,LV
+1411,2021,9,Philadelphia Eagles,Los Angeles Chargers,24.0,27.0,51.0,0,Sun,2021-11-07,4:05PM,PHI,LAC
+1412,2021,9,San Francisco 49ers,Arizona Cardinals,17.0,31.0,48.0,0,Sun,2021-11-07,4:25PM,SF,ARI
+1413,2021,9,Kansas City Chiefs,Green Bay Packers,13.0,7.0,20.0,1,Sun,2021-11-07,4:25PM,KC,GB
+1414,2021,9,Los Angeles Rams,Tennessee Titans,16.0,28.0,44.0,0,Sun,2021-11-07,8:20PM,LAR,TEN
+1415,2021,9,Pittsburgh Steelers,Chicago Bears,29.0,27.0,56.0,1,Mon,2021-11-08,8:15PM,PIT,CHI
+1416,2021,10,Miami Dolphins,Baltimore Ravens,22.0,10.0,32.0,1,Thu,2021-11-11,8:20PM,MIA,BAL
+1417,2021,10,Dallas Cowboys,Atlanta Falcons,43.0,3.0,46.0,1,Sun,2021-11-14,1:00PM,DAL,ATL
+1418,2021,10,New York Jets,Buffalo Bills,17.0,45.0,62.0,0,Sun,2021-11-14,1:00PM,NYJ,BUF
+1419,2021,10,Pittsburgh Steelers,Detroit Lions,16.0,16.0,32.0,1,Sun,2021-11-14,1:00PM,PIT,DET
+1420,2021,10,Tennessee Titans,New Orleans Saints,23.0,21.0,44.0,1,Sun,2021-11-14,1:00PM,TEN,NO
+1421,2021,10,Washington Football Team,Tampa Bay Buccaneers,29.0,19.0,48.0,1,Sun,2021-11-14,1:00PM,WAS,TB
+1422,2021,10,New England Patriots,Cleveland Browns,45.0,7.0,52.0,1,Sun,2021-11-14,1:00PM,NE,CLE
+1423,2021,10,Indianapolis Colts,Jacksonville Jaguars,23.0,17.0,40.0,1,Sun,2021-11-14,1:00PM,IND,JAX
+1424,2021,10,Los Angeles Chargers,Minnesota Vikings,20.0,27.0,47.0,0,Sun,2021-11-14,4:05PM,LAC,MIN
+1425,2021,10,Arizona Cardinals,Carolina Panthers,10.0,34.0,44.0,0,Sun,2021-11-14,4:05PM,ARI,CAR
+1426,2021,10,Denver Broncos,Philadelphia Eagles,13.0,30.0,43.0,0,Sun,2021-11-14,4:25PM,DEN,PHI
+1427,2021,10,Green Bay Packers,Seattle Seahawks,17.0,0.0,17.0,1,Sun,2021-11-14,4:25PM,GB,SEA
+1428,2021,10,Las Vegas Raiders,Kansas City Chiefs,14.0,41.0,55.0,0,Sun,2021-11-14,8:20PM,LV,KC
+1429,2021,10,San Francisco 49ers,Los Angeles Rams,31.0,10.0,41.0,1,Mon,2021-11-15,8:15PM,SF,LAR
+1430,2021,11,Atlanta Falcons,New England Patriots,0.0,25.0,25.0,0,Thu,2021-11-18,8:20PM,ATL,NE
+1431,2021,11,Buffalo Bills,Indianapolis Colts,15.0,41.0,56.0,0,Sun,2021-11-21,1:00PM,BUF,IND
+1432,2021,11,Chicago Bears,Baltimore Ravens,13.0,16.0,29.0,0,Sun,2021-11-21,1:00PM,CHI,BAL
+1433,2021,11,Tennessee Titans,Houston Texans,13.0,22.0,35.0,0,Sun,2021-11-21,1:00PM,TEN,HOU
+1434,2021,11,Jacksonville Jaguars,San Francisco 49ers,10.0,30.0,40.0,0,Sun,2021-11-21,1:00PM,JAX,SF
+1435,2021,11,Philadelphia Eagles,New Orleans Saints,40.0,29.0,69.0,1,Sun,2021-11-21,1:00PM,PHI,NO
+1436,2021,11,Carolina Panthers,Washington Football Team,21.0,27.0,48.0,0,Sun,2021-11-21,1:00PM,CAR,WAS
+1437,2021,11,Cleveland Browns,Detroit Lions,13.0,10.0,23.0,1,Sun,2021-11-21,1:00PM,CLE,DET
+1438,2021,11,Minnesota Vikings,Green Bay Packers,34.0,31.0,65.0,1,Sun,2021-11-21,1:00PM,MIN,GB
+1439,2021,11,New York Jets,Miami Dolphins,17.0,24.0,41.0,0,Sun,2021-11-21,1:00PM,NYJ,MIA
+1440,2021,11,Las Vegas Raiders,Cincinnati Bengals,13.0,32.0,45.0,0,Sun,2021-11-21,4:05PM,LV,CIN
+1441,2021,11,Kansas City Chiefs,Dallas Cowboys,19.0,9.0,28.0,1,Sun,2021-11-21,4:25PM,KC,DAL
+1442,2021,11,Seattle Seahawks,Arizona Cardinals,13.0,23.0,36.0,0,Sun,2021-11-21,4:25PM,SEA,ARI
+1443,2021,11,Los Angeles Chargers,Pittsburgh Steelers,41.0,37.0,78.0,1,Sun,2021-11-21,8:20PM,LAC,PIT
+1444,2021,11,Tampa Bay Buccaneers,New York Giants,30.0,10.0,40.0,1,Mon,2021-11-22,8:15PM,TB,NYG
+1445,2021,12,Detroit Lions,Chicago Bears,14.0,16.0,30.0,0,Thu,2021-11-25,12:30PM,DET,CHI
+1446,2021,12,Dallas Cowboys,Las Vegas Raiders,33.0,36.0,69.0,0,Thu,2021-11-25,4:30PM,DAL,LV
+1447,2021,12,New Orleans Saints,Buffalo Bills,6.0,31.0,37.0,0,Thu,2021-11-25,8:20PM,NO,BUF
+1448,2021,12,Jacksonville Jaguars,Atlanta Falcons,14.0,21.0,35.0,0,Sun,2021-11-28,1:00PM,JAX,ATL
+1449,2021,12,Cincinnati Bengals,Pittsburgh Steelers,41.0,10.0,51.0,1,Sun,2021-11-28,1:00PM,CIN,PIT
+1450,2021,12,Houston Texans,New York Jets,14.0,21.0,35.0,0,Sun,2021-11-28,1:00PM,HOU,NYJ
+1451,2021,12,New York Giants,Philadelphia Eagles,13.0,7.0,20.0,1,Sun,2021-11-28,1:00PM,NYG,PHI
+1452,2021,12,Miami Dolphins,Carolina Panthers,33.0,10.0,43.0,1,Sun,2021-11-28,1:00PM,MIA,CAR
+1453,2021,12,Indianapolis Colts,Tampa Bay Buccaneers,31.0,38.0,69.0,0,Sun,2021-11-28,1:00PM,IND,TB
+1454,2021,12,New England Patriots,Tennessee Titans,36.0,13.0,49.0,1,Sun,2021-11-28,1:00PM,NE,TEN
+1455,2021,12,Denver Broncos,Los Angeles Chargers,28.0,13.0,41.0,1,Sun,2021-11-28,4:05PM,DEN,LAC
+1456,2021,12,San Francisco 49ers,Minnesota Vikings,34.0,26.0,60.0,1,Sun,2021-11-28,4:25PM,SF,MIN
+1457,2021,12,Green Bay Packers,Los Angeles Rams,36.0,28.0,64.0,1,Sun,2021-11-28,4:25PM,GB,LAR
+1458,2021,12,Baltimore Ravens,Cleveland Browns,16.0,10.0,26.0,1,Sun,2021-11-28,8:20PM,BAL,CLE
+1459,2021,12,Washington Football Team,Seattle Seahawks,17.0,15.0,32.0,1,Mon,2021-11-29,8:15PM,WAS,SEA
+1460,2021,13,New Orleans Saints,Dallas Cowboys,17.0,27.0,44.0,0,Thu,2021-12-02,8:20PM,NO,DAL
+1461,2021,13,Atlanta Falcons,Tampa Bay Buccaneers,17.0,30.0,47.0,0,Sun,2021-12-05,1:00PM,ATL,TB
+1462,2021,13,Chicago Bears,Arizona Cardinals,22.0,33.0,55.0,0,Sun,2021-12-05,1:00PM,CHI,ARI
+1463,2021,13,Cincinnati Bengals,Los Angeles Chargers,22.0,41.0,63.0,0,Sun,2021-12-05,1:00PM,CIN,LAC
+1464,2021,13,Detroit Lions,Minnesota Vikings,29.0,27.0,56.0,1,Sun,2021-12-05,1:00PM,DET,MIN
+1465,2021,13,New York Jets,Philadelphia Eagles,18.0,33.0,51.0,0,Sun,2021-12-05,1:00PM,NYJ,PHI
+1466,2021,13,Houston Texans,Indianapolis Colts,0.0,31.0,31.0,0,Sun,2021-12-05,1:00PM,HOU,IND
+1467,2021,13,Miami Dolphins,New York Giants,20.0,9.0,29.0,1,Sun,2021-12-05,1:00PM,MIA,NYG
+1468,2021,13,Seattle Seahawks,San Francisco 49ers,30.0,23.0,53.0,1,Sun,2021-12-05,4:00PM,SEA,SF
+1469,2021,13,Las Vegas Raiders,Washington Football Team,15.0,17.0,32.0,0,Sun,2021-12-05,4:05PM,LV,WAS
+1470,2021,13,Los Angeles Rams,Jacksonville Jaguars,37.0,7.0,44.0,1,Sun,2021-12-05,4:25PM,LAR,JAX
+1471,2021,13,Pittsburgh Steelers,Baltimore Ravens,20.0,19.0,39.0,1,Sun,2021-12-05,4:25PM,PIT,BAL
+1472,2021,13,Kansas City Chiefs,Denver Broncos,22.0,9.0,31.0,1,Sun,2021-12-05,8:20PM,KC,DEN
+1473,2021,13,Buffalo Bills,New England Patriots,10.0,14.0,24.0,0,Mon,2021-12-06,8:15PM,BUF,NE
+1474,2021,14,Minnesota Vikings,Pittsburgh Steelers,36.0,28.0,64.0,1,Thu,2021-12-09,8:20PM,MIN,PIT
+1475,2021,14,Carolina Panthers,Atlanta Falcons,21.0,29.0,50.0,0,Sun,2021-12-12,1:00PM,CAR,ATL
+1476,2021,14,Cincinnati Bengals,San Francisco 49ers,23.0,26.0,49.0,0,Sun,2021-12-12,1:00PM,CIN,SF
+1477,2021,14,Cleveland Browns,Baltimore Ravens,24.0,22.0,46.0,1,Sun,2021-12-12,1:00PM,CLE,BAL
+1478,2021,14,Washington Football Team,Dallas Cowboys,20.0,27.0,47.0,0,Sun,2021-12-12,1:00PM,WAS,DAL
+1479,2021,14,Houston Texans,Seattle Seahawks,13.0,33.0,46.0,0,Sun,2021-12-12,1:00PM,HOU,SEA
+1480,2021,14,Tennessee Titans,Jacksonville Jaguars,20.0,0.0,20.0,1,Sun,2021-12-12,1:00PM,TEN,JAX
+1481,2021,14,Kansas City Chiefs,Las Vegas Raiders,48.0,9.0,57.0,1,Sun,2021-12-12,1:00PM,KC,LV
+1482,2021,14,New York Jets,New Orleans Saints,9.0,30.0,39.0,0,Sun,2021-12-12,1:00PM,NYJ,NO
+1483,2021,14,Denver Broncos,Detroit Lions,38.0,10.0,48.0,1,Sun,2021-12-12,4:05PM,DEN,DET
+1484,2021,14,Los Angeles Chargers,New York Giants,37.0,21.0,58.0,1,Sun,2021-12-12,4:05PM,LAC,NYG
+1485,2021,14,Tampa Bay Buccaneers,Buffalo Bills,33.0,27.0,60.0,1,Sun,2021-12-12,4:25PM,TB,BUF
+1486,2021,14,Green Bay Packers,Chicago Bears,45.0,30.0,75.0,1,Sun,2021-12-12,8:20PM,GB,CHI
+1487,2021,14,Arizona Cardinals,Los Angeles Rams,23.0,30.0,53.0,0,Mon,2021-12-13,8:15PM,ARI,LAR
+1488,2021,15,Los Angeles Chargers,Kansas City Chiefs,28.0,34.0,62.0,0,Thu,2021-12-16,8:20PM,LAC,KC
+1489,2021,15,Indianapolis Colts,New England Patriots,27.0,17.0,44.0,1,Sat,2021-12-18,8:20PM,IND,NE
+1490,2021,15,Buffalo Bills,Carolina Panthers,31.0,14.0,45.0,1,Sun,2021-12-19,1:00PM,BUF,CAR
+1491,2021,15,Detroit Lions,Arizona Cardinals,30.0,12.0,42.0,1,Sun,2021-12-19,1:00PM,DET,ARI
+1492,2021,15,New York Giants,Dallas Cowboys,6.0,21.0,27.0,0,Sun,2021-12-19,1:00PM,NYG,DAL
+1493,2021,15,Baltimore Ravens,Green Bay Packers,30.0,31.0,61.0,0,Sun,2021-12-19,1:00PM,BAL,GB
+1494,2021,15,Jacksonville Jaguars,Houston Texans,16.0,30.0,46.0,0,Sun,2021-12-19,1:00PM,JAX,HOU
+1495,2021,15,Miami Dolphins,New York Jets,31.0,24.0,55.0,1,Sun,2021-12-19,1:00PM,MIA,NYJ
+1496,2021,15,Pittsburgh Steelers,Tennessee Titans,19.0,13.0,32.0,1,Sun,2021-12-19,1:00PM,PIT,TEN
+1497,2021,15,San Francisco 49ers,Atlanta Falcons,31.0,13.0,44.0,1,Sun,2021-12-19,4:05PM,SF,ATL
+1498,2021,15,Denver Broncos,Cincinnati Bengals,10.0,15.0,25.0,0,Sun,2021-12-19,4:05PM,DEN,CIN
+1499,2021,15,Tampa Bay Buccaneers,New Orleans Saints,0.0,9.0,9.0,0,Sun,2021-12-19,8:20PM,TB,NO
+1500,2021,15,Cleveland Browns,Las Vegas Raiders,14.0,16.0,30.0,0,Mon,2021-12-20,5:00PM,CLE,LV
+1501,2021,15,Chicago Bears,Minnesota Vikings,9.0,17.0,26.0,0,Mon,2021-12-20,8:15PM,CHI,MIN
+1502,2021,15,Philadelphia Eagles,Washington Football Team,27.0,17.0,44.0,1,Tue,2021-12-21,7:00PM,PHI,WAS
+1503,2021,15,Los Angeles Rams,Seattle Seahawks,20.0,10.0,30.0,1,Tue,2021-12-21,7:00PM,LAR,SEA
+1504,2021,16,Tennessee Titans,San Francisco 49ers,20.0,17.0,37.0,1,Thu,2021-12-23,8:20PM,TEN,SF
+1505,2021,16,Green Bay Packers,Cleveland Browns,24.0,22.0,46.0,1,Sat,2021-12-25,4:30PM,GB,CLE
+1506,2021,16,Arizona Cardinals,Indianapolis Colts,16.0,22.0,38.0,0,Sat,2021-12-25,8:15PM,ARI,IND
+1507,2021,16,Atlanta Falcons,Detroit Lions,20.0,16.0,36.0,1,Sun,2021-12-26,1:00PM,ATL,DET
+1508,2021,16,New England Patriots,Buffalo Bills,21.0,33.0,54.0,0,Sun,2021-12-26,1:00PM,NE,BUF
+1509,2021,16,Carolina Panthers,Tampa Bay Buccaneers,6.0,32.0,38.0,0,Sun,2021-12-26,1:00PM,CAR,TB
+1510,2021,16,Cincinnati Bengals,Baltimore Ravens,41.0,21.0,62.0,1,Sun,2021-12-26,1:00PM,CIN,BAL
+1511,2021,16,Houston Texans,Los Angeles Chargers,41.0,29.0,70.0,1,Sun,2021-12-26,1:00PM,HOU,LAC
+1512,2021,16,New York Jets,Jacksonville Jaguars,26.0,21.0,47.0,1,Sun,2021-12-26,1:00PM,NYJ,JAX
+1513,2021,16,Minnesota Vikings,Los Angeles Rams,23.0,30.0,53.0,0,Sun,2021-12-26,1:00PM,MIN,LAR
+1514,2021,16,Philadelphia Eagles,New York Giants,34.0,10.0,44.0,1,Sun,2021-12-26,1:00PM,PHI,NYG
+1515,2021,16,Seattle Seahawks,Chicago Bears,24.0,25.0,49.0,0,Sun,2021-12-26,4:05PM,SEA,CHI
+1516,2021,16,Las Vegas Raiders,Denver Broncos,17.0,13.0,30.0,1,Sun,2021-12-26,4:25PM,LV,DEN
+1517,2021,16,Kansas City Chiefs,Pittsburgh Steelers,36.0,10.0,46.0,1,Sun,2021-12-26,4:25PM,KC,PIT
+1518,2021,16,Dallas Cowboys,Washington Football Team,56.0,14.0,70.0,1,Sun,2021-12-26,8:20PM,DAL,WAS
+1519,2021,16,New Orleans Saints,Miami Dolphins,3.0,20.0,23.0,0,Mon,2021-12-27,8:15PM,NO,MIA
+1520,2021,17,Buffalo Bills,Atlanta Falcons,29.0,15.0,44.0,1,Sun,2022-01-02,1:00PM,BUF,ATL
+1521,2021,17,New Orleans Saints,Carolina Panthers,18.0,10.0,28.0,1,Sun,2022-01-02,1:00PM,NO,CAR
+1522,2021,17,Chicago Bears,New York Giants,29.0,3.0,32.0,1,Sun,2022-01-02,1:00PM,CHI,NYG
+1523,2021,17,Cincinnati Bengals,Kansas City Chiefs,34.0,31.0,65.0,1,Sun,2022-01-02,1:00PM,CIN,KC
+1524,2021,17,Indianapolis Colts,Las Vegas Raiders,20.0,23.0,43.0,0,Sun,2022-01-02,1:00PM,IND,LV
+1525,2021,17,Dallas Cowboys,Arizona Cardinals,22.0,25.0,47.0,0,Sun,2022-01-02,1:00PM,DAL,ARI
+1526,2021,17,New England Patriots,Jacksonville Jaguars,50.0,10.0,60.0,1,Sun,2022-01-02,1:00PM,NE,JAX
+1527,2021,17,Tennessee Titans,Miami Dolphins,34.0,3.0,37.0,1,Sun,2022-01-02,1:00PM,TEN,MIA
+1528,2021,17,New York Jets,Tampa Bay Buccaneers,24.0,28.0,52.0,0,Sun,2022-01-02,1:00PM,NYJ,TB
+1529,2021,17,Washington Football Team,Philadelphia Eagles,16.0,20.0,36.0,0,Sun,2022-01-02,1:00PM,WAS,PHI
+1530,2021,17,Los Angeles Chargers,Denver Broncos,34.0,13.0,47.0,1,Sun,2022-01-02,4:05PM,LAC,DEN
+1531,2021,17,San Francisco 49ers,Houston Texans,23.0,7.0,30.0,1,Sun,2022-01-02,4:05PM,SF,HOU
+1532,2021,17,Seattle Seahawks,Detroit Lions,51.0,29.0,80.0,1,Sun,2022-01-02,4:25PM,SEA,DET
+1533,2021,17,Baltimore Ravens,Los Angeles Rams,19.0,20.0,39.0,0,Sun,2022-01-02,4:25PM,BAL,LAR
+1534,2021,17,Green Bay Packers,Minnesota Vikings,37.0,10.0,47.0,1,Sun,2022-01-02,8:20PM,GB,MIN
+1535,2021,17,Pittsburgh Steelers,Cleveland Browns,26.0,14.0,40.0,1,Mon,2022-01-03,8:15PM,PIT,CLE
+1536,2021,18,Denver Broncos,Kansas City Chiefs,24.0,28.0,52.0,0,Sat,2022-01-08,4:30PM,DEN,KC
+1537,2021,18,Philadelphia Eagles,Dallas Cowboys,26.0,51.0,77.0,0,Sat,2022-01-08,8:15PM,PHI,DAL
+1538,2021,18,Atlanta Falcons,New Orleans Saints,20.0,30.0,50.0,0,Sun,2022-01-09,1:00PM,ATL,NO
+1539,2021,18,Buffalo Bills,New York Jets,27.0,10.0,37.0,1,Sun,2022-01-09,1:00PM,BUF,NYJ
+1540,2021,18,Tampa Bay Buccaneers,Carolina Panthers,41.0,17.0,58.0,1,Sun,2022-01-09,1:00PM,TB,CAR
+1541,2021,18,Minnesota Vikings,Chicago Bears,31.0,17.0,48.0,1,Sun,2022-01-09,1:00PM,MIN,CHI
+1542,2021,18,Cleveland Browns,Cincinnati Bengals,21.0,16.0,37.0,1,Sun,2022-01-09,1:00PM,CLE,CIN
+1543,2021,18,Jacksonville Jaguars,Indianapolis Colts,26.0,11.0,37.0,1,Sun,2022-01-09,1:00PM,JAX,IND
+1544,2021,18,Detroit Lions,Green Bay Packers,37.0,30.0,67.0,1,Sun,2022-01-09,1:00PM,DET,GB
+1545,2021,18,Houston Texans,Tennessee Titans,25.0,28.0,53.0,0,Sun,2022-01-09,1:00PM,HOU,TEN
+1546,2021,18,Miami Dolphins,New England Patriots,33.0,24.0,57.0,1,Sun,2022-01-09,1:00PM,MIA,NE
+1547,2021,18,New York Giants,Washington Football Team,7.0,22.0,29.0,0,Sun,2022-01-09,1:00PM,NYG,WAS
+1548,2021,18,Baltimore Ravens,Pittsburgh Steelers,13.0,16.0,29.0,0,Sun,2022-01-09,1:00PM,BAL,PIT
+1549,2021,18,Arizona Cardinals,Seattle Seahawks,30.0,38.0,68.0,0,Sun,2022-01-09,4:25PM,ARI,SEA
+1550,2021,18,Los Angeles Rams,San Francisco 49ers,24.0,27.0,51.0,0,Sun,2022-01-09,4:25PM,LAR,SF
+1551,2021,18,Las Vegas Raiders,Los Angeles Chargers,35.0,32.0,67.0,1,Sun,2022-01-09,8:25PM,LV,LAC
+1552,2022,1,Los Angeles Rams,Buffalo Bills,10.0,31.0,41.0,0,Thu,2022-09-08,8:20PM,LAR,BUF
+1553,2022,1,Atlanta Falcons,New Orleans Saints,26.0,27.0,53.0,0,Sun,2022-09-11,1:00PM,ATL,NO
+1554,2022,1,Carolina Panthers,Cleveland Browns,24.0,26.0,50.0,0,Sun,2022-09-11,1:00PM,CAR,CLE
+1555,2022,1,Chicago Bears,San Francisco 49ers,19.0,10.0,29.0,1,Sun,2022-09-11,1:00PM,CHI,SF
+1556,2022,1,Cincinnati Bengals,Pittsburgh Steelers,20.0,23.0,43.0,0,Sun,2022-09-11,1:00PM,CIN,PIT
+1557,2022,1,Houston Texans,Indianapolis Colts,20.0,20.0,40.0,1,Sun,2022-09-11,1:00PM,HOU,IND
+1558,2022,1,Detroit Lions,Philadelphia Eagles,35.0,38.0,73.0,0,Sun,2022-09-11,1:00PM,DET,PHI
+1559,2022,1,Washington Commanders,Jacksonville Jaguars,28.0,22.0,50.0,1,Sun,2022-09-11,1:00PM,WAS,JAX
+1560,2022,1,Miami Dolphins,New England Patriots,20.0,7.0,27.0,1,Sun,2022-09-11,1:00PM,MIA,NE
+1561,2022,1,New York Jets,Baltimore Ravens,9.0,24.0,33.0,0,Sun,2022-09-11,1:00PM,NYJ,BAL
+1562,2022,1,Arizona Cardinals,Kansas City Chiefs,21.0,44.0,65.0,0,Sun,2022-09-11,4:25PM,ARI,KC
+1563,2022,1,Minnesota Vikings,Green Bay Packers,23.0,7.0,30.0,1,Sun,2022-09-11,4:25PM,MIN,GB
+1564,2022,1,Tennessee Titans,New York Giants,20.0,21.0,41.0,0,Sun,2022-09-11,4:25PM,TEN,NYG
+1565,2022,1,Los Angeles Chargers,Las Vegas Raiders,24.0,19.0,43.0,1,Sun,2022-09-11,4:25PM,LAC,LV
+1566,2022,1,Dallas Cowboys,Tampa Bay Buccaneers,3.0,19.0,22.0,0,Sun,2022-09-11,8:20PM,DAL,TB
+1567,2022,1,Seattle Seahawks,Denver Broncos,17.0,16.0,33.0,1,Mon,2022-09-12,8:20PM,SEA,DEN
+1568,2022,2,Kansas City Chiefs,Los Angeles Chargers,27.0,24.0,51.0,1,Thu,2022-09-15,8:15PM,KC,LAC
+1569,2022,2,New York Giants,Carolina Panthers,19.0,16.0,35.0,1,Sun,2022-09-18,1:00PM,NYG,CAR
+1570,2022,2,Cleveland Browns,New York Jets,30.0,31.0,61.0,0,Sun,2022-09-18,1:00PM,CLE,NYJ
+1571,2022,2,Jacksonville Jaguars,Indianapolis Colts,24.0,0.0,24.0,1,Sun,2022-09-18,1:00PM,JAX,IND
+1572,2022,2,Detroit Lions,Washington Commanders,36.0,27.0,63.0,1,Sun,2022-09-18,1:00PM,DET,WAS
+1573,2022,2,Baltimore Ravens,Miami Dolphins,38.0,42.0,80.0,0,Sun,2022-09-18,1:00PM,BAL,MIA
+1574,2022,2,New Orleans Saints,Tampa Bay Buccaneers,10.0,20.0,30.0,0,Sun,2022-09-18,1:00PM,NO,TB
+1575,2022,2,Pittsburgh Steelers,New England Patriots,14.0,17.0,31.0,0,Sun,2022-09-18,1:00PM,PIT,NE
+1576,2022,2,Los Angeles Rams,Atlanta Falcons,31.0,27.0,58.0,1,Sun,2022-09-18,4:05PM,LAR,ATL
+1577,2022,2,San Francisco 49ers,Seattle Seahawks,27.0,7.0,34.0,1,Sun,2022-09-18,4:05PM,SF,SEA
+1578,2022,2,Dallas Cowboys,Cincinnati Bengals,20.0,17.0,37.0,1,Sun,2022-09-18,4:25PM,DAL,CIN
+1579,2022,2,Las Vegas Raiders,Arizona Cardinals,23.0,29.0,52.0,0,Sun,2022-09-18,4:25PM,LV,ARI
+1580,2022,2,Denver Broncos,Houston Texans,16.0,9.0,25.0,1,Sun,2022-09-18,4:25PM,DEN,HOU
+1581,2022,2,Green Bay Packers,Chicago Bears,27.0,10.0,37.0,1,Sun,2022-09-18,8:20PM,GB,CHI
+1582,2022,2,Buffalo Bills,Tennessee Titans,41.0,7.0,48.0,1,Mon,2022-09-19,7:15PM,BUF,TEN
+1583,2022,2,Philadelphia Eagles,Minnesota Vikings,24.0,7.0,31.0,1,Mon,2022-09-19,8:30PM,PHI,MIN
+1584,2022,3,Cleveland Browns,Pittsburgh Steelers,29.0,17.0,46.0,1,Thu,2022-09-22,8:15PM,CLE,PIT
+1585,2022,3,Miami Dolphins,Buffalo Bills,21.0,19.0,40.0,1,Sun,2022-09-25,1:00PM,MIA,BUF
+1586,2022,3,Carolina Panthers,New Orleans Saints,22.0,14.0,36.0,1,Sun,2022-09-25,1:00PM,CAR,NO
+1587,2022,3,Chicago Bears,Houston Texans,23.0,20.0,43.0,1,Sun,2022-09-25,1:00PM,CHI,HOU
+1588,2022,3,New York Jets,Cincinnati Bengals,12.0,27.0,39.0,0,Sun,2022-09-25,1:00PM,NYJ,CIN
+1589,2022,3,Indianapolis Colts,Kansas City Chiefs,20.0,17.0,37.0,1,Sun,2022-09-25,1:00PM,IND,KC
+1590,2022,3,Minnesota Vikings,Detroit Lions,28.0,24.0,52.0,1,Sun,2022-09-25,1:00PM,MIN,DET
+1591,2022,3,New England Patriots,Baltimore Ravens,26.0,37.0,63.0,0,Sun,2022-09-25,1:00PM,NE,BAL
+1592,2022,3,Tennessee Titans,Las Vegas Raiders,24.0,22.0,46.0,1,Sun,2022-09-25,1:00PM,TEN,LV
+1593,2022,3,Washington Commanders,Philadelphia Eagles,8.0,24.0,32.0,0,Sun,2022-09-25,1:00PM,WAS,PHI
+1594,2022,3,Los Angeles Chargers,Jacksonville Jaguars,10.0,38.0,48.0,0,Sun,2022-09-25,4:05PM,LAC,JAX
+1595,2022,3,Seattle Seahawks,Atlanta Falcons,23.0,27.0,50.0,0,Sun,2022-09-25,4:25PM,SEA,ATL
+1596,2022,3,Arizona Cardinals,Los Angeles Rams,12.0,20.0,32.0,0,Sun,2022-09-25,4:25PM,ARI,LAR
+1597,2022,3,Tampa Bay Buccaneers,Green Bay Packers,12.0,14.0,26.0,0,Sun,2022-09-25,4:25PM,TB,GB
+1598,2022,3,Denver Broncos,San Francisco 49ers,11.0,10.0,21.0,1,Sun,2022-09-25,8:20PM,DEN,SF
+1599,2022,3,New York Giants,Dallas Cowboys,16.0,23.0,39.0,0,Mon,2022-09-26,8:15PM,NYG,DAL
+1600,2022,4,Cincinnati Bengals,Miami Dolphins,27.0,15.0,42.0,1,Thu,2022-09-29,8:15PM,CIN,MIA
+1601,2022,4,New Orleans Saints,Minnesota Vikings,25.0,28.0,53.0,0,Sun,2022-10-02,9:30AM,NO,MIN
+1602,2022,4,Atlanta Falcons,Cleveland Browns,23.0,20.0,43.0,1,Sun,2022-10-02,1:00PM,ATL,CLE
+1603,2022,4,Baltimore Ravens,Buffalo Bills,20.0,23.0,43.0,0,Sun,2022-10-02,1:00PM,BAL,BUF
+1604,2022,4,New York Giants,Chicago Bears,20.0,12.0,32.0,1,Sun,2022-10-02,1:00PM,NYG,CHI
+1605,2022,4,Indianapolis Colts,Tennessee Titans,17.0,24.0,41.0,0,Sun,2022-10-02,1:00PM,IND,TEN
+1606,2022,4,Dallas Cowboys,Washington Commanders,25.0,10.0,35.0,1,Sun,2022-10-02,1:00PM,DAL,WAS
+1607,2022,4,Detroit Lions,Seattle Seahawks,45.0,48.0,93.0,0,Sun,2022-10-02,1:00PM,DET,SEA
+1608,2022,4,Houston Texans,Los Angeles Chargers,24.0,34.0,58.0,0,Sun,2022-10-02,1:00PM,HOU,LAC
+1609,2022,4,Philadelphia Eagles,Jacksonville Jaguars,29.0,21.0,50.0,1,Sun,2022-10-02,1:00PM,PHI,JAX
+1610,2022,4,Pittsburgh Steelers,New York Jets,20.0,24.0,44.0,0,Sun,2022-10-02,1:00PM,PIT,NYJ
+1611,2022,4,Carolina Panthers,Arizona Cardinals,16.0,26.0,42.0,0,Sun,2022-10-02,4:05PM,CAR,ARI
+1612,2022,4,Las Vegas Raiders,Denver Broncos,32.0,23.0,55.0,1,Sun,2022-10-02,4:25PM,LV,DEN
+1613,2022,4,Green Bay Packers,New England Patriots,27.0,24.0,51.0,1,Sun,2022-10-02,4:25PM,GB,NE
+1614,2022,4,Tampa Bay Buccaneers,Kansas City Chiefs,31.0,41.0,72.0,0,Sun,2022-10-02,8:20PM,TB,KC
+1615,2022,4,San Francisco 49ers,Los Angeles Rams,24.0,9.0,33.0,1,Mon,2022-10-03,8:15PM,SF,LAR
+1616,2022,5,Denver Broncos,Indianapolis Colts,9.0,12.0,21.0,0,Thu,2022-10-06,8:15PM,DEN,IND
+1617,2022,5,Green Bay Packers,New York Giants,22.0,27.0,49.0,0,Sun,2022-10-09,9:30AM,GB,NYG
+1618,2022,5,Tampa Bay Buccaneers,Atlanta Falcons,21.0,15.0,36.0,1,Sun,2022-10-09,1:00PM,TB,ATL
+1619,2022,5,Buffalo Bills,Pittsburgh Steelers,38.0,3.0,41.0,1,Sun,2022-10-09,1:00PM,BUF,PIT
+1620,2022,5,Minnesota Vikings,Chicago Bears,29.0,22.0,51.0,1,Sun,2022-10-09,1:00PM,MIN,CHI
+1621,2022,5,Cleveland Browns,Los Angeles Chargers,28.0,30.0,58.0,0,Sun,2022-10-09,1:00PM,CLE,LAC
+1622,2022,5,New England Patriots,Detroit Lions,29.0,0.0,29.0,1,Sun,2022-10-09,1:00PM,NE,DET
+1623,2022,5,Jacksonville Jaguars,Houston Texans,6.0,13.0,19.0,0,Sun,2022-10-09,1:00PM,JAX,HOU
+1624,2022,5,New York Jets,Miami Dolphins,40.0,17.0,57.0,1,Sun,2022-10-09,1:00PM,NYJ,MIA
+1625,2022,5,New Orleans Saints,Seattle Seahawks,39.0,32.0,71.0,1,Sun,2022-10-09,1:00PM,NO,SEA
+1626,2022,5,Washington Commanders,Tennessee Titans,17.0,21.0,38.0,0,Sun,2022-10-09,1:00PM,WAS,TEN
+1627,2022,5,Carolina Panthers,San Francisco 49ers,15.0,37.0,52.0,0,Sun,2022-10-09,4:05PM,CAR,SF
+1628,2022,5,Arizona Cardinals,Philadelphia Eagles,17.0,20.0,37.0,0,Sun,2022-10-09,4:25PM,ARI,PHI
+1629,2022,5,Los Angeles Rams,Dallas Cowboys,10.0,22.0,32.0,0,Sun,2022-10-09,4:25PM,LAR,DAL
+1630,2022,5,Baltimore Ravens,Cincinnati Bengals,19.0,17.0,36.0,1,Sun,2022-10-09,8:20PM,BAL,CIN
+1631,2022,5,Kansas City Chiefs,Las Vegas Raiders,30.0,29.0,59.0,1,Mon,2022-10-10,8:15PM,KC,LV
+1632,2022,6,Chicago Bears,Washington Commanders,7.0,12.0,19.0,0,Thu,2022-10-13,8:15PM,CHI,WAS
+1633,2022,6,Atlanta Falcons,San Francisco 49ers,28.0,14.0,42.0,1,Sun,2022-10-16,1:00PM,ATL,SF
+1634,2022,6,New Orleans Saints,Cincinnati Bengals,26.0,30.0,56.0,0,Sun,2022-10-16,1:00PM,NO,CIN
+1635,2022,6,Cleveland Browns,New England Patriots,15.0,38.0,53.0,0,Sun,2022-10-16,1:00PM,CLE,NE
+1636,2022,6,Indianapolis Colts,Jacksonville Jaguars,34.0,27.0,61.0,1,Sun,2022-10-16,1:00PM,IND,JAX
+1637,2022,6,Green Bay Packers,New York Jets,10.0,27.0,37.0,0,Sun,2022-10-16,1:00PM,GB,NYJ
+1638,2022,6,Miami Dolphins,Minnesota Vikings,16.0,24.0,40.0,0,Sun,2022-10-16,1:00PM,MIA,MIN
+1639,2022,6,New York Giants,Baltimore Ravens,24.0,20.0,44.0,1,Sun,2022-10-16,1:00PM,NYG,BAL
+1640,2022,6,Pittsburgh Steelers,Tampa Bay Buccaneers,20.0,18.0,38.0,1,Sun,2022-10-16,1:00PM,PIT,TB
+1641,2022,6,Los Angeles Rams,Carolina Panthers,24.0,10.0,34.0,1,Sun,2022-10-16,4:05PM,LAR,CAR
+1642,2022,6,Seattle Seahawks,Arizona Cardinals,19.0,9.0,28.0,1,Sun,2022-10-16,4:05PM,SEA,ARI
+1643,2022,6,Kansas City Chiefs,Buffalo Bills,20.0,24.0,44.0,0,Sun,2022-10-16,4:25PM,KC,BUF
+1644,2022,6,Philadelphia Eagles,Dallas Cowboys,26.0,17.0,43.0,1,Sun,2022-10-16,8:20PM,PHI,DAL
+1645,2022,6,Los Angeles Chargers,Denver Broncos,19.0,16.0,35.0,1,Mon,2022-10-17,8:15PM,LAC,DEN
+1646,2022,7,Arizona Cardinals,New Orleans Saints,42.0,34.0,76.0,1,Thu,2022-10-20,8:15PM,ARI,NO
+1647,2022,7,Cincinnati Bengals,Atlanta Falcons,35.0,17.0,52.0,1,Sun,2022-10-23,1:00PM,CIN,ATL
+1648,2022,7,Carolina Panthers,Tampa Bay Buccaneers,21.0,3.0,24.0,1,Sun,2022-10-23,1:00PM,CAR,TB
+1649,2022,7,Baltimore Ravens,Cleveland Browns,23.0,20.0,43.0,1,Sun,2022-10-23,1:00PM,BAL,CLE
+1650,2022,7,Tennessee Titans,Indianapolis Colts,19.0,10.0,29.0,1,Sun,2022-10-23,1:00PM,TEN,IND
+1651,2022,7,Dallas Cowboys,Detroit Lions,24.0,6.0,30.0,1,Sun,2022-10-23,1:00PM,DAL,DET
+1652,2022,7,Washington Commanders,Green Bay Packers,23.0,21.0,44.0,1,Sun,2022-10-23,1:00PM,WAS,GB
+1653,2022,7,Jacksonville Jaguars,New York Giants,17.0,23.0,40.0,0,Sun,2022-10-23,1:00PM,JAX,NYG
+1654,2022,7,Las Vegas Raiders,Houston Texans,38.0,20.0,58.0,1,Sun,2022-10-23,4:05PM,LV,HOU
+1655,2022,7,Denver Broncos,New York Jets,9.0,16.0,25.0,0,Sun,2022-10-23,4:05PM,DEN,NYJ
+1656,2022,7,San Francisco 49ers,Kansas City Chiefs,23.0,44.0,67.0,0,Sun,2022-10-23,4:25PM,SF,KC
+1657,2022,7,Los Angeles Chargers,Seattle Seahawks,23.0,37.0,60.0,0,Sun,2022-10-23,4:25PM,LAC,SEA
+1658,2022,7,Miami Dolphins,Pittsburgh Steelers,16.0,10.0,26.0,1,Sun,2022-10-23,8:20PM,MIA,PIT
+1659,2022,7,New England Patriots,Chicago Bears,14.0,33.0,47.0,0,Mon,2022-10-24,8:15PM,NE,CHI
+1660,2022,8,Tampa Bay Buccaneers,Baltimore Ravens,22.0,27.0,49.0,0,Thu,2022-10-27,8:15PM,TB,BAL
+1661,2022,8,Jacksonville Jaguars,Denver Broncos,17.0,21.0,38.0,0,Sun,2022-10-30,9:30AM,JAX,DEN
+1662,2022,8,Detroit Lions,Miami Dolphins,27.0,31.0,58.0,0,Sun,2022-10-30,1:00PM,DET,MIA
+1663,2022,8,Philadelphia Eagles,Pittsburgh Steelers,35.0,13.0,48.0,1,Sun,2022-10-30,1:00PM,PHI,PIT
+1664,2022,8,Atlanta Falcons,Carolina Panthers,37.0,34.0,71.0,1,Sun,2022-10-30,1:00PM,ATL,CAR
+1665,2022,8,Dallas Cowboys,Chicago Bears,49.0,29.0,78.0,1,Sun,2022-10-30,1:00PM,DAL,CHI
+1666,2022,8,Minnesota Vikings,Arizona Cardinals,34.0,26.0,60.0,1,Sun,2022-10-30,1:00PM,MIN,ARI
+1667,2022,8,New Orleans Saints,Las Vegas Raiders,24.0,0.0,24.0,1,Sun,2022-10-30,1:00PM,NO,LV
+1668,2022,8,New York Jets,New England Patriots,17.0,22.0,39.0,0,Sun,2022-10-30,1:00PM,NYJ,NE
+1669,2022,8,Houston Texans,Tennessee Titans,10.0,17.0,27.0,0,Sun,2022-10-30,4:05PM,HOU,TEN
+1670,2022,8,Los Angeles Rams,San Francisco 49ers,14.0,31.0,45.0,0,Sun,2022-10-30,4:25PM,LAR,SF
+1671,2022,8,Indianapolis Colts,Washington Commanders,16.0,17.0,33.0,0,Sun,2022-10-30,4:25PM,IND,WAS
+1672,2022,8,Seattle Seahawks,New York Giants,27.0,13.0,40.0,1,Sun,2022-10-30,4:25PM,SEA,NYG
+1673,2022,8,Buffalo Bills,Green Bay Packers,27.0,17.0,44.0,1,Sun,2022-10-30,8:20PM,BUF,GB
+1674,2022,8,Cleveland Browns,Cincinnati Bengals,32.0,13.0,45.0,1,Mon,2022-10-31,8:15PM,CLE,CIN
+1675,2022,9,Houston Texans,Philadelphia Eagles,17.0,29.0,46.0,0,Thu,2022-11-03,8:15PM,HOU,PHI
+1676,2022,9,New York Jets,Buffalo Bills,20.0,17.0,37.0,1,Sun,2022-11-06,1:00PM,NYJ,BUF
+1677,2022,9,Detroit Lions,Green Bay Packers,15.0,9.0,24.0,1,Sun,2022-11-06,1:00PM,DET,GB
+1678,2022,9,Washington Commanders,Minnesota Vikings,17.0,20.0,37.0,0,Sun,2022-11-06,1:00PM,WAS,MIN
+1679,2022,9,Atlanta Falcons,Los Angeles Chargers,17.0,20.0,37.0,0,Sun,2022-11-06,1:00PM,ATL,LAC
+1680,2022,9,Cincinnati Bengals,Carolina Panthers,42.0,21.0,63.0,1,Sun,2022-11-06,1:00PM,CIN,CAR
+1681,2022,9,Chicago Bears,Miami Dolphins,32.0,35.0,67.0,0,Sun,2022-11-06,1:00PM,CHI,MIA
+1682,2022,9,New England Patriots,Indianapolis Colts,26.0,3.0,29.0,1,Sun,2022-11-06,1:00PM,NE,IND
+1683,2022,9,Jacksonville Jaguars,Las Vegas Raiders,27.0,20.0,47.0,1,Sun,2022-11-06,1:00PM,JAX,LV
+1684,2022,9,Arizona Cardinals,Seattle Seahawks,21.0,31.0,52.0,0,Sun,2022-11-06,4:05PM,ARI,SEA
+1685,2022,9,Tampa Bay Buccaneers,Los Angeles Rams,16.0,13.0,29.0,1,Sun,2022-11-06,4:25PM,TB,LAR
+1686,2022,9,Kansas City Chiefs,Tennessee Titans,20.0,17.0,37.0,1,Sun,2022-11-06,8:20PM,KC,TEN
+1687,2022,9,New Orleans Saints,Baltimore Ravens,13.0,27.0,40.0,0,Mon,2022-11-07,8:15PM,NO,BAL
+1688,2022,10,Carolina Panthers,Atlanta Falcons,25.0,15.0,40.0,1,Thu,2022-11-10,8:15PM,CAR,ATL
+1689,2022,10,Tampa Bay Buccaneers,Seattle Seahawks,21.0,16.0,37.0,1,Sun,2022-11-13,9:30AM,TB,SEA
+1690,2022,10,Buffalo Bills,Minnesota Vikings,30.0,33.0,63.0,0,Sun,2022-11-13,1:00PM,BUF,MIN
+1691,2022,10,Miami Dolphins,Cleveland Browns,39.0,17.0,56.0,1,Sun,2022-11-13,1:00PM,MIA,CLE
+1692,2022,10,Tennessee Titans,Denver Broncos,17.0,10.0,27.0,1,Sun,2022-11-13,1:00PM,TEN,DEN
+1693,2022,10,New York Giants,Houston Texans,24.0,16.0,40.0,1,Sun,2022-11-13,1:00PM,NYG,HOU
+1694,2022,10,Chicago Bears,Detroit Lions,30.0,31.0,61.0,0,Sun,2022-11-13,1:00PM,CHI,DET
+1695,2022,10,Kansas City Chiefs,Jacksonville Jaguars,27.0,17.0,44.0,1,Sun,2022-11-13,1:00PM,KC,JAX
+1696,2022,10,Pittsburgh Steelers,New Orleans Saints,20.0,10.0,30.0,1,Sun,2022-11-13,1:00PM,PIT,NO
+1697,2022,10,Las Vegas Raiders,Indianapolis Colts,20.0,25.0,45.0,0,Sun,2022-11-13,4:05PM,LV,IND
+1698,2022,10,Green Bay Packers,Dallas Cowboys,31.0,28.0,59.0,1,Sun,2022-11-13,4:25PM,GB,DAL
+1699,2022,10,Los Angeles Rams,Arizona Cardinals,17.0,27.0,44.0,0,Sun,2022-11-13,4:25PM,LAR,ARI
+1700,2022,10,San Francisco 49ers,Los Angeles Chargers,22.0,16.0,38.0,1,Sun,2022-11-13,8:20PM,SF,LAC
+1701,2022,10,Philadelphia Eagles,Washington Commanders,21.0,32.0,53.0,0,Mon,2022-11-14,8:15PM,PHI,WAS
+1702,2022,11,Green Bay Packers,Tennessee Titans,17.0,27.0,44.0,0,Thu,2022-11-17,8:15PM,GB,TEN
+1703,2022,11,Buffalo Bills,Cleveland Browns,31.0,23.0,54.0,1,Sun,2022-11-20,1:00PM,BUF,CLE
+1704,2022,11,New York Giants,Detroit Lions,18.0,31.0,49.0,0,Sun,2022-11-20,1:00PM,NYG,DET
+1705,2022,11,Houston Texans,Washington Commanders,10.0,23.0,33.0,0,Sun,2022-11-20,1:00PM,HOU,WAS
+1706,2022,11,New England Patriots,New York Jets,10.0,3.0,13.0,1,Sun,2022-11-20,1:00PM,NE,NYJ
+1707,2022,11,Atlanta Falcons,Chicago Bears,27.0,24.0,51.0,1,Sun,2022-11-20,1:00PM,ATL,CHI
+1708,2022,11,Baltimore Ravens,Carolina Panthers,13.0,3.0,16.0,1,Sun,2022-11-20,1:00PM,BAL,CAR
+1709,2022,11,Indianapolis Colts,Philadelphia Eagles,16.0,17.0,33.0,0,Sun,2022-11-20,1:00PM,IND,PHI
+1710,2022,11,New Orleans Saints,Los Angeles Rams,27.0,20.0,47.0,1,Sun,2022-11-20,1:00PM,NO,LAR
+1711,2022,11,Denver Broncos,Las Vegas Raiders,16.0,22.0,38.0,0,Sun,2022-11-20,4:05PM,DEN,LV
+1712,2022,11,Pittsburgh Steelers,Cincinnati Bengals,30.0,37.0,67.0,0,Sun,2022-11-20,4:25PM,PIT,CIN
+1713,2022,11,Minnesota Vikings,Dallas Cowboys,3.0,40.0,43.0,0,Sun,2022-11-20,4:25PM,MIN,DAL
+1714,2022,11,Los Angeles Chargers,Kansas City Chiefs,27.0,30.0,57.0,0,Sun,2022-11-20,8:20PM,LAC,KC
+1715,2022,11,Arizona Cardinals,San Francisco 49ers,10.0,38.0,48.0,0,Mon,2022-11-21,8:15PM,ARI,SF
+1716,2022,12,Detroit Lions,Buffalo Bills,25.0,28.0,53.0,0,Thu,2022-11-24,12:30PM,DET,BUF
+1717,2022,12,Dallas Cowboys,New York Giants,28.0,20.0,48.0,1,Thu,2022-11-24,4:30PM,DAL,NYG
+1718,2022,12,Minnesota Vikings,New England Patriots,33.0,26.0,59.0,1,Thu,2022-11-24,8:20PM,MIN,NE
+1719,2022,12,Tennessee Titans,Cincinnati Bengals,16.0,20.0,36.0,0,Sun,2022-11-27,1:00PM,TEN,CIN
+1720,2022,12,Cleveland Browns,Tampa Bay Buccaneers,23.0,17.0,40.0,1,Sun,2022-11-27,1:00PM,CLE,TB
+1721,2022,12,Miami Dolphins,Houston Texans,30.0,15.0,45.0,1,Sun,2022-11-27,1:00PM,MIA,HOU
+1722,2022,12,Jacksonville Jaguars,Baltimore Ravens,28.0,27.0,55.0,1,Sun,2022-11-27,1:00PM,JAX,BAL
+1723,2022,12,Washington Commanders,Atlanta Falcons,19.0,13.0,32.0,1,Sun,2022-11-27,1:00PM,WAS,ATL
+1724,2022,12,Carolina Panthers,Denver Broncos,23.0,10.0,33.0,1,Sun,2022-11-27,1:00PM,CAR,DEN
+1725,2022,12,New York Jets,Chicago Bears,31.0,10.0,41.0,1,Sun,2022-11-27,1:00PM,NYJ,CHI
+1726,2022,12,Seattle Seahawks,Las Vegas Raiders,34.0,40.0,74.0,0,Sun,2022-11-27,4:05PM,SEA,LV
+1727,2022,12,Arizona Cardinals,Los Angeles Chargers,24.0,25.0,49.0,0,Sun,2022-11-27,4:05PM,ARI,LAC
+1728,2022,12,Kansas City Chiefs,Los Angeles Rams,26.0,10.0,36.0,1,Sun,2022-11-27,4:25PM,KC,LAR
+1729,2022,12,San Francisco 49ers,New Orleans Saints,13.0,0.0,13.0,1,Sun,2022-11-27,4:25PM,SF,NO
+1730,2022,12,Philadelphia Eagles,Green Bay Packers,40.0,33.0,73.0,1,Sun,2022-11-27,8:20PM,PHI,GB
+1731,2022,12,Indianapolis Colts,Pittsburgh Steelers,17.0,24.0,41.0,0,Mon,2022-11-28,8:15PM,IND,PIT
+1732,2022,13,New England Patriots,Buffalo Bills,10.0,24.0,34.0,0,Thu,2022-12-01,8:15PM,NE,BUF
